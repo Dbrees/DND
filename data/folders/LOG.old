@@ -1,10 +1,7 @@
-2023/08/30-21:23:37.738 2334 Recovering log #15
-2023/08/30-21:23:37.738 2334 Level-0 table #17: started
-2023/08/30-21:23:37.766 2334 Level-0 table #17: 199 bytes OK
-2023/08/30-21:23:37.804 2334 Delete type=0 #15
-2023/08/30-21:23:37.804 2334 Delete type=3 #14
-2023/08/30-21:24:23.173 4a50 Level-0 table #20: started
-2023/08/30-21:24:23.173 4a50 Level-0 table #20: 0 bytes OK
-2023/08/30-21:24:23.182 4a50 Delete type=0 #18
-2023/08/30-21:24:23.191 4a50 Manual compaction at level-0 from '!folders!47PBrP7Ewyj6sO5I' @ 72057594037927935 : 1 .. '!folders!kZ7B7pBA0ayTfo37' @ 0 : 0; will stop at (end)
-2023/08/30-21:24:23.191 4a50 Manual compaction at level-1 from '!folders!47PBrP7Ewyj6sO5I' @ 72057594037927935 : 1 .. '!folders!kZ7B7pBA0ayTfo37' @ 0 : 0; will stop at (end)
+2023/09/06-23:20:47.993 2410 Log #23: 0 ops saved to Table #24 OK
+2023/09/06-23:20:47.993 2410 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders/000023.log: OK
+2023/09/06-23:20:47.993 2410 Table #5: 4 entries OK
+2023/09/06-23:20:47.993 2410 Table #13: 1 entries OK
+2023/09/06-23:20:47.993 2410 Table #17: 1 entries OK
+2023/09/06-23:20:48.006 2410 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders/MANIFEST-000021: OK
+2023/09/06-23:20:48.023 2410 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders; recovered 3 files; 1302 bytes. Some data may have been lost. ****

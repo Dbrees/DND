@@ -1,7 +1,8 @@
-2023/08/30-21:24:48.375 19dc Recovering log #20
-2023/08/30-21:24:48.416 19dc Delete type=0 #20
-2023/08/30-21:24:48.416 19dc Delete type=3 #17
-2023/08/30-21:26:22.820 4a50 Level-0 table #25: started
-2023/08/30-21:26:22.820 4a50 Level-0 table #25: 0 bytes OK
-2023/08/30-21:26:22.853 4a50 Delete type=0 #23
-2023/08/30-21:26:22.853 4a50 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/09/06-23:20:47.646 2410 Delete type=3 #1
+2023/09/06-23:20:47.646 1e94 Compacting 4@0 + 0@1 files
+2023/09/06-23:20:47.647 1e94 Compacted 4@0 + 0@1 files => 0 bytes
+2023/09/06-23:20:47.655 1e94 compacted to: files[ 0 0 0 0 0 0 0 ]
+2023/09/06-23:20:47.655 1e94 Delete type=2 #5
+2023/09/06-23:20:47.655 1e94 Delete type=2 #14
+2023/09/06-23:20:47.655 1e94 Delete type=2 #18
+2023/09/06-23:20:47.655 1e94 Delete type=2 #21

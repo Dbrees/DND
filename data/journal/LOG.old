@@ -1,4 +1,7 @@
-2023/09/06-23:20:48.133 2924 Log #22: 0 ops saved to Table #23 OK
-2023/09/06-23:20:48.133 2924 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/journal/000022.log: OK
-2023/09/06-23:20:48.167 2924 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/journal/MANIFEST-000020: OK
-2023/09/06-23:20:48.184 2924 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/journal; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/09/06-23:49:14.317 4170 Recovering log #38
+2023/09/06-23:49:14.333 4170 Delete type=0 #38
+2023/09/06-23:49:14.333 4170 Delete type=3 #36
+2023/09/06-23:49:34.299 cfc Level-0 table #43: started
+2023/09/06-23:49:34.299 cfc Level-0 table #43: 0 bytes OK
+2023/09/06-23:49:34.310 cfc Delete type=0 #41
+2023/09/06-23:49:34.332 cfc Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

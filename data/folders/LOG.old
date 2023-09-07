@@ -1,7 +1,14 @@
-2023/09/06-23:20:47.993 2410 Log #23: 0 ops saved to Table #24 OK
-2023/09/06-23:20:47.993 2410 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders/000023.log: OK
-2023/09/06-23:20:47.993 2410 Table #5: 4 entries OK
-2023/09/06-23:20:47.993 2410 Table #13: 1 entries OK
-2023/09/06-23:20:47.993 2410 Table #17: 1 entries OK
-2023/09/06-23:20:48.006 2410 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders/MANIFEST-000021: OK
-2023/09/06-23:20:48.023 2410 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/folders; recovered 3 files; 1302 bytes. Some data may have been lost. ****
+2023/09/06-23:49:14.250 4170 Recovering log #40
+2023/09/06-23:49:14.275 4170 Delete type=0 #40
+2023/09/06-23:49:14.275 4170 Delete type=3 #38
+2023/09/06-23:49:34.245 cfc Level-0 table #45: started
+2023/09/06-23:49:34.245 cfc Level-0 table #45: 0 bytes OK
+2023/09/06-23:49:34.253 cfc Delete type=0 #43
+2023/09/06-23:49:34.261 cfc Manual compaction at level-0 from '!folders!0PqqMFH3IbznJmhE' @ 72057594037927935 : 1 .. '!folders!kZ7B7pBA0ayTfo37' @ 0 : 0; will stop at (end)
+2023/09/06-23:49:34.261 cfc Manual compaction at level-1 from '!folders!0PqqMFH3IbznJmhE' @ 72057594037927935 : 1 .. '!folders!kZ7B7pBA0ayTfo37' @ 0 : 0; will stop at '!folders!kZ7B7pBA0ayTfo37' @ 3 : 1
+2023/09/06-23:49:34.262 cfc Compacting 1@1 + 0@2 files
+2023/09/06-23:49:34.287 cfc Generated table #46@1: 4 keys, 669 bytes
+2023/09/06-23:49:34.287 cfc Compacted 1@1 + 0@2 files => 669 bytes
+2023/09/06-23:49:34.299 cfc compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/09/06-23:49:34.299 cfc Delete type=2 #29
+2023/09/06-23:49:34.332 cfc Manual compaction at level-1 from '!folders!kZ7B7pBA0ayTfo37' @ 3 : 1 .. '!folders!kZ7B7pBA0ayTfo37' @ 0 : 0; will stop at (end)

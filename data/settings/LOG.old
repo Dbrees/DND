@@ -1,0 +1,24 @@
+2023/08/30-21:23:38.264 2334 Recovering log #17
+2023/08/30-21:23:38.264 2334 Level-0 table #19: started
+2023/08/30-21:23:38.301 2334 Level-0 table #19: 11467 bytes OK
+2023/08/30-21:23:38.344 2334 Delete type=0 #17
+2023/08/30-21:23:38.344 2334 Delete type=3 #16
+2023/08/30-21:24:23.283 4a50 Level-0 table #22: started
+2023/08/30-21:24:23.295 4a50 Level-0 table #22: 737 bytes OK
+2023/08/30-21:24:23.333 4a50 Delete type=0 #20
+2023/08/30-21:24:23.343 4a50 Manual compaction at level-0 from '!settings!1iOeNWpIz8ezkNO9' @ 72057594037927935 : 1 .. '!settings!xFiVRfaw07OTfRR3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 19 : 1
+2023/08/30-21:24:23.343 4a50 Compacting 2@0 + 0@1 files
+2023/08/30-21:24:23.364 4a50 Generated table #23@0: 3 keys, 6094 bytes
+2023/08/30-21:24:23.364 4a50 Compacted 2@0 + 0@1 files => 6094 bytes
+2023/08/30-21:24:23.377 4a50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/30-21:24:23.377 4a50 Delete type=2 #19
+2023/08/30-21:24:23.377 4a50 Delete type=2 #22
+2023/08/30-21:24:23.409 4a50 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 19 : 1 .. '!settings!xFiVRfaw07OTfRR3' @ 0 : 0; will stop at (end)
+2023/08/30-21:24:23.409 4a50 Manual compaction at level-1 from '!settings!1iOeNWpIz8ezkNO9' @ 72057594037927935 : 1 .. '!settings!xFiVRfaw07OTfRR3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 23 : 1
+2023/08/30-21:24:23.409 4a50 Compacting 1@1 + 1@2 files
+2023/08/30-21:24:23.434 4a50 Generated table #24@1: 9 keys, 6893 bytes
+2023/08/30-21:24:23.434 4a50 Compacted 1@1 + 1@2 files => 6893 bytes
+2023/08/30-21:24:23.444 4a50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/30-21:24:23.444 4a50 Delete type=2 #15
+2023/08/30-21:24:23.444 4a50 Delete type=2 #23
+2023/08/30-21:24:23.478 4a50 Manual compaction at level-1 from '!settings!xFiVRfaw07OTfRR3' @ 23 : 1 .. '!settings!xFiVRfaw07OTfRR3' @ 0 : 0; will stop at (end)

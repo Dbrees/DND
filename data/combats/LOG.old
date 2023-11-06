@@ -1,3 +1,7 @@
-2023/11/05-08:34:00.653 63c8 Recovering log #237
-2023/11/05-08:34:00.686 63c8 Delete type=0 #237
-2023/11/05-08:34:00.686 63c8 Delete type=3 #235
+2023/11/05-21:42:20.234 1200 Log #243: 0 ops saved to Table #244 OK
+2023/11/05-21:42:20.235 1200 Archiving E:/Foundry/Data/worlds/dnd/data/combats/000243.log: OK
+2023/11/05-21:42:20.235 1200 Table #183: 7 entries OK
+2023/11/05-21:42:20.235 1200 Table #208: 21 entries OK
+2023/11/05-21:42:20.235 1200 Table #212: 14 entries OK
+2023/11/05-21:42:20.243 1200 Archiving E:/Foundry/Data/worlds/dnd/data/combats/MANIFEST-000241: OK
+2023/11/05-21:42:20.248 1200 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/combats; recovered 3 files; 2837 bytes. Some data may have been lost. ****

@@ -1,3 +1,6 @@
-2023/11/05-08:34:00.882 63c8 Recovering log #236
-2023/11/05-08:34:00.914 63c8 Delete type=0 #236
-2023/11/05-08:34:00.914 63c8 Delete type=3 #234
+2023/11/05-21:42:20.420 3a74 Log #242: 0 ops saved to Table #243 OK
+2023/11/05-21:42:20.420 3a74 Archiving E:/Foundry/Data/worlds/dnd/data/macros/000242.log: OK
+2023/11/05-21:42:20.420 3a74 Table #67: 2 entries OK
+2023/11/05-21:42:20.420 3a74 Table #97: 2 entries OK
+2023/11/05-21:42:20.424 3a74 Archiving E:/Foundry/Data/worlds/dnd/data/macros/MANIFEST-000240: OK
+2023/11/05-21:42:20.429 3a74 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/macros; recovered 2 files; 1375 bytes. Some data may have been lost. ****

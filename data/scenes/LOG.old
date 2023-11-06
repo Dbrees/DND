@@ -1,3 +1,5 @@
-2023/11/05-08:34:00.995 61bc Recovering log #482
-2023/11/05-08:34:01.031 61bc Delete type=0 #482
-2023/11/05-08:34:01.031 61bc Delete type=3 #480
+2023/11/05-21:42:20.500 3a74 Log #488: 0 ops saved to Table #489 OK
+2023/11/05-21:42:20.500 3a74 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/000488.log: OK
+2023/11/05-21:42:20.502 3a74 Table #477: 6861 entries OK
+2023/11/05-21:42:20.507 3a74 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-000486: OK
+2023/11/05-21:42:20.511 3a74 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 1 files; 685947 bytes. Some data may have been lost. ****

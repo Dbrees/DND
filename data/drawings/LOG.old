@@ -1,3 +1,4 @@
-2023/11/05-08:34:00.703 61bc Recovering log #236
-2023/11/05-08:34:00.737 61bc Delete type=0 #236
-2023/11/05-08:34:00.737 61bc Delete type=3 #234
+2023/11/05-21:42:20.262 12b8 Log #242: 0 ops saved to Table #243 OK
+2023/11/05-21:42:20.262 12b8 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/000242.log: OK
+2023/11/05-21:42:20.266 12b8 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/MANIFEST-000240: OK
+2023/11/05-21:42:20.276 12b8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****

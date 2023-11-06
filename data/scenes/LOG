@@ -1,7 +1,1 @@
-2023/11/05-18:50:42.900 39fc Recovering log #485
-2023/11/05-18:50:42.930 39fc Delete type=0 #485
-2023/11/05-18:50:42.930 39fc Delete type=3 #484
-2023/11/05-20:12:24.436 456c Level-0 table #489: started
-2023/11/05-20:12:24.437 456c Level-0 table #489: 0 bytes OK
-2023/11/05-20:12:24.446 456c Delete type=0 #487
-2023/11/05-20:12:24.464 456c Manual compaction at level-0 from '!scenes!6pY3DZJxKjmiGct3' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2023/11/05-21:42:20.527 3a74 Delete type=3 #1

@@ -1,3 +1,4 @@
-2023/11/05-08:34:00.580 63c8 Recovering log #236
-2023/11/05-08:34:00.604 63c8 Delete type=0 #236
-2023/11/05-08:34:00.605 63c8 Delete type=3 #234
+2023/11/05-21:42:20.132 1200 Log #242: 0 ops saved to Table #243 OK
+2023/11/05-21:42:20.132 1200 Archiving E:/Foundry/Data/worlds/dnd/data/cards/000242.log: OK
+2023/11/05-21:42:20.135 1200 Archiving E:/Foundry/Data/worlds/dnd/data/cards/MANIFEST-000240: OK
+2023/11/05-21:42:20.152 1200 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

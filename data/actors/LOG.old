@@ -1,8 +1,3 @@
-2023/09/06-23:49:14.052 4170 Recovering log #40
-2023/09/06-23:49:14.088 4170 Delete type=0 #40
-2023/09/06-23:49:14.088 4170 Delete type=3 #38
-2023/09/06-23:49:34.186 cfc Level-0 table #45: started
-2023/09/06-23:49:34.186 cfc Level-0 table #45: 0 bytes OK
-2023/09/06-23:49:34.195 cfc Delete type=0 #43
-2023/09/06-23:49:34.211 cfc Manual compaction at level-0 from '!actors!0qbHoPuKDqaOM7Ij' @ 72057594037927935 : 1 .. '!actors.items!0qbHoPuKDqaOM7Ij.v9g05BbxwNZgpyz9' @ 0 : 0; will stop at (end)
-2023/09/06-23:49:34.211 cfc Manual compaction at level-1 from '!actors!0qbHoPuKDqaOM7Ij' @ 72057594037927935 : 1 .. '!actors.items!0qbHoPuKDqaOM7Ij.v9g05BbxwNZgpyz9' @ 0 : 0; will stop at (end)
+2023/11/05-08:34:00.521 61bc Recovering log #259
+2023/11/05-08:34:00.567 61bc Delete type=0 #259
+2023/11/05-08:34:00.567 61bc Delete type=3 #257

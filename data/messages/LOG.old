@@ -1,7 +1,3 @@
-2023/09/06-23:49:14.130 4170 Recovering log #39
-2023/09/06-23:49:14.163 4170 Delete type=0 #39
-2023/09/06-23:49:14.163 4170 Delete type=3 #37
-2023/09/06-23:49:34.215 cfc Level-0 table #44: started
-2023/09/06-23:49:34.215 cfc Level-0 table #44: 0 bytes OK
-2023/09/06-23:49:34.236 cfc Delete type=0 #42
-2023/09/06-23:49:34.261 cfc Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/11/05-08:34:00.610 61bc Recovering log #243
+2023/11/05-08:34:00.642 61bc Delete type=0 #243
+2023/11/05-08:34:00.642 61bc Delete type=3 #241

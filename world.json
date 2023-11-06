@@ -2,13 +2,13 @@
   "title": "dnd",
   "id": "dnd",
   "system": "dnd5e",
-  "coreVersion": "11.308",
+  "coreVersion": "11.314",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.308"
+    "verified": "11.314"
   },
   "systemVersion": "2.3.1",
-  "lastPlayed": "Thu Sep 07 2023 16:49:26 GMT-0500 (Central Daylight Time)",
-  "playtime": 1280,
+  "lastPlayed": "Sun Nov 05 2023 20:12:24 GMT-0600 (Central Standard Time)",
+  "playtime": 298590,
   "safeMode": false
 }

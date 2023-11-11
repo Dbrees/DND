@@ -1,9 +1,8 @@
-<<<<<<< Updated upstream
-2023/11/05-08:34:00.740 63c8 Recovering log #259
-2023/11/05-08:34:00.758 63c8 Delete type=0 #259
-2023/11/05-08:34:00.758 63c8 Delete type=3 #257
-=======
-2023/11/10-10:33:00.219 57d8 Recovering log #302
-2023/11/10-10:33:00.251 57d8 Delete type=0 #302
-2023/11/10-10:33:00.251 57d8 Delete type=3 #300
->>>>>>> Stashed changes
+2023/11/10-21:55:27.268 1d84 Log #265: 0 ops saved to Table #309 OK
+2023/11/10-21:55:27.268 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/000265.log: OK
+2023/11/10-21:55:27.268 1d84 Log #308: 0 ops saved to Table #310 OK
+2023/11/10-21:55:27.269 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/000308.log: OK
+2023/11/10-21:55:27.269 1d84 Table #304: 13 entries OK
+2023/11/10-21:55:27.288 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/MANIFEST-000263: OK
+2023/11/10-21:55:27.288 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/MANIFEST-000307: OK
+2023/11/10-21:55:27.304 1d84 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog; recovered 1 files; 663075 bytes. Some data may have been lost. ****

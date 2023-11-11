@@ -1,9 +1,8 @@
-<<<<<<< Updated upstream
-2023/11/05-08:34:00.804 63c8 Recovering log #237
-2023/11/05-08:34:00.836 63c8 Delete type=0 #237
-2023/11/05-08:34:00.836 63c8 Delete type=3 #235
-=======
-2023/11/10-10:33:00.388 57d8 Recovering log #271
-2023/11/10-10:33:00.427 57d8 Delete type=0 #271
-2023/11/10-10:33:00.427 57d8 Delete type=3 #269
->>>>>>> Stashed changes
+2023/11/10-21:55:27.463 3768 Log #243: 0 ops saved to Table #277 OK
+2023/11/10-21:55:27.463 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/items/000243.log: OK
+2023/11/10-21:55:27.463 3768 Log #276: 0 ops saved to Table #278 OK
+2023/11/10-21:55:27.464 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/items/000276.log: OK
+2023/11/10-21:55:27.464 3768 Table #252: 1 entries OK
+2023/11/10-21:55:27.488 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/items/MANIFEST-000241: OK
+2023/11/10-21:55:27.488 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/items/MANIFEST-000275: OK
+2023/11/10-21:55:27.506 3768 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/items; recovered 1 files; 1033 bytes. Some data may have been lost. ****

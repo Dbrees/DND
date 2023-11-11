@@ -1,14 +1,1 @@
-<<<<<<< Updated upstream
-2023/11/05-18:50:42.771 5678 Recovering log #239
-2023/11/05-18:50:42.796 5678 Delete type=0 #239
-2023/11/05-18:50:42.796 5678 Delete type=3 #238
-2023/11/05-20:12:24.337 456c Level-0 table #243: started
-2023/11/05-20:12:24.337 456c Level-0 table #243: 0 bytes OK
-2023/11/05-20:12:24.347 456c Delete type=0 #241
-2023/11/05-20:12:24.369 456c Manual compaction at level-0 from '!macros!oM5kL9UVMFQwjKou' @ 72057594037927935 : 1 .. '!macros!wOXfpgsLl6se1tH5' @ 0 : 0; will stop at (end)
-2023/11/05-20:12:24.369 456c Manual compaction at level-1 from '!macros!oM5kL9UVMFQwjKou' @ 72057594037927935 : 1 .. '!macros!wOXfpgsLl6se1tH5' @ 0 : 0; will stop at (end)
-=======
-2023/11/10-14:50:56.423 3b3c Recovering log #273
-2023/11/10-14:50:56.460 3b3c Delete type=0 #273
-2023/11/10-14:50:56.460 3b3c Delete type=3 #272
->>>>>>> Stashed changes
+2023/11/10-21:55:27.720 1d84 Delete type=3 #1

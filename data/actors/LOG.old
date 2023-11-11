@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2023/11/05-08:34:00.521 61bc Recovering log #259
 2023/11/05-08:34:00.567 61bc Delete type=0 #259
 2023/11/05-08:34:00.567 61bc Delete type=3 #257
+=======
+2023/11/10-10:32:59.857 3ce0 Recovering log #299
+2023/11/10-10:32:59.897 3ce0 Delete type=0 #299
+2023/11/10-10:32:59.897 3ce0 Delete type=3 #297
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 2023/11/05-18:50:42.687 5678 Recovering log #240
 2023/11/05-18:50:42.716 5678 Delete type=0 #240
 2023/11/05-18:50:42.716 5678 Delete type=3 #239
@@ -6,3 +7,8 @@
 2023/11/05-20:12:24.308 456c Delete type=0 #242
 2023/11/05-20:12:24.317 456c Manual compaction at level-0 from '!items!SXMQ2AOHgie8r7Fy' @ 72057594037927935 : 1 .. '!items!SXMQ2AOHgie8r7Fy' @ 0 : 0; will stop at (end)
 2023/11/05-20:12:24.317 456c Manual compaction at level-1 from '!items!SXMQ2AOHgie8r7Fy' @ 72057594037927935 : 1 .. '!items!SXMQ2AOHgie8r7Fy' @ 0 : 0; will stop at (end)
+=======
+2023/11/10-14:50:56.328 3b3c Recovering log #274
+2023/11/10-14:50:56.366 3b3c Delete type=0 #274
+2023/11/10-14:50:56.366 3b3c Delete type=3 #273
+>>>>>>> Stashed changes

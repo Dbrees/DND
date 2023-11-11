@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 2023/11/05-18:50:42.505 5678 Recovering log #240
 2023/11/05-18:50:42.545 5678 Delete type=0 #240
 2023/11/05-18:50:42.545 5678 Delete type=3 #239
@@ -5,3 +6,8 @@
 2023/11/05-20:12:24.275 456c Level-0 table #244: 0 bytes OK
 2023/11/05-20:12:24.292 456c Delete type=0 #242
 2023/11/05-20:12:24.317 456c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+=======
+2023/11/10-14:50:56.136 3b3c Recovering log #273
+2023/11/10-14:50:56.168 3b3c Delete type=0 #273
+2023/11/10-14:50:56.168 3b3c Delete type=3 #272
+>>>>>>> Stashed changes

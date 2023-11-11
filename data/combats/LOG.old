@@ -1,10 +1,7 @@
-2023/11/10-21:55:27.106 3768 Log #243: 0 ops saved to Table #276 OK
-2023/11/10-21:55:27.106 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/000243.log: OK
-2023/11/10-21:55:27.106 3768 Log #275: 0 ops saved to Table #277 OK
-2023/11/10-21:55:27.106 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/000275.log: OK
-2023/11/10-21:55:27.107 3768 Table #183: 7 entries OK
-2023/11/10-21:55:27.107 3768 Table #208: 21 entries OK
-2023/11/10-21:55:27.107 3768 Table #212: 14 entries OK
-2023/11/10-21:55:27.119 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/MANIFEST-000241: OK
-2023/11/10-21:55:27.119 3768 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/MANIFEST-000274: OK
-2023/11/10-21:55:27.129 3768 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats; recovered 3 files; 2837 bytes. Some data may have been lost. ****
+2023/11/10-22:03:54.351 3308 Log #279: 0 ops saved to Table #280 OK
+2023/11/10-22:03:54.351 3308 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/000279.log: OK
+2023/11/10-22:03:54.351 3308 Table #183: 7 entries OK
+2023/11/10-22:03:54.351 3308 Table #208: 21 entries OK
+2023/11/10-22:03:54.351 3308 Table #212: 14 entries OK
+2023/11/10-22:03:54.439 3308 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats/MANIFEST-000278: OK
+2023/11/10-22:03:54.507 3308 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/combats; recovered 3 files; 2837 bytes. Some data may have been lost. ****

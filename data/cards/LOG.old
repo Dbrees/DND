@@ -1,7 +1,4 @@
-2023/11/10-21:55:26.855 1c70 Log #242: 0 ops saved to Table #275 OK
-2023/11/10-21:55:26.855 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/000242.log: OK
-2023/11/10-21:55:26.855 1c70 Log #274: 0 ops saved to Table #276 OK
-2023/11/10-21:55:26.855 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/000274.log: OK
-2023/11/10-21:55:26.880 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/MANIFEST-000240: OK
-2023/11/10-21:55:26.880 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/MANIFEST-000273: OK
-2023/11/10-21:55:26.888 1c70 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/11/10-22:03:54.168 614 Log #278: 0 ops saved to Table #279 OK
+2023/11/10-22:03:54.168 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/000278.log: OK
+2023/11/10-22:03:54.189 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards/MANIFEST-000277: OK
+2023/11/10-22:03:54.198 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

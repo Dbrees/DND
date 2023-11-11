@@ -1,10 +1,8 @@
-2023/11/10-21:55:28.018 19cc Log #314: 0 ops saved to Table #358 OK
-2023/11/10-21:55:28.018 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/000314.log: OK
-2023/11/10-21:55:28.053 19cc Log #357: 3 ops saved to Table #359 OK
-2023/11/10-21:55:28.053 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/000357.log: OK
-2023/11/10-21:55:28.053 19cc Table #352: 114 entries OK
-2023/11/10-21:55:28.053 19cc Table #356: 2 entries OK
-2023/11/10-21:55:28.053 19cc Table #359: 3 entries OK
-2023/11/10-21:55:28.094 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/MANIFEST-000311: OK
-2023/11/10-21:55:28.094 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/MANIFEST-000355: OK
-2023/11/10-21:55:28.114 19cc **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings; recovered 3 files; 27475 bytes. Some data may have been lost. ****
+2023/11/10-22:03:55.141 614 Log #361: 2 ops saved to Table #362 OK
+2023/11/10-22:03:55.141 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/000361.log: OK
+2023/11/10-22:03:55.142 614 Table #352: 114 entries OK
+2023/11/10-22:03:55.142 614 Table #356: 2 entries OK
+2023/11/10-22:03:55.145 614 Table #359: 3 entries OK
+2023/11/10-22:03:55.145 614 Table #362: 2 entries OK
+2023/11/10-22:03:55.193 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings/MANIFEST-000360: OK
+2023/11/10-22:03:55.203 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/settings; recovered 4 files; 28586 bytes. Some data may have been lost. ****

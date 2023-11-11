@@ -1,9 +1,6 @@
-2023/11/10-21:55:27.666 1d84 Log #242: 0 ops saved to Table #276 OK
-2023/11/10-21:55:27.666 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/000242.log: OK
-2023/11/10-21:55:27.666 1d84 Log #275: 0 ops saved to Table #277 OK
-2023/11/10-21:55:27.667 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/000275.log: OK
-2023/11/10-21:55:27.667 1d84 Table #97: 2 entries OK
-2023/11/10-21:55:27.667 1d84 Table #251: 2 entries OK
-2023/11/10-21:55:27.681 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/MANIFEST-000240: OK
-2023/11/10-21:55:27.681 1d84 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/MANIFEST-000274: OK
-2023/11/10-21:55:27.696 1d84 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros; recovered 2 files; 1375 bytes. Some data may have been lost. ****
+2023/11/10-22:03:54.856 614 Log #279: 0 ops saved to Table #280 OK
+2023/11/10-22:03:54.856 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/000279.log: OK
+2023/11/10-22:03:54.856 614 Table #97: 2 entries OK
+2023/11/10-22:03:54.857 614 Table #251: 2 entries OK
+2023/11/10-22:03:54.882 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros/MANIFEST-000278: OK
+2023/11/10-22:03:54.890 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/macros; recovered 2 files; 1375 bytes. Some data may have been lost. ****

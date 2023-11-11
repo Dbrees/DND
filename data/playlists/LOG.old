@@ -1,7 +1,4 @@
-2023/11/10-21:55:27.722 1c70 Log #242: 0 ops saved to Table #275 OK
-2023/11/10-21:55:27.723 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/000242.log: OK
-2023/11/10-21:55:27.723 1c70 Log #274: 0 ops saved to Table #276 OK
-2023/11/10-21:55:27.723 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/000274.log: OK
-2023/11/10-21:55:27.737 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/MANIFEST-000240: OK
-2023/11/10-21:55:27.737 1c70 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/MANIFEST-000273: OK
-2023/11/10-21:55:27.752 1c70 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/11/10-22:03:54.912 43ec Log #278: 0 ops saved to Table #279 OK
+2023/11/10-22:03:54.912 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/000278.log: OK
+2023/11/10-22:03:54.922 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/MANIFEST-000277: OK
+2023/11/10-22:03:54.936 43ec **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****

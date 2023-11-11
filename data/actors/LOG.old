@@ -1,9 +1,6 @@
-2023/11/10-21:55:26.756 19cc Log #265: 0 ops saved to Table #306 OK
-2023/11/10-21:55:26.756 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/000265.log: OK
-2023/11/10-21:55:26.780 19cc Log #305: 18 ops saved to Table #307 OK
-2023/11/10-21:55:26.780 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/000305.log: OK
-2023/11/10-21:55:26.781 19cc Table #301: 298 entries OK
-2023/11/10-21:55:26.782 19cc Table #307: 18 entries OK
-2023/11/10-21:55:26.791 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/MANIFEST-000263: OK
-2023/11/10-21:55:26.791 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/MANIFEST-000304: OK
-2023/11/10-21:55:26.799 19cc **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors; recovered 2 files; 416529 bytes. Some data may have been lost. ****
+2023/11/10-22:03:54.071 43ec Log #309: 0 ops saved to Table #310 OK
+2023/11/10-22:03:54.071 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/000309.log: OK
+2023/11/10-22:03:54.073 43ec Table #301: 298 entries OK
+2023/11/10-22:03:54.074 43ec Table #307: 18 entries OK
+2023/11/10-22:03:54.111 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/MANIFEST-000308: OK
+2023/11/10-22:03:54.120 43ec **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors; recovered 2 files; 416529 bytes. Some data may have been lost. ****

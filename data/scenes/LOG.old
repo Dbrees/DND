@@ -1,8 +1,5 @@
-2023/11/10-21:55:27.895 19cc Log #488: 0 ops saved to Table #616 OK
-2023/11/10-21:55:27.895 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/000488.log: OK
-2023/11/10-21:55:27.896 19cc Log #615: 0 ops saved to Table #617 OK
-2023/11/10-21:55:27.896 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/000615.log: OK
-2023/11/10-21:55:27.899 19cc Table #611: 8271 entries OK
-2023/11/10-21:55:27.919 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/MANIFEST-000486: OK
-2023/11/10-21:55:27.919 19cc Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/MANIFEST-000614: OK
-2023/11/10-21:55:27.938 19cc **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes; recovered 1 files; 870675 bytes. Some data may have been lost. ****
+2023/11/10-22:03:55.033 614 Log #619: 0 ops saved to Table #620 OK
+2023/11/10-22:03:55.033 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/000619.log: OK
+2023/11/10-22:03:55.037 614 Table #611: 8271 entries OK
+2023/11/10-22:03:55.064 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/MANIFEST-000618: OK
+2023/11/10-22:03:55.072 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes; recovered 1 files; 870675 bytes. Some data may have been lost. ****

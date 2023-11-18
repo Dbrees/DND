@@ -1,4 +1,7 @@
-2023/11/10-22:03:54.912 43ec Log #278: 0 ops saved to Table #279 OK
-2023/11/10-22:03:54.912 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/000278.log: OK
-2023/11/10-22:03:54.922 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists/MANIFEST-000277: OK
-2023/11/10-22:03:54.936 43ec **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/11/17-18:59:26.791 2acc Recovering log #338
+2023/11/17-18:59:26.831 2acc Delete type=0 #338
+2023/11/17-18:59:26.831 2acc Delete type=3 #336
+2023/11/17-19:01:57.547 3d3c Level-0 table #343: started
+2023/11/17-19:01:57.547 3d3c Level-0 table #343: 0 bytes OK
+2023/11/17-19:01:57.555 3d3c Delete type=0 #341
+2023/11/17-19:01:57.564 3d3c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

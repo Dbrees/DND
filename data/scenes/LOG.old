@@ -1,5 +1,14 @@
-2023/11/10-22:03:55.033 614 Log #619: 0 ops saved to Table #620 OK
-2023/11/10-22:03:55.033 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/000619.log: OK
-2023/11/10-22:03:55.037 614 Table #611: 8271 entries OK
-2023/11/10-22:03:55.064 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes/MANIFEST-000618: OK
-2023/11/10-22:03:55.072 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/scenes; recovered 1 files; 870675 bytes. Some data may have been lost. ****
+2023/11/17-18:59:26.865 2acc Recovering log #693
+2023/11/17-18:59:26.898 2acc Delete type=0 #693
+2023/11/17-18:59:26.898 2acc Delete type=3 #691
+2023/11/17-19:01:57.568 3d3c Level-0 table #698: started
+2023/11/17-19:01:57.585 3d3c Level-0 table #698: 1218 bytes OK
+2023/11/17-19:01:57.616 3d3c Delete type=0 #696
+2023/11/17-19:01:57.668 3d3c Manual compaction at level-0 from '!scenes!6pY3DZJxKjmiGct3' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.tokens.delta!bpuJWnKDVba3fSIl.sNCaL4mjQMx2Qwhi.Ht3B8SpuG8a3JZPt' @ 90435 : 0
+2023/11/17-19:01:57.668 3d3c Compacting 1@0 + 1@1 files
+2023/11/17-19:01:57.695 3d3c Generated table #699@0: 8322 keys, 882796 bytes
+2023/11/17-19:01:57.695 3d3c Compacted 1@0 + 1@1 files => 882796 bytes
+2023/11/17-19:01:57.716 3d3c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/17-19:01:57.716 3d3c Delete type=2 #690
+2023/11/17-19:01:57.716 3d3c Delete type=2 #698
+2023/11/17-19:01:57.836 3d3c Manual compaction at level-0 from '!scenes.tokens.delta!bpuJWnKDVba3fSIl.sNCaL4mjQMx2Qwhi.Ht3B8SpuG8a3JZPt' @ 90435 : 0 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)

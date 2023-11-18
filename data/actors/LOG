@@ -1,12 +1,14 @@
-2023/11/10-22:03:54.157 43ec Delete type=3 #1
-2023/11/10-22:09:21.244 516c Level-0 table #314: started
-2023/11/10-22:09:21.244 516c Level-0 table #314: 0 bytes OK
-2023/11/10-22:09:21.254 516c Delete type=0 #312
-2023/11/10-22:09:21.279 516c Manual compaction at level-0 from '!actors!2F3v12OE3ImPYlF2' @ 72057594037927935 : 1 .. '!actors.items.effects!jnKUAWkzNwjNe5fa.sf8oIIiN6Aeb3mWJ.potjmpJPeUA1U4oe' @ 0 : 0; will stop at '!actors!rYhtCcJKI8K69ZPX' @ 1453 : 1
-2023/11/10-22:09:21.279 516c Compacting 2@0 + 0@1 files
-2023/11/10-22:09:21.313 516c Generated table #315@0: 304 keys, 391133 bytes
-2023/11/10-22:09:21.313 516c Compacted 2@0 + 0@1 files => 391133 bytes
-2023/11/10-22:09:21.329 516c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/10-22:09:21.329 516c Delete type=2 #301
-2023/11/10-22:09:21.329 516c Delete type=2 #307
-2023/11/10-22:09:21.329 516c Manual compaction at level-0 from '!actors!rYhtCcJKI8K69ZPX' @ 1453 : 1 .. '!actors.items.effects!jnKUAWkzNwjNe5fa.sf8oIIiN6Aeb3mWJ.potjmpJPeUA1U4oe' @ 0 : 0; will stop at (end)
+2023/11/17-19:04:30.123 5934 Recovering log #387
+2023/11/17-19:04:30.169 5934 Delete type=0 #387
+2023/11/17-19:04:30.169 5934 Delete type=3 #385
+2023/11/17-19:05:00.048 3394 Level-0 table #392: started
+2023/11/17-19:05:00.055 3394 Level-0 table #392: 5546 bytes OK
+2023/11/17-19:05:00.063 3394 Delete type=0 #390
+2023/11/17-19:05:00.064 3394 Manual compaction at level-0 from '!actors!2F3v12OE3ImPYlF2' @ 72057594037927935 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at '!actors!Timozzvv3SXhtSWu' @ 3241 : 1
+2023/11/17-19:05:00.064 3394 Compacting 1@0 + 1@1 files
+2023/11/17-19:05:00.088 3394 Generated table #393@0: 639 keys, 843769 bytes
+2023/11/17-19:05:00.088 3394 Compacted 1@0 + 1@1 files => 843769 bytes
+2023/11/17-19:05:00.109 3394 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/17-19:05:00.109 3394 Delete type=2 #384
+2023/11/17-19:05:00.110 3394 Delete type=2 #392
+2023/11/17-19:05:00.227 3394 Manual compaction at level-0 from '!actors!Timozzvv3SXhtSWu' @ 3241 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at (end)

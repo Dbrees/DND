@@ -1,6 +1,7 @@
-2023/11/10-22:03:54.071 43ec Log #309: 0 ops saved to Table #310 OK
-2023/11/10-22:03:54.071 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/000309.log: OK
-2023/11/10-22:03:54.073 43ec Table #301: 298 entries OK
-2023/11/10-22:03:54.074 43ec Table #307: 18 entries OK
-2023/11/10-22:03:54.111 43ec Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors/MANIFEST-000308: OK
-2023/11/10-22:03:54.120 43ec **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/actors; recovered 2 files; 416529 bytes. Some data may have been lost. ****
+2023/11/17-18:59:26.384 14f8 Recovering log #382
+2023/11/17-18:59:26.416 14f8 Delete type=0 #382
+2023/11/17-18:59:26.416 14f8 Delete type=3 #380
+2023/11/17-19:01:57.455 3d3c Level-0 table #388: started
+2023/11/17-19:01:57.455 3d3c Level-0 table #388: 0 bytes OK
+2023/11/17-19:01:57.463 3d3c Delete type=0 #386
+2023/11/17-19:01:57.488 3d3c Manual compaction at level-0 from '!actors!2F3v12OE3ImPYlF2' @ 72057594037927935 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at (end)

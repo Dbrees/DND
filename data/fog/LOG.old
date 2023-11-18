@@ -1,5 +1,7 @@
-2023/11/10-22:03:54.582 614 Log #312: 0 ops saved to Table #313 OK
-2023/11/10-22:03:54.583 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/000312.log: OK
-2023/11/10-22:03:54.584 614 Table #304: 13 entries OK
-2023/11/10-22:03:54.611 614 Archiving F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog/MANIFEST-000311: OK
-2023/11/10-22:03:54.620 614 **** Repaired leveldb F:/Foundry/FoundryVTT/Data/worlds/dnd/data/fog; recovered 1 files; 663075 bytes. Some data may have been lost. ****
+2023/11/17-18:59:26.592 14f8 Recovering log #380
+2023/11/17-18:59:26.630 14f8 Delete type=0 #380
+2023/11/17-18:59:26.630 14f8 Delete type=3 #378
+2023/11/17-19:01:57.539 3d3c Level-0 table #385: started
+2023/11/17-19:01:57.539 3d3c Level-0 table #385: 0 bytes OK
+2023/11/17-19:01:57.547 3d3c Delete type=0 #383
+2023/11/17-19:01:57.564 3d3c Manual compaction at level-0 from '!fog!0PQFPuYwToxIybKx' @ 72057594037927935 : 1 .. '!fog!zmJspae3ua3ZE0Pk' @ 0 : 0; will stop at (end)

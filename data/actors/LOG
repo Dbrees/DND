@@ -1,14 +1,14 @@
-2023/11/17-19:04:30.123 5934 Recovering log #387
-2023/11/17-19:04:30.169 5934 Delete type=0 #387
-2023/11/17-19:04:30.169 5934 Delete type=3 #385
-2023/11/17-19:05:00.048 3394 Level-0 table #392: started
-2023/11/17-19:05:00.055 3394 Level-0 table #392: 5546 bytes OK
-2023/11/17-19:05:00.063 3394 Delete type=0 #390
-2023/11/17-19:05:00.064 3394 Manual compaction at level-0 from '!actors!2F3v12OE3ImPYlF2' @ 72057594037927935 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at '!actors!Timozzvv3SXhtSWu' @ 3241 : 1
-2023/11/17-19:05:00.064 3394 Compacting 1@0 + 1@1 files
-2023/11/17-19:05:00.088 3394 Generated table #393@0: 639 keys, 843769 bytes
-2023/11/17-19:05:00.088 3394 Compacted 1@0 + 1@1 files => 843769 bytes
-2023/11/17-19:05:00.109 3394 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/17-19:05:00.109 3394 Delete type=2 #384
-2023/11/17-19:05:00.110 3394 Delete type=2 #392
-2023/11/17-19:05:00.227 3394 Manual compaction at level-0 from '!actors!Timozzvv3SXhtSWu' @ 3241 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at (end)
+2023/11/18-16:35:55.172 5ac0 Recovering log #416
+2023/11/18-16:35:55.237 5ac0 Delete type=0 #416
+2023/11/18-16:35:55.237 5ac0 Delete type=3 #414
+2023/11/18-18:54:43.764 5f0c Level-0 table #422: started
+2023/11/18-18:54:43.776 5f0c Level-0 table #422: 186293 bytes OK
+2023/11/18-18:54:43.786 5f0c Delete type=0 #420
+2023/11/18-18:54:43.808 5f0c Manual compaction at level-0 from '!actors!2F3v12OE3ImPYlF2' @ 72057594037927935 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at '!actors.items!Y15Xn03AQxi5Sd8G.j9ml3W2VcnKpHqCX' @ 3863 : 1
+2023/11/18-18:54:43.808 5f0c Compacting 1@0 + 1@1 files
+2023/11/18-18:54:43.965 5f0c Generated table #423@0: 688 keys, 923845 bytes
+2023/11/18-18:54:43.965 5f0c Compacted 1@0 + 1@1 files => 923845 bytes
+2023/11/18-18:54:43.973 5f0c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-18:54:43.973 5f0c Delete type=2 #418
+2023/11/18-18:54:43.973 5f0c Delete type=2 #422
+2023/11/18-18:54:44.023 5f0c Manual compaction at level-0 from '!actors.items!Y15Xn03AQxi5Sd8G.j9ml3W2VcnKpHqCX' @ 3863 : 1 .. '!actors.items.effects!rYhtCcJKI8K69ZPX.t73lgQr0QJhp4zsA.fvRfmKJCmapdarFg' @ 0 : 0; will stop at (end)

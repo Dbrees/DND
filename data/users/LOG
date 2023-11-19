@@ -1,14 +1,14 @@
-2023/11/17-19:04:30.569 46d4 Recovering log #387
-2023/11/17-19:04:30.586 46d4 Delete type=0 #387
-2023/11/17-19:04:30.586 46d4 Delete type=3 #385
-2023/11/17-19:05:00.290 3394 Level-0 table #392: started
-2023/11/17-19:05:00.299 3394 Level-0 table #392: 1755 bytes OK
-2023/11/17-19:05:00.333 3394 Delete type=0 #390
-2023/11/17-19:05:00.376 3394 Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 400 : 1
-2023/11/17-19:05:00.376 3394 Compacting 1@0 + 1@1 files
-2023/11/17-19:05:00.396 3394 Generated table #393@0: 8 keys, 4090 bytes
-2023/11/17-19:05:00.396 3394 Compacted 1@0 + 1@1 files => 4090 bytes
-2023/11/17-19:05:00.417 3394 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/17-19:05:00.418 3394 Delete type=2 #384
-2023/11/17-19:05:00.418 3394 Delete type=2 #392
-2023/11/17-19:05:00.446 3394 Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 400 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)
+2023/11/18-16:35:55.781 586c Recovering log #416
+2023/11/18-16:35:55.804 586c Delete type=0 #416
+2023/11/18-16:35:55.805 586c Delete type=3 #414
+2023/11/18-18:54:44.126 5f0c Level-0 table #422: started
+2023/11/18-18:54:44.166 5f0c Level-0 table #422: 158818 bytes OK
+2023/11/18-18:54:44.186 5f0c Delete type=0 #420
+2023/11/18-18:54:44.255 5f0c Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 698 : 1
+2023/11/18-18:54:44.255 5f0c Compacting 1@0 + 1@1 files
+2023/11/18-18:54:44.266 5f0c Generated table #423@0: 8 keys, 4720 bytes
+2023/11/18-18:54:44.266 5f0c Compacted 1@0 + 1@1 files => 4720 bytes
+2023/11/18-18:54:44.288 5f0c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-18:54:44.288 5f0c Delete type=2 #418
+2023/11/18-18:54:44.288 5f0c Delete type=2 #422
+2023/11/18-18:54:44.581 5f0c Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 698 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)

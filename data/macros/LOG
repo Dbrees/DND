@@ -1,7 +1,13 @@
-2023/11/18-16:35:55.556 5ac0 Recovering log #370
-2023/11/18-16:35:55.593 5ac0 Delete type=0 #370
-2023/11/18-16:35:55.593 5ac0 Delete type=3 #368
-2023/11/18-18:54:44.085 5f0c Level-0 table #375: started
-2023/11/18-18:54:44.085 5f0c Level-0 table #375: 0 bytes OK
-2023/11/18-18:54:44.093 5f0c Delete type=0 #373
-2023/11/18-18:54:44.125 5f0c Manual compaction at level-0 from '!macros!oM5kL9UVMFQwjKou' @ 72057594037927935 : 1 .. '!macros!wOXfpgsLl6se1tH5' @ 0 : 0; will stop at (end)
+2023/11/18-20:10:22.247 3820 Delete type=3 #1
+2023/11/18-23:52:37.167 c2c Level-0 table #379: started
+2023/11/18-23:52:37.181 c2c Level-0 table #379: 5037 bytes OK
+2023/11/18-23:52:37.184 c2c Delete type=0 #377
+2023/11/18-23:52:37.200 c2c Manual compaction at level-0 from '!macros!2tFand1UTkET8Zji' @ 72057594037927935 : 1 .. '!macros!wOXfpgsLl6se1tH5' @ 0 : 0; will stop at '!macros!wOXfpgsLl6se1tH5' @ 2 : 1
+2023/11/18-23:52:37.200 c2c Compacting 3@0 + 0@1 files
+2023/11/18-23:52:37.203 c2c Generated table #380@0: 28 keys, 5553 bytes
+2023/11/18-23:52:37.203 c2c Compacted 3@0 + 0@1 files => 5553 bytes
+2023/11/18-23:52:37.207 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-23:52:37.207 c2c Delete type=2 #97
+2023/11/18-23:52:37.207 c2c Delete type=2 #291
+2023/11/18-23:52:37.207 c2c Delete type=2 #379
+2023/11/18-23:52:37.237 c2c Manual compaction at level-0 from '!macros!wOXfpgsLl6se1tH5' @ 2 : 1 .. '!macros!wOXfpgsLl6se1tH5' @ 0 : 0; will stop at (end)

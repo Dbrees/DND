@@ -1,14 +1,219 @@
-2023/11/18-16:35:55.401 5ac0 Recovering log #410
-2023/11/18-16:35:55.439 5ac0 Delete type=0 #410
-2023/11/18-16:35:55.439 5ac0 Delete type=3 #408
-2023/11/18-18:54:45.137 5f0c Level-0 table #416: started
-2023/11/18-18:54:45.255 5f0c Level-0 table #416: 1916897 bytes OK
-2023/11/18-18:54:45.278 5f0c Delete type=0 #414
-2023/11/18-18:54:45.297 5f0c Manual compaction at level-0 from '!fog!0PQFPuYwToxIybKx' @ 72057594037927935 : 1 .. '!fog!wCThea2KGCNOFCZA' @ 0 : 0; will stop at '!fog!wCThea2KGCNOFCZA' @ 416 : 1
-2023/11/18-18:54:45.297 5f0c Compacting 1@0 + 1@1 files
-2023/11/18-18:54:45.310 5f0c Generated table #417@0: 9 keys, 437033 bytes
-2023/11/18-18:54:45.311 5f0c Compacted 1@0 + 1@1 files => 437033 bytes
-2023/11/18-18:54:45.326 5f0c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/18-18:54:45.326 5f0c Delete type=2 #412
-2023/11/18-18:54:45.327 5f0c Delete type=2 #416
-2023/11/18-18:54:45.327 5f0c Manual compaction at level-0 from '!fog!wCThea2KGCNOFCZA' @ 416 : 1 .. '!fog!wCThea2KGCNOFCZA' @ 0 : 0; will stop at (end)
+2023/11/18-20:10:22.094 3820 Delete type=3 #1
+2023/11/18-20:32:15.440 c2c Level-0 table #422: started
+2023/11/18-20:32:15.462 c2c Level-0 table #422: 1681369 bytes OK
+2023/11/18-20:32:15.472 c2c Delete type=0 #420
+2023/11/18-20:49:23.571 c2c Level-0 table #424: started
+2023/11/18-20:49:23.593 c2c Level-0 table #424: 1700561 bytes OK
+2023/11/18-20:49:23.610 c2c Delete type=0 #421
+2023/11/18-20:59:33.336 c2c Level-0 table #426: started
+2023/11/18-20:59:33.357 c2c Level-0 table #426: 1665035 bytes OK
+2023/11/18-20:59:33.362 c2c Delete type=0 #423
+2023/11/18-20:59:33.362 c2c Compacting 4@0 + 0@1 files
+2023/11/18-20:59:33.384 c2c Generated table #427@0: 14 keys, 473818 bytes
+2023/11/18-20:59:33.384 c2c Compacted 4@0 + 0@1 files => 473818 bytes
+2023/11/18-20:59:33.388 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-20:59:33.388 c2c Delete type=2 #417
+2023/11/18-20:59:33.388 c2c Delete type=2 #422
+2023/11/18-20:59:33.388 c2c Delete type=2 #424
+2023/11/18-20:59:33.389 c2c Delete type=2 #426
+2023/11/18-21:05:08.104 c2c Level-0 table #429: started
+2023/11/18-21:05:08.125 c2c Level-0 table #429: 1922605 bytes OK
+2023/11/18-21:05:08.129 c2c Delete type=0 #425
+2023/11/18-21:08:48.139 c2c Compacting 1@0 + 1@1 files
+2023/11/18-21:08:48.154 c2c Generated table #430@0: 14 keys, 570383 bytes
+2023/11/18-21:08:48.154 c2c Compacted 1@0 + 1@1 files => 570383 bytes
+2023/11/18-21:08:48.158 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-21:08:48.158 c2c Delete type=2 #427
+2023/11/18-21:08:48.158 c2c Delete type=2 #429
+2023/11/18-21:09:45.296 c2c Level-0 table #432: started
+2023/11/18-21:09:45.317 c2c Level-0 table #432: 2097213 bytes OK
+2023/11/18-21:09:45.320 c2c Delete type=0 #428
+2023/11/18-21:14:35.481 c2c Level-0 table #434: started
+2023/11/18-21:14:35.500 c2c Level-0 table #434: 1588008 bytes OK
+2023/11/18-21:14:35.501 c2c Delete type=0 #431
+2023/11/18-21:55:49.374 c2c Level-0 table #436: started
+2023/11/18-21:55:49.394 c2c Level-0 table #436: 1706041 bytes OK
+2023/11/18-21:55:49.396 c2c Delete type=0 #433
+2023/11/18-22:02:23.805 c2c Level-0 table #438: started
+2023/11/18-22:02:23.829 c2c Level-0 table #438: 2268171 bytes OK
+2023/11/18-22:02:23.838 c2c Delete type=0 #435
+2023/11/18-22:02:23.838 c2c Compacting 4@0 + 1@1 files
+2023/11/18-22:02:23.856 c2c Generated table #439@0: 19 keys, 794676 bytes
+2023/11/18-22:02:23.856 c2c Compacted 4@0 + 1@1 files => 794676 bytes
+2023/11/18-22:02:23.858 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-22:02:23.858 c2c Delete type=2 #430
+2023/11/18-22:02:23.858 c2c Delete type=2 #432
+2023/11/18-22:02:23.859 c2c Delete type=2 #434
+2023/11/18-22:02:23.859 c2c Delete type=2 #436
+2023/11/18-22:02:23.859 c2c Delete type=2 #438
+2023/11/18-22:07:26.269 c2c Level-0 table #441: started
+2023/11/18-22:07:26.293 c2c Level-0 table #441: 2404712 bytes OK
+2023/11/18-22:07:26.294 c2c Delete type=0 #437
+2023/11/18-22:17:27.385 c2c Level-0 table #443: started
+2023/11/18-22:17:27.409 c2c Level-0 table #443: 2601225 bytes OK
+2023/11/18-22:17:27.411 c2c Delete type=0 #440
+2023/11/18-22:19:42.492 c2c Level-0 table #445: started
+2023/11/18-22:19:42.524 c2c Level-0 table #445: 2580515 bytes OK
+2023/11/18-22:19:42.525 c2c Delete type=0 #442
+2023/11/18-22:20:54.677 c2c Level-0 table #447: started
+2023/11/18-22:20:54.703 c2c Level-0 table #447: 2746268 bytes OK
+2023/11/18-22:20:54.706 c2c Delete type=0 #444
+2023/11/18-22:20:54.706 c2c Compacting 4@0 + 1@1 files
+2023/11/18-22:20:54.728 c2c Generated table #448@0: 19 keys, 972326 bytes
+2023/11/18-22:20:54.728 c2c Compacted 4@0 + 1@1 files => 972326 bytes
+2023/11/18-22:20:54.730 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-22:20:54.730 c2c Delete type=2 #439
+2023/11/18-22:20:54.730 c2c Delete type=2 #441
+2023/11/18-22:20:54.730 c2c Delete type=2 #443
+2023/11/18-22:20:54.730 c2c Delete type=2 #445
+2023/11/18-22:20:54.731 c2c Delete type=2 #447
+2023/11/18-22:21:50.010 c2c Level-0 table #450: started
+2023/11/18-22:21:50.042 c2c Level-0 table #450: 3009991 bytes OK
+2023/11/18-22:21:50.050 c2c Delete type=0 #446
+2023/11/18-22:23:30.332 c2c Level-0 table #452: started
+2023/11/18-22:23:30.357 c2c Level-0 table #452: 3121184 bytes OK
+2023/11/18-22:23:30.360 c2c Delete type=0 #449
+2023/11/18-22:25:03.762 c2c Level-0 table #454: started
+2023/11/18-22:25:03.785 c2c Level-0 table #454: 2425311 bytes OK
+2023/11/18-22:25:03.787 c2c Delete type=0 #451
+2023/11/18-22:29:19.766 c2c Level-0 table #456: started
+2023/11/18-22:29:19.789 c2c Level-0 table #456: 1988686 bytes OK
+2023/11/18-22:29:19.798 c2c Delete type=0 #453
+2023/11/18-22:29:19.798 c2c Compacting 4@0 + 1@1 files
+2023/11/18-22:29:19.823 c2c Generated table #457@0: 26 keys, 1330757 bytes
+2023/11/18-22:29:19.823 c2c Compacted 4@0 + 1@1 files => 1330757 bytes
+2023/11/18-22:29:19.832 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-22:29:19.832 c2c Delete type=2 #448
+2023/11/18-22:29:19.832 c2c Delete type=2 #450
+2023/11/18-22:29:19.832 c2c Delete type=2 #452
+2023/11/18-22:29:19.833 c2c Delete type=2 #454
+2023/11/18-22:29:19.833 c2c Delete type=2 #456
+2023/11/18-22:37:27.655 c2c Level-0 table #459: started
+2023/11/18-22:37:27.687 c2c Level-0 table #459: 2891308 bytes OK
+2023/11/18-22:37:27.690 c2c Delete type=0 #455
+2023/11/18-22:38:46.276 c2c Level-0 table #461: started
+2023/11/18-22:38:46.301 c2c Level-0 table #461: 3078852 bytes OK
+2023/11/18-22:38:46.304 c2c Delete type=0 #458
+2023/11/18-22:44:18.841 c2c Level-0 table #463: started
+2023/11/18-22:44:18.868 c2c Level-0 table #463: 3133661 bytes OK
+2023/11/18-22:44:18.870 c2c Delete type=0 #460
+2023/11/18-22:45:01.970 c2c Level-0 table #465: started
+2023/11/18-22:45:01.996 c2c Level-0 table #465: 3324243 bytes OK
+2023/11/18-22:45:01.998 c2c Delete type=0 #462
+2023/11/18-22:45:01.998 c2c Compacting 4@0 + 1@1 files
+2023/11/18-22:45:02.027 c2c Generated table #466@0: 26 keys, 1552673 bytes
+2023/11/18-22:45:02.027 c2c Compacted 4@0 + 1@1 files => 1552673 bytes
+2023/11/18-22:45:02.035 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-22:45:02.035 c2c Delete type=2 #457
+2023/11/18-22:45:02.035 c2c Delete type=2 #459
+2023/11/18-22:45:02.035 c2c Delete type=2 #461
+2023/11/18-22:45:02.035 c2c Delete type=2 #463
+2023/11/18-22:45:02.036 c2c Delete type=2 #465
+2023/11/18-22:45:39.537 c2c Level-0 table #468: started
+2023/11/18-22:45:39.565 c2c Level-0 table #468: 3431631 bytes OK
+2023/11/18-22:45:39.573 c2c Delete type=0 #464
+2023/11/18-22:46:08.807 c2c Level-0 table #470: started
+2023/11/18-22:46:08.838 c2c Level-0 table #470: 3462556 bytes OK
+2023/11/18-22:46:08.840 c2c Delete type=0 #467
+2023/11/18-22:47:09.101 c2c Level-0 table #472: started
+2023/11/18-22:47:09.137 c2c Level-0 table #472: 3444380 bytes OK
+2023/11/18-22:47:09.140 c2c Delete type=0 #469
+2023/11/18-22:48:45.462 c2c Level-0 table #474: started
+2023/11/18-22:48:45.488 c2c Level-0 table #474: 2842999 bytes OK
+2023/11/18-22:48:45.491 c2c Delete type=0 #471
+2023/11/18-22:48:45.491 c2c Compacting 4@0 + 1@1 files
+2023/11/18-22:48:45.512 c2c Generated table #475@0: 26 keys, 1696558 bytes
+2023/11/18-22:48:45.512 c2c Compacted 4@0 + 1@1 files => 1696558 bytes
+2023/11/18-22:48:45.514 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-22:48:45.514 c2c Delete type=2 #466
+2023/11/18-22:48:45.514 c2c Delete type=2 #468
+2023/11/18-22:48:45.515 c2c Delete type=2 #470
+2023/11/18-22:48:45.515 c2c Delete type=2 #472
+2023/11/18-22:48:45.515 c2c Delete type=2 #474
+2023/11/18-23:06:19.768 c2c Level-0 table #477: started
+2023/11/18-23:06:19.795 c2c Level-0 table #477: 2593279 bytes OK
+2023/11/18-23:06:19.796 c2c Delete type=0 #473
+2023/11/18-23:09:00.807 c2c Level-0 table #479: started
+2023/11/18-23:09:00.838 c2c Level-0 table #479: 2535248 bytes OK
+2023/11/18-23:09:00.840 c2c Delete type=0 #476
+2023/11/18-23:10:39.084 c2c Level-0 table #481: started
+2023/11/18-23:10:39.109 c2c Level-0 table #481: 2612293 bytes OK
+2023/11/18-23:10:39.111 c2c Delete type=0 #478
+2023/11/18-23:11:18.425 c2c Level-0 table #483: started
+2023/11/18-23:11:18.454 c2c Level-0 table #483: 2912697 bytes OK
+2023/11/18-23:11:18.456 c2c Delete type=0 #480
+2023/11/18-23:11:18.456 c2c Compacting 4@0 + 1@1 files
+2023/11/18-23:11:18.480 c2c Generated table #484@0: 26 keys, 1879554 bytes
+2023/11/18-23:11:18.480 c2c Compacted 4@0 + 1@1 files => 1879554 bytes
+2023/11/18-23:11:18.483 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-23:11:18.483 c2c Delete type=2 #475
+2023/11/18-23:11:18.484 c2c Delete type=2 #477
+2023/11/18-23:11:18.484 c2c Delete type=2 #479
+2023/11/18-23:11:18.484 c2c Delete type=2 #481
+2023/11/18-23:11:18.484 c2c Delete type=2 #483
+2023/11/18-23:11:53.477 c2c Level-0 table #486: started
+2023/11/18-23:11:53.503 c2c Level-0 table #486: 3129070 bytes OK
+2023/11/18-23:11:53.506 c2c Delete type=0 #482
+2023/11/18-23:12:58.657 c2c Level-0 table #488: started
+2023/11/18-23:12:58.684 c2c Level-0 table #488: 3199030 bytes OK
+2023/11/18-23:12:58.687 c2c Delete type=0 #485
+2023/11/18-23:14:00.911 c2c Level-0 table #490: started
+2023/11/18-23:14:00.940 c2c Level-0 table #490: 3156048 bytes OK
+2023/11/18-23:14:00.942 c2c Delete type=0 #487
+2023/11/18-23:14:37.797 c2c Level-0 table #492: started
+2023/11/18-23:14:37.825 c2c Level-0 table #492: 3249839 bytes OK
+2023/11/18-23:14:37.826 c2c Delete type=0 #489
+2023/11/18-23:14:37.827 c2c Compacting 4@0 + 1@1 files
+2023/11/18-23:14:37.856 c2c Generated table #493@0: 26 keys, 2050597 bytes
+2023/11/18-23:14:37.856 c2c Compacted 4@0 + 1@1 files => 2050597 bytes
+2023/11/18-23:14:37.857 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-23:14:37.858 c2c Delete type=2 #484
+2023/11/18-23:14:37.858 c2c Delete type=2 #486
+2023/11/18-23:14:37.858 c2c Delete type=2 #488
+2023/11/18-23:14:37.858 c2c Delete type=2 #490
+2023/11/18-23:14:37.858 c2c Delete type=2 #492
+2023/11/18-23:17:39.076 c2c Level-0 table #495: started
+2023/11/18-23:17:39.104 c2c Level-0 table #495: 3306065 bytes OK
+2023/11/18-23:17:39.106 c2c Delete type=0 #491
+2023/11/18-23:32:27.443 c2c Level-0 table #497: started
+2023/11/18-23:32:27.469 c2c Level-0 table #497: 3260210 bytes OK
+2023/11/18-23:32:27.472 c2c Delete type=0 #494
+2023/11/18-23:34:36.346 c2c Level-0 table #499: started
+2023/11/18-23:34:36.373 c2c Level-0 table #499: 3321948 bytes OK
+2023/11/18-23:34:36.381 c2c Delete type=0 #496
+2023/11/18-23:35:09.593 c2c Level-0 table #501: started
+2023/11/18-23:35:09.628 c2c Level-0 table #501: 3356345 bytes OK
+2023/11/18-23:35:09.630 c2c Delete type=0 #498
+2023/11/18-23:35:09.630 c2c Compacting 4@0 + 1@1 files
+2023/11/18-23:35:09.654 c2c Generated table #502@0: 26 keys, 2090543 bytes
+2023/11/18-23:35:09.654 c2c Compacted 4@0 + 1@1 files => 2090543 bytes
+2023/11/18-23:35:09.663 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-23:35:09.663 c2c Delete type=2 #493
+2023/11/18-23:35:09.664 c2c Delete type=2 #495
+2023/11/18-23:35:09.664 c2c Delete type=2 #497
+2023/11/18-23:35:09.664 c2c Delete type=2 #499
+2023/11/18-23:35:09.665 c2c Delete type=2 #501
+2023/11/18-23:37:16.922 c2c Level-0 table #504: started
+2023/11/18-23:37:16.950 c2c Level-0 table #504: 3344957 bytes OK
+2023/11/18-23:37:16.952 c2c Delete type=0 #500
+2023/11/18-23:40:34.823 c2c Level-0 table #506: started
+2023/11/18-23:40:34.857 c2c Level-0 table #506: 3377922 bytes OK
+2023/11/18-23:40:34.860 c2c Delete type=0 #503
+2023/11/18-23:46:27.625 c2c Level-0 table #508: started
+2023/11/18-23:46:27.658 c2c Level-0 table #508: 3318753 bytes OK
+2023/11/18-23:46:27.659 c2c Delete type=0 #505
+2023/11/18-23:52:37.425 c2c Level-0 table #510: started
+2023/11/18-23:52:37.442 c2c Level-0 table #510: 1055833 bytes OK
+2023/11/18-23:52:37.451 c2c Delete type=0 #507
+2023/11/18-23:52:37.459 c2c Manual compaction at level-0 from '!fog!0PQFPuYwToxIybKx' @ 72057594037927935 : 1 .. '!fog!wCThea2KGCNOFCZA' @ 0 : 0; will stop at '!fog!kdpaANf25tAAFjgN' @ 2070 : 1
+2023/11/18-23:52:37.459 c2c Compacting 4@0 + 1@1 files
+2023/11/18-23:52:37.485 c2c Generated table #511@0: 28 keys, 2114279 bytes
+2023/11/18-23:52:37.489 c2c Generated table #512@0: 4 keys, 182063 bytes
+2023/11/18-23:52:37.489 c2c Compacted 4@0 + 1@1 files => 2296342 bytes
+2023/11/18-23:52:37.491 c2c compacted to: files[ 0 2 0 0 0 0 0 ]
+2023/11/18-23:52:37.491 c2c Delete type=2 #502
+2023/11/18-23:52:37.491 c2c Delete type=2 #504
+2023/11/18-23:52:37.491 c2c Delete type=2 #506
+2023/11/18-23:52:37.492 c2c Delete type=2 #508
+2023/11/18-23:52:37.492 c2c Delete type=2 #510
+2023/11/18-23:52:37.492 c2c Manual compaction at level-0 from '!fog!kdpaANf25tAAFjgN' @ 2070 : 1 .. '!fog!wCThea2KGCNOFCZA' @ 0 : 0; will stop at (end)

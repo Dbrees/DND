@@ -1,14 +1,12 @@
-2023/11/18-16:35:55.781 586c Recovering log #416
-2023/11/18-16:35:55.804 586c Delete type=0 #416
-2023/11/18-16:35:55.805 586c Delete type=3 #414
-2023/11/18-18:54:44.126 5f0c Level-0 table #422: started
-2023/11/18-18:54:44.166 5f0c Level-0 table #422: 158818 bytes OK
-2023/11/18-18:54:44.186 5f0c Delete type=0 #420
-2023/11/18-18:54:44.255 5f0c Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 698 : 1
-2023/11/18-18:54:44.255 5f0c Compacting 1@0 + 1@1 files
-2023/11/18-18:54:44.266 5f0c Generated table #423@0: 8 keys, 4720 bytes
-2023/11/18-18:54:44.266 5f0c Compacted 1@0 + 1@1 files => 4720 bytes
-2023/11/18-18:54:44.288 5f0c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/18-18:54:44.288 5f0c Delete type=2 #418
-2023/11/18-18:54:44.288 5f0c Delete type=2 #422
-2023/11/18-18:54:44.581 5f0c Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 698 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)
+2023/11/18-20:10:22.429 3624 Delete type=3 #1
+2023/11/18-23:52:37.237 c2c Level-0 table #428: started
+2023/11/18-23:52:37.250 c2c Level-0 table #428: 286446 bytes OK
+2023/11/18-23:52:37.254 c2c Delete type=0 #426
+2023/11/18-23:52:37.285 c2c Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!zwvLnNohzoThsqHZ' @ 670 : 1
+2023/11/18-23:52:37.285 c2c Compacting 2@0 + 0@1 files
+2023/11/18-23:52:37.288 c2c Generated table #429@0: 8 keys, 6165 bytes
+2023/11/18-23:52:37.288 c2c Compacted 2@0 + 0@1 files => 6165 bytes
+2023/11/18-23:52:37.292 c2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/18-23:52:37.292 c2c Delete type=2 #423
+2023/11/18-23:52:37.292 c2c Delete type=2 #428
+2023/11/18-23:52:37.308 c2c Manual compaction at level-0 from '!users!zwvLnNohzoThsqHZ' @ 670 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)

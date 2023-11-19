@@ -1,14 +1,5 @@
-2023/11/18-12:26:01.655 3ebc Recovering log #411
-2023/11/18-12:26:01.673 3ebc Delete type=0 #411
-2023/11/18-12:26:01.673 3ebc Delete type=3 #409
-2023/11/18-16:35:41.274 5f0c Level-0 table #417: started
-2023/11/18-16:35:41.307 5f0c Level-0 table #417: 124098 bytes OK
-2023/11/18-16:35:41.322 5f0c Delete type=0 #415
-2023/11/18-16:35:41.388 5f0c Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!zwvLnNohzoThsqHZ' @ 669 : 1
-2023/11/18-16:35:41.388 5f0c Compacting 1@0 + 1@1 files
-2023/11/18-16:35:41.398 5f0c Generated table #418@0: 8 keys, 4424 bytes
-2023/11/18-16:35:41.398 5f0c Compacted 1@0 + 1@1 files => 4424 bytes
-2023/11/18-16:35:41.406 5f0c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/18-16:35:41.407 5f0c Delete type=2 #413
-2023/11/18-16:35:41.407 5f0c Delete type=2 #417
-2023/11/18-16:35:41.444 5f0c Manual compaction at level-0 from '!users!zwvLnNohzoThsqHZ' @ 669 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)
+2023/11/18-20:10:22.398 3624 Log #421: 0 ops saved to Table #424 OK
+2023/11/18-20:10:22.399 3624 Archiving E:/Foundry/Data/worlds/dnd/data/users/000421.log: OK
+2023/11/18-20:10:22.399 3624 Table #423: 8 entries OK
+2023/11/18-20:10:22.403 3624 Archiving E:/Foundry/Data/worlds/dnd/data/users/MANIFEST-000419: OK
+2023/11/18-20:10:22.407 3624 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/users; recovered 1 files; 4720 bytes. Some data may have been lost. ****

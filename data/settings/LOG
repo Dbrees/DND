@@ -1,14 +1,5 @@
-2023/12/02-12:43:28.007 44a0 Recovering log #515
-2023/12/02-12:43:28.063 44a0 Delete type=0 #515
-2023/12/02-12:43:28.063 44a0 Delete type=3 #513
-2023/12/02-18:22:39.570 c7c Level-0 table #521: started
-2023/12/02-18:22:39.585 c7c Level-0 table #521: 1289 bytes OK
-2023/12/02-18:22:39.609 c7c Delete type=0 #519
-2023/12/02-18:22:39.846 c7c Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 599 : 1
-2023/12/02-18:22:39.846 c7c Compacting 1@0 + 1@1 files
-2023/12/02-18:22:39.853 c7c Generated table #522@0: 126 keys, 30119 bytes
-2023/12/02-18:22:39.853 c7c Compacted 1@0 + 1@1 files => 30119 bytes
-2023/12/02-18:22:39.862 c7c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/02-18:22:39.862 c7c Delete type=2 #517
-2023/12/02-18:22:39.862 c7c Delete type=2 #521
-2023/12/02-18:22:39.877 c7c Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 599 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)
+2023/12/02-19:54:34.595 4d78 Recovering log #530
+2023/12/02-19:54:34.595 4d78 Level-0 table #532: started
+2023/12/02-19:54:34.610 4d78 Level-0 table #532: 1212 bytes OK
+2023/12/02-19:54:34.618 4d78 Delete type=0 #530
+2023/12/02-19:54:34.619 4d78 Delete type=3 #529

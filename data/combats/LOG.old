@@ -1,4 +1,7 @@
-2023/11/18-20:10:22.014 148 Log #371: 0 ops saved to Table #372 OK
-2023/11/18-20:10:22.014 148 Archiving E:/Foundry/Data/worlds/dnd/data/combats/000371.log: OK
-2023/11/18-20:10:22.024 148 Archiving E:/Foundry/Data/worlds/dnd/data/combats/MANIFEST-000369: OK
-2023/11/18-20:10:22.029 148 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/combats; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2023/12/01-19:15:44.414 4c60 Recovering log #392
+2023/12/01-19:15:44.434 4c60 Delete type=0 #392
+2023/12/01-19:15:44.434 4c60 Delete type=3 #390
+2023/12/02-05:36:59.625 4764 Level-0 table #397: started
+2023/12/02-05:36:59.625 4764 Level-0 table #397: 0 bytes OK
+2023/12/02-05:36:59.659 4764 Delete type=0 #395
+2023/12/02-05:36:59.823 4764 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

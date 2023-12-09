@@ -1,3 +1,18 @@
-2023/12/02-19:52:26.049 4cf8 Recovering log #1312
-2023/12/02-19:52:26.058 4cf8 Delete type=0 #1312
-2023/12/02-19:52:26.058 4cf8 Delete type=3 #1310
+2023/12/09-02:08:53.203 3220 Recovering log #1454
+2023/12/09-02:08:53.203 3220 Level-0 table #1456: started
+2023/12/09-02:08:53.245 3220 Level-0 table #1456: 9462 bytes OK
+2023/12/09-02:08:53.285 3220 Delete type=0 #1454
+2023/12/09-02:08:53.285 3220 Delete type=3 #1453
+2023/12/09-13:28:45.879 1df4 Level-0 table #1459: started
+2023/12/09-13:28:46.087 1df4 Level-0 table #1459: 2077839 bytes OK
+2023/12/09-13:28:46.112 1df4 Delete type=0 #1457
+2023/12/09-13:28:46.136 1df4 Manual compaction at level-0 from '!scenes!3F9vMrcZoelBbj3Z' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes!p5GlG1VXuZw0eZIS' @ 282700 : 1
+2023/12/09-13:28:46.136 1df4 Compacting 3@0 + 1@1 files
+2023/12/09-13:28:46.306 1df4 Generated table #1460@0: 11957 keys, 1566811 bytes
+2023/12/09-13:28:46.306 1df4 Compacted 3@0 + 1@1 files => 1566811 bytes
+2023/12/09-13:28:46.311 1df4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/09-13:28:46.311 1df4 Delete type=2 #1441
+2023/12/09-13:28:46.311 1df4 Delete type=2 #1451
+2023/12/09-13:28:46.311 1df4 Delete type=2 #1456
+2023/12/09-13:28:46.311 1df4 Delete type=2 #1459
+2023/12/09-13:28:46.345 1df4 Manual compaction at level-0 from '!scenes!p5GlG1VXuZw0eZIS' @ 282700 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)

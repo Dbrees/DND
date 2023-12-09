@@ -7,8 +7,9 @@
     "minimum": "11",
     "verified": "11.315"
   },
-  "systemVersion": "2.4.0",
-  "lastPlayed": "Sat Dec 02 2023 19:54:34 GMT-0500 (Eastern Standard Time)",
-  "playtime": 642620,
-  "safeMode": false
+  "systemVersion": "2.4.1",
+  "lastPlayed": "Sat Dec 09 2023 13:40:59 GMT-0600 (Central Standard Time)",
+  "playtime": 693636,
+  "safeMode": false,
+  "joinTheme": "default"
 }

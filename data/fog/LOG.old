@@ -1,3 +1,17 @@
-2023/12/02-19:52:25.940 4f40 Recovering log #558
-2023/12/02-19:52:25.954 4f40 Delete type=0 #558
-2023/12/02-19:52:25.955 4f40 Delete type=3 #556
+2023/12/09-02:08:52.944 3b18 Recovering log #671
+2023/12/09-02:08:52.967 3b18 Delete type=0 #671
+2023/12/09-02:08:52.967 3b18 Delete type=3 #670
+2023/12/09-13:28:45.474 1df4 Level-0 table #675: started
+2023/12/09-13:28:45.514 1df4 Level-0 table #675: 329163 bytes OK
+2023/12/09-13:28:45.528 1df4 Delete type=0 #673
+2023/12/09-13:28:45.592 1df4 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbJnvSeBw6B9STeu' @ 0 : 0; will stop at '!fog!zbJnvSeBw6B9STeu' @ 3683 : 1
+2023/12/09-13:28:45.592 1df4 Compacting 2@0 + 2@1 files
+2023/12/09-13:28:45.810 1df4 Generated table #676@0: 26 keys, 2143995 bytes
+2023/12/09-13:28:45.825 1df4 Generated table #677@0: 11 keys, 812126 bytes
+2023/12/09-13:28:45.825 1df4 Compacted 2@0 + 2@1 files => 2956121 bytes
+2023/12/09-13:28:45.846 1df4 compacted to: files[ 0 3 0 0 0 0 0 ]
+2023/12/09-13:28:45.846 1df4 Delete type=2 #657
+2023/12/09-13:28:45.846 1df4 Delete type=2 #664
+2023/12/09-13:28:45.846 1df4 Delete type=2 #668
+2023/12/09-13:28:45.846 1df4 Delete type=2 #675
+2023/12/09-13:28:46.113 1df4 Manual compaction at level-0 from '!fog!zbJnvSeBw6B9STeu' @ 3683 : 1 .. '!fog!zbJnvSeBw6B9STeu' @ 0 : 0; will stop at (end)

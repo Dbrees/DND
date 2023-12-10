@@ -1,15 +1,14 @@
-2023/12/09-02:08:53.408 3220 Recovering log #486
-2023/12/09-02:08:53.440 3220 Delete type=0 #486
-2023/12/09-02:08:53.440 3220 Delete type=3 #485
-2023/12/09-13:28:46.113 1df4 Level-0 table #490: started
-2023/12/09-13:28:46.125 1df4 Level-0 table #490: 38399 bytes OK
-2023/12/09-13:28:46.136 1df4 Delete type=0 #488
-2023/12/09-13:28:46.330 1df4 Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 1998 : 1
-2023/12/09-13:28:46.330 1df4 Compacting 2@0 + 1@1 files
-2023/12/09-13:28:46.337 1df4 Generated table #491@0: 8 keys, 6404 bytes
-2023/12/09-13:28:46.337 1df4 Compacted 2@0 + 1@1 files => 6404 bytes
-2023/12/09-13:28:46.345 1df4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/09-13:28:46.345 1df4 Delete type=2 #479
-2023/12/09-13:28:46.345 1df4 Delete type=2 #483
-2023/12/09-13:28:46.345 1df4 Delete type=2 #490
-2023/12/09-13:28:46.345 1df4 Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 1998 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)
+2023/12/09-13:40:59.747 3220 Recovering log #489
+2023/12/09-13:40:59.764 3220 Delete type=0 #489
+2023/12/09-13:40:59.764 3220 Delete type=3 #487
+2023/12/09-18:44:14.778 1df4 Level-0 table #495: started
+2023/12/09-18:44:14.791 1df4 Level-0 table #495: 240186 bytes OK
+2023/12/09-18:44:14.802 1df4 Delete type=0 #493
+2023/12/09-18:44:15.145 1df4 Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 2044 : 1
+2023/12/09-18:44:15.145 1df4 Compacting 1@0 + 1@1 files
+2023/12/09-18:44:15.151 1df4 Generated table #496@0: 8 keys, 6418 bytes
+2023/12/09-18:44:15.151 1df4 Compacted 1@0 + 1@1 files => 6418 bytes
+2023/12/09-18:44:15.162 1df4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/09-18:44:15.162 1df4 Delete type=2 #491
+2023/12/09-18:44:15.162 1df4 Delete type=2 #495
+2023/12/09-18:44:15.162 1df4 Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 2044 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)

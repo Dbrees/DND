@@ -1,21 +1,7 @@
-2023/12/09-13:40:59.656 3220 Recovering log #1458
-2023/12/09-13:40:59.681 3220 Delete type=0 #1458
-2023/12/09-13:40:59.681 3220 Delete type=3 #1455
-2023/12/09-15:15:11.366 1df4 Level-0 table #1464: started
-2023/12/09-15:15:11.534 1df4 Level-0 table #1464: 3441547 bytes OK
-2023/12/09-15:15:11.561 1df4 Delete type=0 #1462
-2023/12/09-15:37:29.468 1df4 Compacting 1@0 + 1@1 files
-2023/12/09-15:37:29.619 1df4 Generated table #1465@0: 11996 keys, 1591439 bytes
-2023/12/09-15:37:29.619 1df4 Compacted 1@0 + 1@1 files => 1591439 bytes
-2023/12/09-15:37:29.640 1df4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/09-15:37:29.640 1df4 Delete type=2 #1460
-2023/12/09-15:37:29.640 1df4 Delete type=2 #1464
-2023/12/09-16:06:42.578 1df4 Level-0 table #1467: started
-2023/12/09-16:06:42.693 1df4 Level-0 table #1467: 3545307 bytes OK
-2023/12/09-16:06:42.699 1df4 Delete type=0 #1463
-2023/12/09-16:07:55.036 1df4 Compacting 1@0 + 1@1 files
-2023/12/09-16:07:55.183 1df4 Generated table #1468@0: 12051 keys, 1639128 bytes
-2023/12/09-16:07:55.183 1df4 Compacted 1@0 + 1@1 files => 1639128 bytes
-2023/12/09-16:07:55.206 1df4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/09-16:07:55.206 1df4 Delete type=2 #1465
-2023/12/09-16:07:55.206 1df4 Delete type=2 #1467
+2023/12/09-18:44:28.693 3220 Recovering log #1471
+2023/12/09-18:44:28.731 3220 Delete type=0 #1471
+2023/12/09-18:44:28.731 3220 Delete type=3 #1461
+2023/12/09-18:44:55.424 1df4 Level-0 table #1477: started
+2023/12/09-18:44:55.424 1df4 Level-0 table #1477: 0 bytes OK
+2023/12/09-18:44:55.432 1df4 Delete type=0 #1475
+2023/12/09-18:44:55.466 1df4 Manual compaction at level-0 from '!scenes!3F9vMrcZoelBbj3Z' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)

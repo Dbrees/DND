@@ -1,14 +1,14 @@
-2023/12/09-19:48:24.751 26ac Recovering log #574
-2023/12/09-19:48:24.760 26ac Delete type=0 #574
-2023/12/09-19:48:24.760 26ac Delete type=3 #572
-2023/12/09-19:49:47.391 16c4 Level-0 table #580: started
-2023/12/09-19:49:47.399 16c4 Level-0 table #580: 1219 bytes OK
-2023/12/09-19:49:47.403 16c4 Delete type=0 #578
-2023/12/09-19:49:47.416 16c4 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 649 : 1
-2023/12/09-19:49:47.416 16c4 Compacting 1@0 + 1@1 files
-2023/12/09-19:49:47.420 16c4 Generated table #581@0: 126 keys, 31904 bytes
-2023/12/09-19:49:47.420 16c4 Compacted 1@0 + 1@1 files => 31904 bytes
-2023/12/09-19:49:47.423 16c4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/09-19:49:47.423 16c4 Delete type=2 #576
-2023/12/09-19:49:47.423 16c4 Delete type=2 #580
-2023/12/09-19:49:47.425 16c4 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 649 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)
+2023/12/16-04:44:56.229 2324 Recovering log #628
+2023/12/16-04:44:56.277 2324 Delete type=0 #628
+2023/12/16-04:44:56.277 2324 Delete type=3 #626
+2023/12/16-13:45:43.152 3124 Level-0 table #634: started
+2023/12/16-13:45:43.161 3124 Level-0 table #634: 1354 bytes OK
+2023/12/16-13:45:43.185 3124 Delete type=0 #632
+2023/12/16-13:45:43.185 3124 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 710 : 1
+2023/12/16-13:45:43.185 3124 Compacting 1@0 + 1@1 files
+2023/12/16-13:45:43.198 3124 Generated table #635@0: 131 keys, 36117 bytes
+2023/12/16-13:45:43.198 3124 Compacted 1@0 + 1@1 files => 36117 bytes
+2023/12/16-13:45:43.206 3124 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/16-13:45:43.206 3124 Delete type=2 #630
+2023/12/16-13:45:43.207 3124 Delete type=2 #634
+2023/12/16-13:45:43.252 3124 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 710 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)

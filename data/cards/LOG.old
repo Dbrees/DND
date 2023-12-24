@@ -1,7 +1,4 @@
-2023/12/22-09:41:14.792 4eb0 Recovering log #509
-2023/12/22-09:41:14.858 4eb0 Delete type=0 #509
-2023/12/22-09:41:14.858 4eb0 Delete type=3 #508
-2023/12/23-09:31:08.196 4524 Level-0 table #513: started
-2023/12/23-09:31:08.197 4524 Level-0 table #513: 0 bytes OK
-2023/12/23-09:31:08.205 4524 Delete type=0 #511
-2023/12/23-09:31:08.206 4524 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/12/23-19:57:13.314 4ed4 Log #516: 0 ops saved to Table #517 OK
+2023/12/23-19:57:13.314 4ed4 Archiving E:/Foundry/Data/worlds/dnd/data/cards/000516.log: OK
+2023/12/23-19:57:13.324 4ed4 Archiving E:/Foundry/Data/worlds/dnd/data/cards/MANIFEST-000514: OK
+2023/12/23-19:57:13.328 4ed4 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

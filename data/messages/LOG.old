@@ -1,3 +1,7 @@
-2023/12/16-19:49:58.355 15a0 Recovering log #518
-2023/12/16-19:49:58.363 15a0 Delete type=0 #518
-2023/12/16-19:49:58.363 15a0 Delete type=3 #517
+2023/12/22-09:41:14.872 2f68 Recovering log #538
+2023/12/22-09:41:14.913 2f68 Delete type=0 #538
+2023/12/22-09:41:14.914 2f68 Delete type=3 #537
+2023/12/23-09:31:08.180 4524 Level-0 table #542: started
+2023/12/23-09:31:08.180 4524 Level-0 table #542: 0 bytes OK
+2023/12/23-09:31:08.189 4524 Delete type=0 #540
+2023/12/23-09:31:08.206 4524 Manual compaction at level-0 from '!messages!2KPYU0DJvhoBxJ3c' @ 72057594037927935 : 1 .. '!messages!zjFbE0E6stPMRwXF' @ 0 : 0; will stop at (end)

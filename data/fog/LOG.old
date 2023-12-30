@@ -1,8 +1,20 @@
-2023/12/23-19:57:13.432 4ed4 Log #942: 0 ops saved to Table #948 OK
-2023/12/23-19:57:13.432 4ed4 Archiving E:/Foundry/Data/worlds/dnd/data/fog/000942.log: OK
-2023/12/23-19:57:13.435 4ed4 Table #944: 33 entries OK
-2023/12/23-19:57:13.437 4ed4 Table #945: 30 entries OK
-2023/12/23-19:57:13.439 4ed4 Table #946: 29 entries OK
-2023/12/23-19:57:13.440 4ed4 Table #947: 24 entries OK
-2023/12/23-19:57:13.444 4ed4 Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-000940: OK
-2023/12/23-19:57:13.448 4ed4 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 4 files; 7787252 bytes. Some data may have been lost. ****
+2023/12/30-13:04:50.172 dfc Recovering log #1056
+2023/12/30-13:04:50.212 dfc Delete type=0 #1056
+2023/12/30-13:04:50.212 dfc Delete type=3 #1047
+2023/12/30-15:56:23.110 2154 Level-0 table #1066: started
+2023/12/30-15:56:23.170 2154 Level-0 table #1066: 1181775 bytes OK
+2023/12/30-15:56:23.192 2154 Delete type=0 #1064
+2023/12/30-15:56:23.192 2154 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!wCThea2KGCNOFCZA' @ 6889 : 1
+2023/12/30-15:56:23.192 2154 Compacting 1@0 + 4@1 files
+2023/12/30-15:56:23.292 2154 Generated table #1067@0: 29 keys, 2245633 bytes
+2023/12/30-15:56:23.393 2154 Generated table #1068@0: 33 keys, 2130033 bytes
+2023/12/30-15:56:23.488 2154 Generated table #1069@0: 30 keys, 2126200 bytes
+2023/12/30-15:56:23.505 2154 Generated table #1070@0: 7 keys, 785175 bytes
+2023/12/30-15:56:23.505 2154 Compacted 1@0 + 4@1 files => 7287041 bytes
+2023/12/30-15:56:23.513 2154 compacted to: files[ 0 5 0 0 0 0 0 ]
+2023/12/30-15:56:23.514 2154 Delete type=2 #1059
+2023/12/30-15:56:23.514 2154 Delete type=2 #1060
+2023/12/30-15:56:23.514 2154 Delete type=2 #1061
+2023/12/30-15:56:23.515 2154 Delete type=2 #1062
+2023/12/30-15:56:23.515 2154 Delete type=2 #1066
+2023/12/30-15:56:23.580 2154 Manual compaction at level-0 from '!fog!wCThea2KGCNOFCZA' @ 6889 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)

@@ -1,6 +1,7 @@
-2023/12/23-19:57:13.567 76c Log #528: 0 ops saved to Table #529 OK
-2023/12/23-19:57:13.567 76c Archiving E:/Foundry/Data/worlds/dnd/data/macros/000528.log: OK
-2023/12/23-19:57:13.570 76c Table #488: 2 entries OK
-2023/12/23-19:57:13.570 76c Table #511: 42 entries OK
-2023/12/23-19:57:13.575 76c Archiving E:/Foundry/Data/worlds/dnd/data/macros/MANIFEST-000526: OK
-2023/12/23-19:57:13.579 76c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/macros; recovered 2 files; 8610 bytes. Some data may have been lost. ****
+2023/12/30-13:04:50.347 53f8 Recovering log #552
+2023/12/30-13:04:50.385 53f8 Delete type=0 #552
+2023/12/30-13:04:50.385 53f8 Delete type=3 #550
+2023/12/30-15:56:22.239 2154 Level-0 table #557: started
+2023/12/30-15:56:22.240 2154 Level-0 table #557: 0 bytes OK
+2023/12/30-15:56:22.248 2154 Delete type=0 #555
+2023/12/30-15:56:22.248 2154 Manual compaction at level-0 from '!macros!2tFand1UTkET8Zji' @ 72057594037927935 : 1 .. '!macros!yEEStx552Un4Z4BL' @ 0 : 0; will stop at (end)

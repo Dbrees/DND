@@ -1,143 +1,25 @@
-2023/12/23-19:57:13.699 4744 Delete type=3 #1
-2023/12/23-20:40:37.340 39cc Level-0 table #2299: started
-2023/12/23-20:40:37.386 39cc Level-0 table #2299: 3466691 bytes OK
-2023/12/23-20:40:37.390 39cc Delete type=0 #2297
-2023/12/23-20:46:18.404 39cc Level-0 table #2301: started
-2023/12/23-20:46:18.445 39cc Level-0 table #2301: 3410332 bytes OK
-2023/12/23-20:46:18.449 39cc Delete type=0 #2298
-2023/12/23-20:46:18.449 39cc Compacting 3@0 + 0@1 files
-2023/12/23-20:46:18.486 39cc Generated table #2302@0: 14453 keys, 1962522 bytes
-2023/12/23-20:46:18.486 39cc Compacted 3@0 + 0@1 files => 1962522 bytes
-2023/12/23-20:46:18.490 39cc compacted to: files[ 1 1 0 0 0 0 0 ]
-2023/12/23-20:46:18.490 39cc Delete type=2 #2294
-2023/12/23-20:46:18.490 39cc Delete type=2 #2299
-2023/12/23-20:46:18.490 39cc Delete type=2 #2301
-2023/12/23-21:07:15.736 39cc Level-0 table #2304: started
-2023/12/23-21:07:15.776 39cc Level-0 table #2304: 3375954 bytes OK
-2023/12/23-21:07:15.784 39cc Delete type=0 #2300
-2023/12/23-21:15:05.715 39cc Level-0 table #2306: started
-2023/12/23-21:15:05.757 39cc Level-0 table #2306: 3376700 bytes OK
-2023/12/23-21:15:05.760 39cc Delete type=0 #2303
-2023/12/23-21:15:58.039 39cc Level-0 table #2308: started
-2023/12/23-21:15:58.077 39cc Level-0 table #2308: 3378073 bytes OK
-2023/12/23-21:15:58.079 39cc Delete type=0 #2305
-2023/12/23-21:15:58.082 39cc Moved #1802 to level-1 207114 bytes OK: files[ 3 2 0 0 0 0 0 ]
-2023/12/23-21:16:47.590 39cc Level-0 table #2310: started
-2023/12/23-21:16:47.628 39cc Level-0 table #2310: 3353589 bytes OK
-2023/12/23-21:16:47.630 39cc Delete type=0 #2307
-2023/12/23-21:16:47.630 39cc Compacting 4@0 + 1@1 files
-2023/12/23-21:16:47.674 39cc Generated table #2311@0: 14451 keys, 1963993 bytes
-2023/12/23-21:16:47.674 39cc Compacted 4@0 + 1@1 files => 1963993 bytes
-2023/12/23-21:16:47.676 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-21:16:47.676 39cc Delete type=2 #2302
-2023/12/23-21:16:47.677 39cc Delete type=2 #2304
-2023/12/23-21:16:47.677 39cc Delete type=2 #2306
-2023/12/23-21:16:47.677 39cc Delete type=2 #2308
-2023/12/23-21:16:47.677 39cc Delete type=2 #2310
-2023/12/23-21:43:40.741 39cc Level-0 table #2313: started
-2023/12/23-21:43:40.777 39cc Level-0 table #2313: 3346699 bytes OK
-2023/12/23-21:43:40.779 39cc Delete type=0 #2309
-2023/12/23-21:44:08.151 39cc Level-0 table #2315: started
-2023/12/23-21:44:08.189 39cc Level-0 table #2315: 3333939 bytes OK
-2023/12/23-21:44:08.192 39cc Delete type=0 #2312
-2023/12/23-22:11:40.519 39cc Level-0 table #2317: started
-2023/12/23-22:11:40.559 39cc Level-0 table #2317: 3375635 bytes OK
-2023/12/23-22:11:40.566 39cc Delete type=0 #2314
-2023/12/23-22:18:18.394 39cc Compacting 3@0 + 1@1 files
-2023/12/23-22:18:18.442 39cc Generated table #2318@0: 14450 keys, 1964005 bytes
-2023/12/23-22:18:18.442 39cc Compacted 3@0 + 1@1 files => 1964005 bytes
-2023/12/23-22:18:18.443 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-22:18:18.443 39cc Delete type=2 #2311
-2023/12/23-22:18:18.444 39cc Delete type=2 #2313
-2023/12/23-22:18:18.444 39cc Delete type=2 #2315
-2023/12/23-22:18:18.444 39cc Delete type=2 #2317
-2023/12/23-22:29:33.518 39cc Level-0 table #2320: started
-2023/12/23-22:29:33.563 39cc Level-0 table #2320: 3406127 bytes OK
-2023/12/23-22:29:33.571 39cc Delete type=0 #2316
-2023/12/23-22:31:17.933 39cc Level-0 table #2322: started
-2023/12/23-22:31:17.975 39cc Level-0 table #2322: 3507006 bytes OK
-2023/12/23-22:31:17.977 39cc Delete type=0 #2319
-2023/12/23-22:34:07.005 39cc Level-0 table #2324: started
-2023/12/23-22:34:07.046 39cc Level-0 table #2324: 3641430 bytes OK
-2023/12/23-22:34:07.048 39cc Delete type=0 #2321
-2023/12/23-22:36:43.544 39cc Level-0 table #2326: started
-2023/12/23-22:36:43.587 39cc Level-0 table #2326: 3596980 bytes OK
-2023/12/23-22:36:43.590 39cc Delete type=0 #2323
-2023/12/23-22:36:43.591 39cc Compacting 4@0 + 1@1 files
-2023/12/23-22:36:43.647 39cc Generated table #2327@0: 14503 keys, 1974338 bytes
-2023/12/23-22:36:43.647 39cc Compacted 4@0 + 1@1 files => 1974338 bytes
-2023/12/23-22:36:43.655 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-22:36:43.656 39cc Delete type=2 #2318
-2023/12/23-22:36:43.656 39cc Delete type=2 #2320
-2023/12/23-22:36:43.656 39cc Delete type=2 #2322
-2023/12/23-22:36:43.657 39cc Delete type=2 #2324
-2023/12/23-22:36:43.657 39cc Delete type=2 #2326
-2023/12/23-22:40:35.696 39cc Level-0 table #2329: started
-2023/12/23-22:40:35.732 39cc Level-0 table #2329: 3701543 bytes OK
-2023/12/23-22:40:35.734 39cc Delete type=0 #2325
-2023/12/23-22:46:41.794 39cc Level-0 table #2331: started
-2023/12/23-22:46:41.829 39cc Level-0 table #2331: 3688352 bytes OK
-2023/12/23-22:46:41.832 39cc Delete type=0 #2328
-2023/12/23-23:18:32.084 39cc Level-0 table #2333: started
-2023/12/23-23:18:32.130 39cc Level-0 table #2333: 3637472 bytes OK
-2023/12/23-23:18:32.132 39cc Delete type=0 #2330
-2023/12/23-23:24:03.249 39cc Level-0 table #2335: started
-2023/12/23-23:24:03.284 39cc Level-0 table #2335: 3556579 bytes OK
-2023/12/23-23:24:03.286 39cc Delete type=0 #2332
-2023/12/23-23:24:03.286 39cc Compacting 4@0 + 1@1 files
-2023/12/23-23:24:03.329 39cc Generated table #2336@0: 14529 keys, 1992824 bytes
-2023/12/23-23:24:03.329 39cc Compacted 4@0 + 1@1 files => 1992824 bytes
-2023/12/23-23:24:03.330 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-23:24:03.331 39cc Delete type=2 #2327
-2023/12/23-23:24:03.331 39cc Delete type=2 #2329
-2023/12/23-23:24:03.331 39cc Delete type=2 #2331
-2023/12/23-23:24:03.332 39cc Delete type=2 #2333
-2023/12/23-23:24:03.332 39cc Delete type=2 #2335
-2023/12/23-23:25:10.163 39cc Level-0 table #2338: started
-2023/12/23-23:25:10.199 39cc Level-0 table #2338: 3924430 bytes OK
-2023/12/23-23:25:10.202 39cc Delete type=0 #2334
-2023/12/23-23:32:12.989 39cc Level-0 table #2340: started
-2023/12/23-23:32:13.028 39cc Level-0 table #2340: 3978185 bytes OK
-2023/12/23-23:32:13.031 39cc Delete type=0 #2337
-2023/12/23-23:32:26.616 39cc Level-0 table #2342: started
-2023/12/23-23:32:26.658 39cc Level-0 table #2342: 3955105 bytes OK
-2023/12/23-23:32:26.661 39cc Delete type=0 #2339
-2023/12/23-23:32:45.111 39cc Level-0 table #2344: started
-2023/12/23-23:32:45.152 39cc Level-0 table #2344: 3903408 bytes OK
-2023/12/23-23:32:45.156 39cc Delete type=0 #2341
-2023/12/23-23:32:45.156 39cc Compacting 4@0 + 1@1 files
-2023/12/23-23:32:45.208 39cc Generated table #2345@0: 14535 keys, 1999591 bytes
-2023/12/23-23:32:45.208 39cc Compacted 4@0 + 1@1 files => 1999591 bytes
-2023/12/23-23:32:45.210 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-23:32:45.210 39cc Delete type=2 #2336
-2023/12/23-23:32:45.210 39cc Delete type=2 #2338
-2023/12/23-23:32:45.210 39cc Delete type=2 #2340
-2023/12/23-23:32:45.211 39cc Delete type=2 #2342
-2023/12/23-23:32:45.211 39cc Delete type=2 #2344
-2023/12/23-23:34:03.615 39cc Level-0 table #2347: started
-2023/12/23-23:34:03.658 39cc Level-0 table #2347: 3904211 bytes OK
-2023/12/23-23:34:03.661 39cc Delete type=0 #2343
-2023/12/23-23:47:29.047 39cc Level-0 table #2349: started
-2023/12/23-23:47:29.087 39cc Level-0 table #2349: 3838428 bytes OK
-2023/12/23-23:47:29.089 39cc Delete type=0 #2346
-2023/12/23-23:56:25.400 39cc Level-0 table #2351: started
-2023/12/23-23:56:25.435 39cc Level-0 table #2351: 3821493 bytes OK
-2023/12/23-23:56:25.444 39cc Delete type=0 #2348
-2023/12/23-23:56:57.331 39cc Level-0 table #2353: started
-2023/12/23-23:56:57.372 39cc Level-0 table #2353: 3825748 bytes OK
-2023/12/23-23:56:57.375 39cc Delete type=0 #2350
-2023/12/23-23:56:57.375 39cc Compacting 4@0 + 1@1 files
-2023/12/23-23:56:57.425 39cc Generated table #2354@0: 14535 keys, 2001823 bytes
-2023/12/23-23:56:57.425 39cc Compacted 4@0 + 1@1 files => 2001823 bytes
-2023/12/23-23:56:57.426 39cc compacted to: files[ 0 2 0 0 0 0 0 ]
-2023/12/23-23:56:57.426 39cc Delete type=2 #2345
-2023/12/23-23:56:57.426 39cc Delete type=2 #2347
-2023/12/23-23:56:57.428 39cc Delete type=2 #2349
-2023/12/23-23:56:57.428 39cc Delete type=2 #2351
-2023/12/23-23:56:57.428 39cc Delete type=2 #2353
-2023/12/23-23:57:44.753 39cc Level-0 table #2356: started
-2023/12/23-23:57:44.791 39cc Level-0 table #2356: 3835917 bytes OK
-2023/12/23-23:57:44.793 39cc Delete type=0 #2352
-2023/12/23-23:58:32.856 39cc Level-0 table #2358: started
-2023/12/23-23:58:32.896 39cc Level-0 table #2358: 3829282 bytes OK
-2023/12/23-23:58:32.899 39cc Delete type=0 #2355
+2023/12/30-15:56:38.219 5f08 Recovering log #2648
+2023/12/30-15:56:38.235 5f08 Delete type=0 #2648
+2023/12/30-15:56:38.235 5f08 Delete type=3 #2618
+2023/12/30-15:59:28.764 2154 Level-0 table #2654: started
+2023/12/30-15:59:28.981 2154 Level-0 table #2654: 4045280 bytes OK
+2023/12/30-15:59:28.998 2154 Delete type=0 #2652
+2023/12/30-15:59:56.379 2154 Level-0 table #2656: started
+2023/12/30-15:59:56.576 2154 Level-0 table #2656: 4004302 bytes OK
+2023/12/30-15:59:56.588 2154 Delete type=0 #2653
+2023/12/30-16:07:25.698 2154 Level-0 table #2658: started
+2023/12/30-16:07:25.904 2154 Level-0 table #2658: 4116812 bytes OK
+2023/12/30-16:07:25.908 2154 Delete type=0 #2655
+2023/12/30-16:14:37.587 2154 Level-0 table #2660: started
+2023/12/30-16:14:37.884 2154 Level-0 table #2660: 4172030 bytes OK
+2023/12/30-16:14:37.901 2154 Delete type=0 #2657
+2023/12/30-16:14:37.901 2154 Compacting 4@0 + 1@1 files
+2023/12/30-16:14:38.075 2154 Generated table #2661@0: 14266 keys, 2151429 bytes
+2023/12/30-16:14:38.094 2154 Generated table #2662@0: 157 keys, 11358 bytes
+2023/12/30-16:14:38.094 2154 Compacted 4@0 + 1@1 files => 2162787 bytes
+2023/12/30-16:14:38.099 2154 compacted to: files[ 0 14 0 0 0 0 0 ]
+2023/12/30-16:14:38.099 2154 Delete type=2 #2650
+2023/12/30-16:14:38.099 2154 Delete type=2 #2654
+2023/12/30-16:14:38.100 2154 Delete type=2 #2656
+2023/12/30-16:14:38.100 2154 Delete type=2 #2658
+2023/12/30-16:14:38.100 2154 Delete type=2 #2660

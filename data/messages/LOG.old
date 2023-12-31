@@ -1,14 +1,1 @@
-2023/12/30-13:04:50.035 5f08 Recovering log #571
-2023/12/30-13:04:50.071 5f08 Delete type=0 #571
-2023/12/30-13:04:50.071 5f08 Delete type=3 #569
-2023/12/30-15:56:21.692 2154 Level-0 table #576: started
-2023/12/30-15:56:21.700 2154 Level-0 table #576: 5280 bytes OK
-2023/12/30-15:56:21.708 2154 Delete type=0 #574
-2023/12/30-15:56:21.880 2154 Manual compaction at level-0 from '!messages!02saTxs8SdTBsoMS' @ 72057594037927935 : 1 .. '!messages!zvRG6HgWKm92UO0N' @ 0 : 0; will stop at '!messages!z22D3BMKQVH9CSwz' @ 8941 : 1
-2023/12/30-15:56:21.880 2154 Compacting 1@0 + 1@1 files
-2023/12/30-15:56:21.934 2154 Generated table #577@0: 550 keys, 402343 bytes
-2023/12/30-15:56:21.934 2154 Compacted 1@0 + 1@1 files => 402343 bytes
-2023/12/30-15:56:21.951 2154 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/30-15:56:21.951 2154 Delete type=2 #558
-2023/12/30-15:56:21.952 2154 Delete type=2 #576
-2023/12/30-15:56:22.197 2154 Manual compaction at level-0 from '!messages!z22D3BMKQVH9CSwz' @ 8941 : 1 .. '!messages!zvRG6HgWKm92UO0N' @ 0 : 0; will stop at (end)
+2023/12/30-19:52:42.643 2214 Delete type=3 #1

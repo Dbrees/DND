@@ -1,14 +1,1 @@
-2023/12/30-13:04:50.550 dfc Recovering log #706
-2023/12/30-13:04:50.582 dfc Delete type=0 #706
-2023/12/30-13:04:50.582 dfc Delete type=3 #704
-2023/12/30-15:56:22.290 2154 Level-0 table #712: started
-2023/12/30-15:56:22.297 2154 Level-0 table #712: 5569 bytes OK
-2023/12/30-15:56:22.307 2154 Delete type=0 #710
-2023/12/30-15:56:22.883 2154 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 809 : 1
-2023/12/30-15:56:22.883 2154 Compacting 1@0 + 1@1 files
-2023/12/30-15:56:22.915 2154 Generated table #713@0: 131 keys, 42514 bytes
-2023/12/30-15:56:22.915 2154 Compacted 1@0 + 1@1 files => 42514 bytes
-2023/12/30-15:56:22.923 2154 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/12/30-15:56:22.924 2154 Delete type=2 #708
-2023/12/30-15:56:22.924 2154 Delete type=2 #712
-2023/12/30-15:56:23.192 2154 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 809 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)
+2023/12/30-19:52:43.162 40dc Delete type=3 #1

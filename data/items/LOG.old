@@ -1,16 +1,11 @@
-2024/01/06-18:17:34.841 8f60 Recovering log #670
-2024/01/06-18:17:34.842 8f60 Level-0 table #672: started
-2024/01/06-18:17:34.852 8f60 Level-0 table #672: 17242 bytes OK
-2024/01/06-18:17:34.894 8f60 Delete type=0 #670
-2024/01/06-18:17:34.894 8f60 Delete type=3 #669
-2024/01/06-18:20:16.205 7a20 Level-0 table #675: started
-2024/01/06-18:20:16.205 7a20 Level-0 table #675: 0 bytes OK
-2024/01/06-18:20:16.213 7a20 Delete type=0 #673
-2024/01/06-18:20:16.253 7a20 Manual compaction at level-0 from '!items!CBkCI73xPZkVPBu5' @ 72057594037927935 : 1 .. '!items!wZBrM7H86gT11KPR' @ 0 : 0; will stop at '!items.effects!CBkCI73xPZkVPBu5.xIDCpu0bLzfJOJBV' @ 146 : 0
-2024/01/06-18:20:16.253 7a20 Compacting 1@0 + 1@1 files
-2024/01/06-18:20:16.265 7a20 Generated table #676@0: 13 keys, 12923 bytes
-2024/01/06-18:20:16.265 7a20 Compacted 1@0 + 1@1 files => 12923 bytes
-2024/01/06-18:20:16.275 7a20 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/06-18:20:16.276 7a20 Delete type=2 #660
-2024/01/06-18:20:16.276 7a20 Delete type=2 #672
-2024/01/06-18:20:16.276 7a20 Manual compaction at level-0 from '!items.effects!CBkCI73xPZkVPBu5.xIDCpu0bLzfJOJBV' @ 146 : 0 .. '!items!wZBrM7H86gT11KPR' @ 0 : 0; will stop at (end)
+2024/01/06-19:25:33.078 4798 Delete type=3 #1
+2024/01/06-19:25:36.107 56d4 Level-0 table #684: started
+2024/01/06-19:25:36.107 56d4 Level-0 table #684: 0 bytes OK
+2024/01/06-19:25:36.123 56d4 Delete type=0 #682
+2024/01/06-19:25:36.139 56d4 Manual compaction at level-0 from '!items!CBkCI73xPZkVPBu5' @ 72057594037927935 : 1 .. '!items!wZBrM7H86gT11KPR' @ 0 : 0; will stop at '!items!wZBrM7H86gT11KPR' @ 169 : 1
+2024/01/06-19:25:36.139 56d4 Compacting 1@0 + 0@1 files
+2024/01/06-19:25:36.142 56d4 Generated table #685@0: 13 keys, 12923 bytes
+2024/01/06-19:25:36.142 56d4 Compacted 1@0 + 0@1 files => 12923 bytes
+2024/01/06-19:25:36.146 56d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/06-19:25:36.146 56d4 Delete type=2 #676
+2024/01/06-19:25:36.175 56d4 Manual compaction at level-0 from '!items!wZBrM7H86gT11KPR' @ 169 : 1 .. '!items!wZBrM7H86gT11KPR' @ 0 : 0; will stop at (end)

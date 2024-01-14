@@ -1,11 +1,14 @@
-2024/01/06-19:25:33.103 3eac Delete type=3 #1
-2024/01/06-19:25:36.133 56d4 Level-0 table #685: started
-2024/01/06-19:25:36.133 56d4 Level-0 table #685: 0 bytes OK
-2024/01/06-19:25:36.139 56d4 Delete type=0 #683
-2024/01/06-19:25:36.161 56d4 Manual compaction at level-0 from '!journal!0z5cGTGUNQuiQvCI' @ 72057594037927935 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 307 : 1
-2024/01/06-19:25:36.161 56d4 Compacting 1@0 + 0@1 files
-2024/01/06-19:25:36.171 56d4 Generated table #686@0: 21 keys, 15851 bytes
-2024/01/06-19:25:36.171 56d4 Compacted 1@0 + 0@1 files => 15851 bytes
-2024/01/06-19:25:36.175 56d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/06-19:25:36.175 56d4 Delete type=2 #663
-2024/01/06-19:25:36.197 56d4 Manual compaction at level-0 from '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 307 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at (end)
+2024/01/13-01:58:41.295 33a8 Recovering log #729
+2024/01/13-01:58:41.321 33a8 Delete type=0 #729
+2024/01/13-01:58:41.321 33a8 Delete type=3 #727
+2024/01/13-02:02:08.479 27d8 Level-0 table #734: started
+2024/01/13-02:02:08.488 27d8 Level-0 table #734: 2732 bytes OK
+2024/01/13-02:02:08.515 27d8 Delete type=0 #732
+2024/01/13-02:02:08.553 27d8 Manual compaction at level-0 from '!journal!0z5cGTGUNQuiQvCI' @ 72057594037927935 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at '!journal.pages!K8tIwIC7XVG9lMVi.yrN3Hi9J2XauxHwO' @ 805 : 1
+2024/01/13-02:02:08.553 27d8 Compacting 1@0 + 1@1 files
+2024/01/13-02:02:08.562 27d8 Generated table #735@0: 34 keys, 10360 bytes
+2024/01/13-02:02:08.562 27d8 Compacted 1@0 + 1@1 files => 10360 bytes
+2024/01/13-02:02:08.572 27d8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/13-02:02:08.572 27d8 Delete type=2 #722
+2024/01/13-02:02:08.572 27d8 Delete type=2 #734
+2024/01/13-02:02:08.590 27d8 Manual compaction at level-0 from '!journal.pages!K8tIwIC7XVG9lMVi.yrN3Hi9J2XauxHwO' @ 805 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at (end)

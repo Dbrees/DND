@@ -1,7 +1,6 @@
-2024/01/13-01:58:41.404 33a8 Recovering log #3232
-2024/01/13-01:58:41.444 33a8 Delete type=0 #3232
-2024/01/13-01:58:41.444 33a8 Delete type=3 #3230
-2024/01/13-02:02:08.601 27d8 Level-0 table #3237: started
-2024/01/13-02:02:08.601 27d8 Level-0 table #3237: 0 bytes OK
-2024/01/13-02:02:08.610 27d8 Delete type=0 #3235
-2024/01/13-02:02:08.643 27d8 Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2024/01/13-20:19:58.837 4a38 Log #3302: 0 ops saved to Table #3306 OK
+2024/01/13-20:19:58.837 4a38 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/003302.log: OK
+2024/01/13-20:19:58.844 4a38 Table #3304: 10475 entries OK
+2024/01/13-20:19:58.847 4a38 Table #3305: 10904 entries OK
+2024/01/13-20:19:58.853 4a38 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-003238: OK
+2024/01/13-20:19:58.857 4a38 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 2 files; 2953282 bytes. Some data may have been lost. ****

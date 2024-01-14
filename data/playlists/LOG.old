@@ -1,7 +1,5 @@
-2024/01/13-01:58:41.350 33a8 Recovering log #713
-2024/01/13-01:58:41.372 33a8 Delete type=0 #713
-2024/01/13-01:58:41.372 33a8 Delete type=3 #711
-2024/01/13-02:02:08.573 27d8 Level-0 table #718: started
-2024/01/13-02:02:08.573 27d8 Level-0 table #718: 0 bytes OK
-2024/01/13-02:02:08.581 27d8 Delete type=0 #716
-2024/01/13-02:02:08.590 27d8 Manual compaction at level-0 from '!playlists!1RT1ToKZ8Dow2srR' @ 72057594037927935 : 1 .. '!playlists.sounds!zxfjZxuE5dfcjafd.n1dW5XpxpjCul5O9' @ 0 : 0; will stop at (end)
+2024/01/13-20:19:58.747 578 Log #721: 0 ops saved to Table #724 OK
+2024/01/13-20:19:58.747 578 Archiving E:/Foundry/Data/worlds/dnd/data/playlists/000721.log: OK
+2024/01/13-20:19:58.748 578 Table #723: 44 entries OK
+2024/01/13-20:19:58.752 578 Archiving E:/Foundry/Data/worlds/dnd/data/playlists/MANIFEST-000719: OK
+2024/01/13-20:19:58.763 578 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/playlists; recovered 1 files; 5302 bytes. Some data may have been lost. ****

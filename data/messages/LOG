@@ -1,14 +1,1 @@
-2024/01/13-03:23:05.184 3050 Recovering log #749
-2024/01/13-03:23:05.201 3050 Delete type=0 #749
-2024/01/13-03:23:05.201 3050 Delete type=3 #747
-2024/01/13-19:14:16.196 6d4 Level-0 table #754: started
-2024/01/13-19:14:16.219 6d4 Level-0 table #754: 7894 bytes OK
-2024/01/13-19:14:16.240 6d4 Delete type=0 #752
-2024/01/13-19:14:16.262 6d4 Manual compaction at level-0 from '!messages!8ZQAdkZfWBJT9I2x' @ 72057594037927935 : 1 .. '!messages!8ZQAdkZfWBJT9I2x' @ 0 : 0; will stop at '!messages!znwqgko0FYyW1WWF' @ 15020 : 0
-2024/01/13-19:14:16.262 6d4 Compacting 1@0 + 1@1 files
-2024/01/13-19:14:16.277 6d4 Generated table #755@0: 1 keys, 739 bytes
-2024/01/13-19:14:16.277 6d4 Compacted 1@0 + 1@1 files => 739 bytes
-2024/01/13-19:14:16.305 6d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/13-19:14:16.306 6d4 Delete type=2 #742
-2024/01/13-19:14:16.306 6d4 Delete type=2 #754
-2024/01/13-19:14:16.606 6d4 Manual compaction at level-0 from '!messages!znwqgko0FYyW1WWF' @ 15020 : 0 .. '!messages!8ZQAdkZfWBJT9I2x' @ 0 : 0; will stop at (end)
+2024/01/13-20:19:58.466 578 Delete type=3 #1

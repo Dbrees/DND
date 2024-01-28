@@ -1,5 +1,3 @@
-2024/01/13-20:19:58.634 2d0c Log #736: 0 ops saved to Table #739 OK
-2024/01/13-20:19:58.634 2d0c Archiving E:/Foundry/Data/worlds/dnd/data/items/000736.log: OK
-2024/01/13-20:19:58.635 2d0c Table #738: 19 entries OK
-2024/01/13-20:19:58.639 2d0c Archiving E:/Foundry/Data/worlds/dnd/data/items/MANIFEST-000734: OK
-2024/01/13-20:19:58.649 2d0c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/items; recovered 1 files; 21108 bytes. Some data may have been lost. ****
+2024/01/26-20:44:45.166 4620 Recovering log #841
+2024/01/26-20:44:45.201 4620 Delete type=0 #841
+2024/01/26-20:44:45.201 4620 Delete type=3 #840

@@ -1,4 +1,3 @@
-2024/01/13-20:19:58.396 37c8 Log #706: 0 ops saved to Table #707 OK
-2024/01/13-20:19:58.397 37c8 Archiving E:/Foundry/Data/worlds/dnd/data/cards/000706.log: OK
-2024/01/13-20:19:58.403 37c8 Archiving E:/Foundry/Data/worlds/dnd/data/cards/MANIFEST-000704: OK
-2024/01/13-20:19:58.407 37c8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/01/26-20:44:44.161 4620 Recovering log #806
+2024/01/26-20:44:44.187 4620 Delete type=0 #806
+2024/01/26-20:44:44.187 4620 Delete type=3 #805

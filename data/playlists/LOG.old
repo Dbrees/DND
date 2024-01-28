@@ -1,5 +1,3 @@
-2024/01/13-20:19:58.747 578 Log #721: 0 ops saved to Table #724 OK
-2024/01/13-20:19:58.747 578 Archiving E:/Foundry/Data/worlds/dnd/data/playlists/000721.log: OK
-2024/01/13-20:19:58.748 578 Table #723: 44 entries OK
-2024/01/13-20:19:58.752 578 Archiving E:/Foundry/Data/worlds/dnd/data/playlists/MANIFEST-000719: OK
-2024/01/13-20:19:58.763 578 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/playlists; recovered 1 files; 5302 bytes. Some data may have been lost. ****
+2024/01/26-20:44:45.387 44d0 Recovering log #825
+2024/01/26-20:44:45.427 44d0 Delete type=0 #825
+2024/01/26-20:44:45.427 44d0 Delete type=3 #824

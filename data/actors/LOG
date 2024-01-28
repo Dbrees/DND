@@ -1,12 +1,27 @@
-2024/01/13-20:19:58.372 2d0c Delete type=3 #1
-2024/01/13-23:35:34.644 115c Level-0 table #852: started
-2024/01/13-23:35:34.697 115c Level-0 table #852: 2382402 bytes OK
-2024/01/13-23:35:34.702 115c Delete type=0 #850
-2024/01/13-23:35:35.357 115c Compacting 3@0 + 0@1 files
-2024/01/13-23:35:35.504 115c Generated table #853@0: 1497 keys, 2124661 bytes
-2024/01/13-23:35:35.543 115c Generated table #854@0: 539 keys, 499487 bytes
-2024/01/13-23:35:35.543 115c Compacted 3@0 + 0@1 files => 2624148 bytes
-2024/01/13-23:35:35.545 115c compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/01/13-23:35:35.545 115c Delete type=2 #846
-2024/01/13-23:35:35.545 115c Delete type=2 #847
-2024/01/13-23:35:35.545 115c Delete type=2 #852
+2024/01/27-10:55:47.806 2cd0 Recovering log #967
+2024/01/27-10:55:47.806 2cd0 Level-0 table #969: started
+2024/01/27-10:55:47.834 2cd0 Level-0 table #969: 58270 bytes OK
+2024/01/27-10:55:47.852 2cd0 Delete type=0 #967
+2024/01/27-10:55:47.853 2cd0 Delete type=3 #966
+2024/01/27-10:57:33.465 5c8 Compacting 2@0 + 2@1 files
+2024/01/27-10:57:33.833 5c8 Generated table #971@0: 1495 keys, 2124759 bytes
+2024/01/27-10:57:33.870 5c8 Generated table #972@0: 546 keys, 505340 bytes
+2024/01/27-10:57:33.870 5c8 Compacted 2@0 + 2@1 files => 2630099 bytes
+2024/01/27-10:57:33.913 5c8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/01/27-10:57:33.913 5c8 Delete type=2 #923
+2024/01/27-10:57:33.913 5c8 Delete type=2 #924
+2024/01/27-10:57:33.914 5c8 Delete type=2 #960
+2024/01/27-10:57:33.914 5c8 Delete type=2 #969
+2024/01/27-18:39:57.550 5c8 Level-0 table #974: started
+2024/01/27-18:39:57.583 5c8 Level-0 table #974: 817810 bytes OK
+2024/01/27-18:39:57.594 5c8 Delete type=0 #970
+2024/01/27-18:39:57.595 5c8 Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items.effects!RBLDAWajgHJxhs9b.EJzLXE48tcT8txOD.7Dso3a3JitrpfiIY' @ 17384 : 1
+2024/01/27-18:39:57.595 5c8 Compacting 1@0 + 2@1 files
+2024/01/27-18:39:57.974 5c8 Generated table #975@0: 1480 keys, 2125199 bytes
+2024/01/27-18:39:58.027 5c8 Generated table #976@0: 674 keys, 659695 bytes
+2024/01/27-18:39:58.027 5c8 Compacted 1@0 + 2@1 files => 2784894 bytes
+2024/01/27-18:39:58.090 5c8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/01/27-18:39:58.090 5c8 Delete type=2 #971
+2024/01/27-18:39:58.090 5c8 Delete type=2 #972
+2024/01/27-18:39:58.090 5c8 Delete type=2 #974
+2024/01/27-18:39:58.227 5c8 Manual compaction at level-0 from '!actors.items.effects!RBLDAWajgHJxhs9b.EJzLXE48tcT8txOD.7Dso3a3JitrpfiIY' @ 17384 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)

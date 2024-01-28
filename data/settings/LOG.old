@@ -1,5 +1,14 @@
-2024/01/13-20:19:58.939 4a38 Log #961: 0 ops saved to Table #964 OK
-2024/01/13-20:19:58.939 4a38 Archiving E:/Foundry/Data/worlds/dnd/data/settings/000961.log: OK
-2024/01/13-20:19:58.939 4a38 Table #963: 170 entries OK
-2024/01/13-20:19:58.951 4a38 Archiving E:/Foundry/Data/worlds/dnd/data/settings/MANIFEST-000959: OK
-2024/01/13-20:19:58.955 4a38 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/settings; recovered 1 files; 49739 bytes. Some data may have been lost. ****
+2024/01/26-20:44:46.636 3254 Recovering log #1099
+2024/01/26-20:44:46.636 3254 Level-0 table #1101: started
+2024/01/26-20:44:46.659 3254 Level-0 table #1101: 5743 bytes OK
+2024/01/26-20:44:46.678 3254 Delete type=0 #1099
+2024/01/26-20:44:46.678 3254 Delete type=3 #1097
+2024/01/26-20:44:46.678 23ac Compacting 4@0 + 1@1 files
+2024/01/26-20:44:46.767 23ac Generated table #1103@0: 170 keys, 52422 bytes
+2024/01/26-20:44:46.767 23ac Compacted 4@0 + 1@1 files => 52422 bytes
+2024/01/26-20:44:46.818 23ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/26-20:44:46.818 23ac Delete type=2 #1088
+2024/01/26-20:44:46.818 23ac Delete type=2 #1092
+2024/01/26-20:44:46.818 23ac Delete type=2 #1095
+2024/01/26-20:44:46.818 23ac Delete type=2 #1098
+2024/01/26-20:44:46.818 23ac Delete type=2 #1101

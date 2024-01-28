@@ -1,7 +1,3 @@
-2024/01/13-20:19:58.473 2d0c Log #710: 0 ops saved to Table #711 OK
-2024/01/13-20:19:58.473 2d0c Archiving E:/Foundry/Data/worlds/dnd/data/combats/000710.log: OK
-2024/01/13-20:19:58.476 2d0c Table #596: 17 entries OK
-2024/01/13-20:19:58.477 2d0c Table #665: 688 entries OK
-2024/01/13-20:19:58.480 2d0c Table #671: 18 entries OK
-2024/01/13-20:19:58.485 2d0c Archiving E:/Foundry/Data/worlds/dnd/data/combats/MANIFEST-000708: OK
-2024/01/13-20:19:58.488 2d0c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/combats; recovered 3 files; 59700 bytes. Some data may have been lost. ****
+2024/01/26-20:44:44.315 4620 Recovering log #811
+2024/01/26-20:44:44.350 4620 Delete type=0 #811
+2024/01/26-20:44:44.350 4620 Delete type=3 #810

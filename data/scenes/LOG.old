@@ -1,18 +1,6 @@
-2024/01/26-20:44:45.583 44d0 Recovering log #3528
-2024/01/26-20:44:45.635 44d0 Level-0 table #3531: started
-2024/01/26-20:44:45.849 44d0 Level-0 table #3531: 1022378 bytes OK
-2024/01/26-20:44:45.883 44d0 Delete type=0 #3528
-2024/01/26-20:44:45.883 44d0 Delete type=3 #3524
-2024/01/26-20:44:53.924 23ac Compacting 3@0 + 2@1 files
-2024/01/26-20:44:54.261 23ac Generated table #3533@0: 9233 keys, 2143804 bytes
-2024/01/26-20:44:54.414 23ac Generated table #3534@0: 13793 keys, 1042365 bytes
-2024/01/26-20:44:54.414 23ac Compacted 3@0 + 2@1 files => 3186169 bytes
-2024/01/26-20:44:54.461 23ac compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/01/26-20:44:54.461 23ac Delete type=2 #3520
-2024/01/26-20:44:54.461 23ac Delete type=2 #3521
-2024/01/26-20:44:54.461 23ac Delete type=2 #3527
-2024/01/26-20:44:54.462 23ac Delete type=2 #3529
-2024/01/26-20:44:54.462 23ac Delete type=2 #3531
-2024/01/26-21:01:50.825 23ac Level-0 table #3536: started
-2024/01/26-21:01:51.089 23ac Level-0 table #3536: 4102549 bytes OK
-2024/01/26-21:01:51.122 23ac Delete type=0 #3532
+2024/01/27-19:46:46.123 1e8c Log #3596: 0 ops saved to Table #3600 OK
+2024/01/27-19:46:46.123 1e8c Archiving E:/Foundry/Data/worlds/dnd/data/scenes/003596.log: OK
+2024/01/27-19:46:46.133 1e8c Table #3598: 7391 entries OK
+2024/01/27-19:46:46.142 1e8c Table #3599: 19227 entries OK
+2024/01/27-19:46:46.152 1e8c Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-003537: OK
+2024/01/27-19:46:46.156 1e8c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 2 files; 3574171 bytes. Some data may have been lost. ****

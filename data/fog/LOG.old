@@ -1,5 +1,10 @@
-2024/01/26-20:44:44.498 4620 Recovering log #1677
-2024/01/26-20:44:44.499 4620 Level-0 table #1679: started
-2024/01/26-20:44:44.518 4620 Level-0 table #1679: 28074 bytes OK
-2024/01/26-20:44:44.560 4620 Delete type=0 #1677
-2024/01/26-20:44:44.560 4620 Delete type=3 #1676
+2024/01/27-19:46:45.834 2dd8 Log #1689: 0 ops saved to Table #1697 OK
+2024/01/27-19:46:45.834 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/fog/001689.log: OK
+2024/01/27-19:46:45.837 2dd8 Table #1691: 36 entries OK
+2024/01/27-19:46:45.839 2dd8 Table #1692: 36 entries OK
+2024/01/27-19:46:45.842 2dd8 Table #1693: 34 entries OK
+2024/01/27-19:46:45.844 2dd8 Table #1694: 33 entries OK
+2024/01/27-19:46:45.875 2dd8 Table #1695: 31 entries OK
+2024/01/27-19:46:45.876 2dd8 Table #1696: 20 entries OK
+2024/01/27-19:46:45.881 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-001681: OK
+2024/01/27-19:46:45.885 2dd8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 6 files; 12130602 bytes. Some data may have been lost. ****

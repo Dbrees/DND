@@ -1,3 +1,4 @@
-2024/01/26-20:44:44.381 44d0 Recovering log #806
-2024/01/26-20:44:44.419 44d0 Delete type=0 #806
-2024/01/26-20:44:44.419 44d0 Delete type=3 #805
+2024/01/27-19:46:45.803 1e90 Log #811: 0 ops saved to Table #812 OK
+2024/01/27-19:46:45.803 1e90 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/000811.log: OK
+2024/01/27-19:46:45.814 1e90 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/MANIFEST-000809: OK
+2024/01/27-19:46:45.818 1e90 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****

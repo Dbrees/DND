@@ -1,3 +1,5 @@
-2024/01/26-20:44:45.166 4620 Recovering log #841
-2024/01/26-20:44:45.201 4620 Delete type=0 #841
-2024/01/26-20:44:45.201 4620 Delete type=3 #840
+2024/01/27-19:46:45.942 2f8c Log #846: 0 ops saved to Table #847 OK
+2024/01/27-19:46:45.942 2f8c Archiving E:/Foundry/Data/worlds/dnd/data/items/000846.log: OK
+2024/01/27-19:46:45.943 2f8c Table #797: 20 entries OK
+2024/01/27-19:46:45.954 2f8c Archiving E:/Foundry/Data/worlds/dnd/data/items/MANIFEST-000844: OK
+2024/01/27-19:46:45.958 2f8c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/items; recovered 1 files; 21702 bytes. Some data may have been lost. ****

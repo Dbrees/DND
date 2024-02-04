@@ -1,23 +1,10 @@
-2024/02/03-13:12:45.500 3c6c Recovering log #1772
-2024/02/03-13:12:45.525 3c6c Delete type=0 #1772
-2024/02/03-13:12:45.525 3c6c Delete type=3 #1770
-2024/02/03-15:31:12.219 5e44 Level-0 table #1777: started
-2024/02/03-15:31:12.382 5e44 Level-0 table #1777: 1333271 bytes OK
-2024/02/03-15:31:12.412 5e44 Delete type=0 #1775
-2024/02/03-15:31:12.724 5e44 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
-2024/02/03-15:31:13.164 5e44 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!r1EfBqoL2LFrQ6J4' @ 10830 : 1
-2024/02/03-15:31:13.164 5e44 Compacting 1@1 + 5@2 files
-2024/02/03-15:31:13.269 5e44 Generated table #1778@1: 36 keys, 2168374 bytes
-2024/02/03-15:31:13.346 5e44 Generated table #1779@1: 36 keys, 2114272 bytes
-2024/02/03-15:31:13.427 5e44 Generated table #1780@1: 35 keys, 2155244 bytes
-2024/02/03-15:31:13.523 5e44 Generated table #1781@1: 33 keys, 2198655 bytes
-2024/02/03-15:31:13.608 5e44 Generated table #1782@1: 30 keys, 2105501 bytes
-2024/02/03-15:31:13.608 5e44 Compacted 1@1 + 5@2 files => 10742046 bytes
-2024/02/03-15:31:13.624 5e44 compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/02/03-15:31:13.624 5e44 Delete type=2 #1764
-2024/02/03-15:31:13.624 5e44 Delete type=2 #1765
-2024/02/03-15:31:13.625 5e44 Delete type=2 #1766
-2024/02/03-15:31:13.625 5e44 Delete type=2 #1767
-2024/02/03-15:31:13.625 5e44 Delete type=2 #1768
-2024/02/03-15:31:13.625 5e44 Delete type=2 #1777
-2024/02/03-15:31:13.625 5e44 Manual compaction at level-1 from '!fog!r1EfBqoL2LFrQ6J4' @ 10830 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/02/03-19:57:45.514 4608 Log #1793: 0 ops saved to Table #1799 OK
+2024/02/03-19:57:45.514 4608 Archiving E:/Foundry/Data/worlds/dnd/data/fog/001793.log: OK
+2024/02/03-19:57:45.516 4608 Table #1787: 34 entries OK
+2024/02/03-19:57:45.536 4608 Table #1792: 22 entries OK
+2024/02/03-19:57:45.538 4608 Table #1795: 37 entries OK
+2024/02/03-19:57:45.539 4608 Table #1796: 34 entries OK
+2024/02/03-19:57:45.541 4608 Table #1797: 34 entries OK
+2024/02/03-19:57:45.568 4608 Table #1798: 30 entries OK
+2024/02/03-19:57:45.578 4608 Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-001783: OK
+2024/02/03-19:57:45.590 4608 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 6 files; 12399344 bytes. Some data may have been lost. ****

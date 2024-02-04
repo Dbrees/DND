@@ -1,7 +1,5 @@
-2024/02/03-13:12:45.577 16a8 Recovering log #866
-2024/02/03-13:12:45.598 16a8 Delete type=0 #866
-2024/02/03-13:12:45.599 16a8 Delete type=3 #864
-2024/02/03-15:31:12.109 5e44 Level-0 table #871: started
-2024/02/03-15:31:12.109 5e44 Level-0 table #871: 0 bytes OK
-2024/02/03-15:31:12.118 5e44 Delete type=0 #869
-2024/02/03-15:31:12.213 5e44 Manual compaction at level-0 from '!items!0SyDXztiGi1uUu88' @ 72057594037927935 : 1 .. '!items.effects!pQclUoSkuhhAuctA.TpJxzxLuRepi334T' @ 0 : 0; will stop at (end)
+2024/02/03-19:57:45.644 13b0 Log #874: 0 ops saved to Table #875 OK
+2024/02/03-19:57:45.644 13b0 Archiving E:/Foundry/Data/worlds/dnd/data/items/000874.log: OK
+2024/02/03-19:57:45.645 13b0 Table #863: 20 entries OK
+2024/02/03-19:57:45.649 13b0 Archiving E:/Foundry/Data/worlds/dnd/data/items/MANIFEST-000872: OK
+2024/02/03-19:57:45.659 13b0 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/items; recovered 1 files; 21703 bytes. Some data may have been lost. ****

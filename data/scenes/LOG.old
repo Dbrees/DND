@@ -1,16 +1,6 @@
-2024/02/03-13:12:45.707 4d14 Recovering log #3657
-2024/02/03-13:12:45.739 4d14 Delete type=0 #3657
-2024/02/03-13:12:45.739 4d14 Delete type=3 #3655
-2024/02/03-15:31:12.466 5e44 Level-0 table #3662: started
-2024/02/03-15:31:12.694 5e44 Level-0 table #3662: 3524424 bytes OK
-2024/02/03-15:31:12.723 5e44 Delete type=0 #3660
-2024/02/03-15:31:12.786 5e44 Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.walls!yv7RWkMM9BzSloXH.zMXg281Zft5dhZP6' @ 882871 : 1
-2024/02/03-15:31:12.786 5e44 Compacting 1@0 + 2@1 files
-2024/02/03-15:31:12.971 5e44 Generated table #3663@0: 6832 keys, 2139145 bytes
-2024/02/03-15:31:13.157 5e44 Generated table #3664@0: 19562 keys, 1462225 bytes
-2024/02/03-15:31:13.157 5e44 Compacted 1@0 + 2@1 files => 3601370 bytes
-2024/02/03-15:31:13.163 5e44 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/02/03-15:31:13.163 5e44 Delete type=2 #3653
-2024/02/03-15:31:13.164 5e44 Delete type=2 #3654
-2024/02/03-15:31:13.164 5e44 Delete type=2 #3662
-2024/02/03-15:31:13.625 5e44 Manual compaction at level-0 from '!scenes.walls!yv7RWkMM9BzSloXH.zMXg281Zft5dhZP6' @ 882871 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2024/02/03-19:57:45.830 26b8 Log #3683: 0 ops saved to Table #3687 OK
+2024/02/03-19:57:45.830 26b8 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/003683.log: OK
+2024/02/03-19:57:45.836 26b8 Table #3685: 5711 entries OK
+2024/02/03-19:57:45.842 26b8 Table #3686: 22044 entries OK
+2024/02/03-19:57:45.858 26b8 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-003665: OK
+2024/02/03-19:57:45.862 26b8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 2 files; 3790822 bytes. Some data may have been lost. ****

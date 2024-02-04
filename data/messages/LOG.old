@@ -1,16 +1,5 @@
-2024/02/03-13:12:45.442 4d14 Recovering log #886
-2024/02/03-13:12:45.460 4d14 Delete type=0 #886
-2024/02/03-13:12:45.460 4d14 Delete type=3 #884
-2024/02/03-15:31:12.065 5e44 Level-0 table #891: started
-2024/02/03-15:31:12.076 5e44 Level-0 table #891: 980 bytes OK
-2024/02/03-15:31:12.109 5e44 Delete type=0 #889
-2024/02/03-15:31:12.167 5e44 Manual compaction at level-0 from '!messages!4kB1Ekq07LiI6ORQ' @ 72057594037927935 : 1 .. '!messages!tn82cZXTCQmplnGp' @ 0 : 0; will stop at '!messages!tn82cZXTCQmplnGp' @ 17965 : 1
-2024/02/03-15:31:12.167 5e44 Compacting 4@0 + 0@1 files
-2024/02/03-15:31:12.178 5e44 Generated table #892@0: 3 keys, 823 bytes
-2024/02/03-15:31:12.178 5e44 Compacted 4@0 + 0@1 files => 823 bytes
-2024/02/03-15:31:12.205 5e44 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/03-15:31:12.205 5e44 Delete type=2 #866
-2024/02/03-15:31:12.205 5e44 Delete type=2 #870
-2024/02/03-15:31:12.205 5e44 Delete type=2 #880
-2024/02/03-15:31:12.205 5e44 Delete type=2 #891
-2024/02/03-15:31:12.213 5e44 Manual compaction at level-0 from '!messages!tn82cZXTCQmplnGp' @ 17965 : 1 .. '!messages!tn82cZXTCQmplnGp' @ 0 : 0; will stop at (end)
+2024/02/03-19:57:45.393 40b4 Log #895: 0 ops saved to Table #898 OK
+2024/02/03-19:57:45.394 40b4 Archiving E:/Foundry/Data/worlds/dnd/data/messages/000895.log: OK
+2024/02/03-19:57:45.394 40b4 Table #897: 8 entries OK
+2024/02/03-19:57:45.398 40b4 Archiving E:/Foundry/Data/worlds/dnd/data/messages/MANIFEST-000893: OK
+2024/02/03-19:57:45.401 40b4 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/messages; recovered 1 files; 2505 bytes. Some data may have been lost. ****

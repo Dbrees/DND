@@ -1,14 +1,5 @@
-2024/02/03-13:12:45.534 4d14 Recovering log #885
-2024/02/03-13:12:45.575 4d14 Delete type=0 #885
-2024/02/03-13:12:45.575 4d14 Delete type=3 #883
-2024/02/03-15:31:11.954 5e44 Level-0 table #891: started
-2024/02/03-15:31:11.966 5e44 Level-0 table #891: 720 bytes OK
-2024/02/03-15:31:11.994 5e44 Delete type=0 #889
-2024/02/03-15:31:12.002 5e44 Manual compaction at level-0 from '!folders!069GE2aGFE6IQvzb' @ 72057594037927935 : 1 .. '!folders!xa9vL4d6sxucaoLd' @ 0 : 0; will stop at '!folders!m3rHlmzj3njk8Ro0' @ 111 : 1
-2024/02/03-15:31:12.002 5e44 Compacting 1@0 + 1@1 files
-2024/02/03-15:31:12.017 5e44 Generated table #892@0: 42 keys, 4675 bytes
-2024/02/03-15:31:12.017 5e44 Compacted 1@0 + 1@1 files => 4675 bytes
-2024/02/03-15:31:12.026 5e44 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/03-15:31:12.026 5e44 Delete type=2 #887
-2024/02/03-15:31:12.026 5e44 Delete type=2 #891
-2024/02/03-15:31:12.109 5e44 Manual compaction at level-0 from '!folders!m3rHlmzj3njk8Ro0' @ 111 : 1 .. '!folders!xa9vL4d6sxucaoLd' @ 0 : 0; will stop at (end)
+2024/02/03-19:57:45.624 40b4 Log #895: 0 ops saved to Table #898 OK
+2024/02/03-19:57:45.624 40b4 Archiving E:/Foundry/Data/worlds/dnd/data/folders/000895.log: OK
+2024/02/03-19:57:45.624 40b4 Table #897: 42 entries OK
+2024/02/03-19:57:45.628 40b4 Archiving E:/Foundry/Data/worlds/dnd/data/folders/MANIFEST-000893: OK
+2024/02/03-19:57:45.632 40b4 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/folders; recovered 1 files; 4676 bytes. Some data may have been lost. ****

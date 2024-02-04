@@ -1,5 +1,7 @@
-2024/01/27-19:46:46.012 2dd8 Log #833: 0 ops saved to Table #834 OK
-2024/01/27-19:46:46.012 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/macros/000833.log: OK
-2024/01/27-19:46:46.013 2dd8 Table #736: 64 entries OK
-2024/01/27-19:46:46.023 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/macros/MANIFEST-000831: OK
-2024/01/27-19:46:46.034 2dd8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/macros; recovered 1 files; 11941 bytes. Some data may have been lost. ****
+2024/02/03-13:12:45.629 16a8 Recovering log #853
+2024/02/03-13:12:45.653 16a8 Delete type=0 #853
+2024/02/03-13:12:45.653 16a8 Delete type=3 #851
+2024/02/03-15:31:11.994 5e44 Level-0 table #858: started
+2024/02/03-15:31:11.994 5e44 Level-0 table #858: 0 bytes OK
+2024/02/03-15:31:12.002 5e44 Delete type=0 #856
+2024/02/03-15:31:12.026 5e44 Manual compaction at level-0 from '!macros!2RBZHEj9rfj8Kdwa' @ 72057594037927935 : 1 .. '!macros!z5IMbbi8SEJjSZzK' @ 0 : 0; will stop at (end)

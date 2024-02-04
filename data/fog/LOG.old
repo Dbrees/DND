@@ -1,10 +1,23 @@
-2024/01/27-19:46:45.834 2dd8 Log #1689: 0 ops saved to Table #1697 OK
-2024/01/27-19:46:45.834 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/fog/001689.log: OK
-2024/01/27-19:46:45.837 2dd8 Table #1691: 36 entries OK
-2024/01/27-19:46:45.839 2dd8 Table #1692: 36 entries OK
-2024/01/27-19:46:45.842 2dd8 Table #1693: 34 entries OK
-2024/01/27-19:46:45.844 2dd8 Table #1694: 33 entries OK
-2024/01/27-19:46:45.875 2dd8 Table #1695: 31 entries OK
-2024/01/27-19:46:45.876 2dd8 Table #1696: 20 entries OK
-2024/01/27-19:46:45.881 2dd8 Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-001681: OK
-2024/01/27-19:46:45.885 2dd8 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 6 files; 12130602 bytes. Some data may have been lost. ****
+2024/02/03-13:12:45.500 3c6c Recovering log #1772
+2024/02/03-13:12:45.525 3c6c Delete type=0 #1772
+2024/02/03-13:12:45.525 3c6c Delete type=3 #1770
+2024/02/03-15:31:12.219 5e44 Level-0 table #1777: started
+2024/02/03-15:31:12.382 5e44 Level-0 table #1777: 1333271 bytes OK
+2024/02/03-15:31:12.412 5e44 Delete type=0 #1775
+2024/02/03-15:31:12.724 5e44 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/02/03-15:31:13.164 5e44 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!r1EfBqoL2LFrQ6J4' @ 10830 : 1
+2024/02/03-15:31:13.164 5e44 Compacting 1@1 + 5@2 files
+2024/02/03-15:31:13.269 5e44 Generated table #1778@1: 36 keys, 2168374 bytes
+2024/02/03-15:31:13.346 5e44 Generated table #1779@1: 36 keys, 2114272 bytes
+2024/02/03-15:31:13.427 5e44 Generated table #1780@1: 35 keys, 2155244 bytes
+2024/02/03-15:31:13.523 5e44 Generated table #1781@1: 33 keys, 2198655 bytes
+2024/02/03-15:31:13.608 5e44 Generated table #1782@1: 30 keys, 2105501 bytes
+2024/02/03-15:31:13.608 5e44 Compacted 1@1 + 5@2 files => 10742046 bytes
+2024/02/03-15:31:13.624 5e44 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/02/03-15:31:13.624 5e44 Delete type=2 #1764
+2024/02/03-15:31:13.624 5e44 Delete type=2 #1765
+2024/02/03-15:31:13.625 5e44 Delete type=2 #1766
+2024/02/03-15:31:13.625 5e44 Delete type=2 #1767
+2024/02/03-15:31:13.625 5e44 Delete type=2 #1768
+2024/02/03-15:31:13.625 5e44 Delete type=2 #1777
+2024/02/03-15:31:13.625 5e44 Manual compaction at level-1 from '!fog!r1EfBqoL2LFrQ6J4' @ 10830 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)

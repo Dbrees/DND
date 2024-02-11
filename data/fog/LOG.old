@@ -1,27 +1,8 @@
-2024/02/10-15:32:43.897 3710 Recovering log #1966
-2024/02/10-15:32:43.937 3710 Delete type=0 #1966
-2024/02/10-15:32:43.937 3710 Delete type=3 #1964
-2024/02/10-19:25:22.793 6580 Level-0 table #1977: started
-2024/02/10-19:25:22.920 6580 Level-0 table #1977: 1052067 bytes OK
-2024/02/10-19:25:22.945 6580 Delete type=0 #1975
-2024/02/10-19:25:22.957 6580 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
-2024/02/10-19:25:22.957 6580 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!uYStNlDxHGhX2Bkx' @ 12089 : 1
-2024/02/10-19:25:22.957 6580 Compacting 1@1 + 7@2 files
-2024/02/10-19:25:23.079 6580 Generated table #1978@1: 35 keys, 2119622 bytes
-2024/02/10-19:25:23.183 6580 Generated table #1979@1: 40 keys, 2204054 bytes
-2024/02/10-19:25:23.288 6580 Generated table #1980@1: 36 keys, 2155197 bytes
-2024/02/10-19:25:23.377 6580 Generated table #1981@1: 30 keys, 2108102 bytes
-2024/02/10-19:25:23.469 6580 Generated table #1982@1: 26 keys, 2104471 bytes
-2024/02/10-19:25:23.607 6580 Generated table #1983@1: 42 keys, 2144785 bytes
-2024/02/10-19:25:23.626 6580 Generated table #1984@1: 9 keys, 984119 bytes
-2024/02/10-19:25:23.626 6580 Compacted 1@1 + 7@2 files => 13820350 bytes
-2024/02/10-19:25:23.637 6580 compacted to: files[ 0 0 7 0 0 0 0 ]
-2024/02/10-19:25:23.637 6580 Delete type=2 #1918
-2024/02/10-19:25:23.637 6580 Delete type=2 #1968
-2024/02/10-19:25:23.638 6580 Delete type=2 #1969
-2024/02/10-19:25:23.638 6580 Delete type=2 #1970
-2024/02/10-19:25:23.638 6580 Delete type=2 #1971
-2024/02/10-19:25:23.638 6580 Delete type=2 #1972
-2024/02/10-19:25:23.638 6580 Delete type=2 #1973
-2024/02/10-19:25:23.639 6580 Delete type=2 #1977
-2024/02/10-19:25:23.767 6580 Manual compaction at level-1 from '!fog!uYStNlDxHGhX2Bkx' @ 12089 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/02/10-20:48:49.531 4f8 Recovering log #1998
+2024/02/10-20:48:49.539 4f8 Delete type=0 #1998
+2024/02/10-20:48:49.539 4f8 Delete type=3 #1996
+2024/02/10-20:53:16.648 230c Level-0 table #2008: started
+2024/02/10-20:53:16.648 230c Level-0 table #2008: 0 bytes OK
+2024/02/10-20:53:16.660 230c Delete type=0 #2006
+2024/02/10-20:53:16.674 230c Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/02/10-20:53:16.679 230c Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)

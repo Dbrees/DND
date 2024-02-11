@@ -1,4 +1,7 @@
-2024/02/03-19:57:45.799 4608 Log #838: 0 ops saved to Table #839 OK
-2024/02/03-19:57:45.799 4608 Archiving E:/Foundry/Data/worlds/dnd/data/tables/000838.log: OK
-2024/02/03-19:57:45.803 4608 Archiving E:/Foundry/Data/worlds/dnd/data/tables/MANIFEST-000836: OK
-2024/02/03-19:57:45.814 4608 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/tables; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/02/10-15:32:44.137 3710 Recovering log #893
+2024/02/10-15:32:44.160 3710 Delete type=0 #893
+2024/02/10-15:32:44.160 3710 Delete type=3 #891
+2024/02/10-19:25:21.178 6580 Level-0 table #898: started
+2024/02/10-19:25:21.178 6580 Level-0 table #898: 0 bytes OK
+2024/02/10-19:25:21.201 6580 Delete type=0 #896
+2024/02/10-19:25:21.314 6580 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

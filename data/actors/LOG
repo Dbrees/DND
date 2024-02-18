@@ -1,16 +1,23 @@
-2024/02/17-16:32:05.293 316c Recovering log #1146
-2024/02/17-16:32:05.334 316c Delete type=0 #1146
-2024/02/17-16:32:05.334 316c Delete type=3 #1144
-2024/02/17-18:46:22.832 46d4 Level-0 table #1151: started
-2024/02/17-18:46:22.840 46d4 Level-0 table #1151: 88149 bytes OK
-2024/02/17-18:46:22.849 46d4 Delete type=0 #1149
-2024/02/17-18:46:22.866 46d4 Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items!hCJAkS4NlM6UyMUa.xLZEIbKwrMbB4t0D' @ 30356 : 1
-2024/02/17-18:46:22.866 46d4 Compacting 1@0 + 2@1 files
-2024/02/17-18:46:23.159 46d4 Generated table #1152@0: 1452 keys, 2124414 bytes
-2024/02/17-18:46:23.344 46d4 Generated table #1153@0: 892 keys, 937851 bytes
-2024/02/17-18:46:23.344 46d4 Compacted 1@0 + 2@1 files => 3062265 bytes
-2024/02/17-18:46:23.351 46d4 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/02/17-18:46:23.351 46d4 Delete type=2 #1142
-2024/02/17-18:46:23.351 46d4 Delete type=2 #1143
-2024/02/17-18:46:23.352 46d4 Delete type=2 #1151
-2024/02/17-18:46:23.363 46d4 Manual compaction at level-0 from '!actors.items!hCJAkS4NlM6UyMUa.xLZEIbKwrMbB4t0D' @ 30356 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)
+2024/02/17-19:50:24.109 468c Delete type=3 #1
+2024/02/17-22:04:42.491 4fe4 Level-0 table #1158: started
+2024/02/17-22:04:42.523 4fe4 Level-0 table #1158: 2423671 bytes OK
+2024/02/17-22:04:42.527 4fe4 Delete type=0 #1156
+2024/02/17-22:04:46.984 4fe4 Compacting 3@0 + 0@1 files
+2024/02/17-22:04:47.024 4fe4 Generated table #1159@0: 1448 keys, 2123342 bytes
+2024/02/17-22:04:47.091 4fe4 Generated table #1160@0: 892 keys, 939052 bytes
+2024/02/17-22:04:47.091 4fe4 Compacted 3@0 + 0@1 files => 3062394 bytes
+2024/02/17-22:04:47.092 4fe4 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/17-22:04:47.093 4fe4 Delete type=2 #1152
+2024/02/17-22:04:47.093 4fe4 Delete type=2 #1153
+2024/02/17-22:04:47.093 4fe4 Delete type=2 #1158
+2024/02/17-23:34:06.142 4fe4 Level-0 table #1162: started
+2024/02/17-23:34:06.176 4fe4 Level-0 table #1162: 2419103 bytes OK
+2024/02/17-23:34:06.185 4fe4 Delete type=0 #1157
+2024/02/17-23:34:36.475 4fe4 Compacting 1@0 + 2@1 files
+2024/02/17-23:34:36.517 4fe4 Generated table #1163@0: 1448 keys, 2123556 bytes
+2024/02/17-23:34:36.582 4fe4 Generated table #1164@0: 892 keys, 939398 bytes
+2024/02/17-23:34:36.582 4fe4 Compacted 1@0 + 2@1 files => 3062954 bytes
+2024/02/17-23:34:36.590 4fe4 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/02/17-23:34:36.590 4fe4 Delete type=2 #1159
+2024/02/17-23:34:36.590 4fe4 Delete type=2 #1160
+2024/02/17-23:34:36.591 4fe4 Delete type=2 #1162

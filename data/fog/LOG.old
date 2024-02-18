@@ -1,8 +1,12 @@
-2024/02/17-16:30:12.035 534 Recovering log #2131
-2024/02/17-16:30:12.053 534 Delete type=0 #2131
-2024/02/17-16:30:12.053 534 Delete type=3 #2129
-2024/02/17-16:31:48.549 46d4 Level-0 table #2140: started
-2024/02/17-16:31:48.549 46d4 Level-0 table #2140: 0 bytes OK
-2024/02/17-16:31:48.569 46d4 Delete type=0 #2138
-2024/02/17-16:31:48.602 46d4 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
-2024/02/17-16:31:48.602 46d4 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/02/17-19:50:24.282 468c Log #2143: 0 ops saved to Table #2152 OK
+2024/02/17-19:50:24.282 468c Archiving E:/Foundry/Data/worlds/dnd/data/fog/002143.log: OK
+2024/02/17-19:50:24.283 468c Table #2126: 27 entries OK
+2024/02/17-19:50:24.286 468c Table #2145: 33 entries OK
+2024/02/17-19:50:24.287 468c Table #2146: 38 entries OK
+2024/02/17-19:50:24.289 468c Table #2147: 34 entries OK
+2024/02/17-19:50:24.291 468c Table #2148: 33 entries OK
+2024/02/17-19:50:24.293 468c Table #2149: 32 entries OK
+2024/02/17-19:50:24.323 468c Table #2150: 24 entries OK
+2024/02/17-19:50:24.324 468c Table #2151: 11 entries OK
+2024/02/17-19:50:24.334 468c Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-002141: OK
+2024/02/17-19:50:24.338 468c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 8 files; 15173079 bytes. Some data may have been lost. ****

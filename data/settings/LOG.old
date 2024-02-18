@@ -1,14 +1,14 @@
-2024/02/10-20:48:49.767 4894 Recovering log #1236
-2024/02/10-20:48:49.777 4894 Delete type=0 #1236
-2024/02/10-20:48:49.777 4894 Delete type=3 #1234
-2024/02/10-20:53:16.551 230c Level-0 table #1242: started
-2024/02/10-20:53:16.563 230c Level-0 table #1242: 10798 bytes OK
-2024/02/10-20:53:16.567 230c Delete type=0 #1240
-2024/02/10-20:53:16.617 230c Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 2575 : 1
-2024/02/10-20:53:16.617 230c Compacting 1@0 + 1@1 files
-2024/02/10-20:53:16.621 230c Generated table #1243@0: 170 keys, 54434 bytes
-2024/02/10-20:53:16.621 230c Compacted 1@0 + 1@1 files => 54434 bytes
-2024/02/10-20:53:16.625 230c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/10-20:53:16.625 230c Delete type=2 #1238
-2024/02/10-20:53:16.625 230c Delete type=2 #1242
-2024/02/10-20:53:16.637 230c Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 2575 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)
+2024/02/17-16:30:12.316 4dc0 Recovering log #1257
+2024/02/17-16:30:12.346 4dc0 Delete type=0 #1257
+2024/02/17-16:30:12.346 4dc0 Delete type=3 #1254
+2024/02/17-16:31:48.413 46d4 Level-0 table #1263: started
+2024/02/17-16:31:48.420 46d4 Level-0 table #1263: 10848 bytes OK
+2024/02/17-16:31:48.431 46d4 Delete type=0 #1261
+2024/02/17-16:31:48.464 46d4 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 2592 : 1
+2024/02/17-16:31:48.464 46d4 Compacting 1@0 + 1@1 files
+2024/02/17-16:31:48.475 46d4 Generated table #1264@0: 170 keys, 54525 bytes
+2024/02/17-16:31:48.475 46d4 Compacted 1@0 + 1@1 files => 54525 bytes
+2024/02/17-16:31:48.489 46d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/17-16:31:48.489 46d4 Delete type=2 #1259
+2024/02/17-16:31:48.490 46d4 Delete type=2 #1263
+2024/02/17-16:31:48.518 46d4 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 2592 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)

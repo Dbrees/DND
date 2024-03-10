@@ -1,14 +1,7 @@
-2024/03/09-15:23:11.196 52c0 Recovering log #1226
-2024/03/09-15:23:11.396 52c0 Delete type=0 #1226
-2024/03/09-15:23:11.396 52c0 Delete type=3 #1224
-2024/03/09-16:57:06.195 402c Level-0 table #1232: started
-2024/03/09-16:57:06.232 402c Level-0 table #1232: 11395 bytes OK
-2024/03/09-16:57:06.242 402c Delete type=0 #1230
-2024/03/09-16:57:06.242 402c Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors!jwc5aCJD7OtFKq5u' @ 39826 : 1
-2024/03/09-16:57:06.242 402c Compacting 1@0 + 1@1 files
-2024/03/09-16:57:06.504 402c Generated table #1233@0: 1438 keys, 2124172 bytes
-2024/03/09-16:57:06.504 402c Compacted 1@0 + 1@1 files => 2124172 bytes
-2024/03/09-16:57:06.514 402c compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/03/09-16:57:06.514 402c Delete type=2 #1228
-2024/03/09-16:57:06.515 402c Delete type=2 #1232
-2024/03/09-16:57:06.608 402c Manual compaction at level-0 from '!actors!jwc5aCJD7OtFKq5u' @ 39826 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:48.847 24a0 Log #1236: 0 ops saved to Table #1240 OK
+2024/03/09-20:13:48.848 24a0 Archiving E:/Foundry/Data/worlds/dnd/data/actors/001236.log: OK
+2024/03/09-20:13:48.850 24a0 Table #1210: 895 entries OK
+2024/03/09-20:13:48.855 24a0 Table #1238: 1437 entries OK
+2024/03/09-20:13:48.856 24a0 Table #1239: 13 entries OK
+2024/03/09-20:13:48.867 24a0 Archiving E:/Foundry/Data/worlds/dnd/data/actors/MANIFEST-001234: OK
+2024/03/09-20:13:48.871 24a0 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/actors; recovered 3 files; 3084666 bytes. Some data may have been lost. ****

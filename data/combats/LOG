@@ -1,7 +1,1 @@
-2024/03/09-16:57:26.983 efc Recovering log #992
-2024/03/09-16:57:27.002 efc Delete type=0 #992
-2024/03/09-16:57:27.002 efc Delete type=3 #990
-2024/03/09-19:09:09.586 402c Level-0 table #997: started
-2024/03/09-19:09:09.586 402c Level-0 table #997: 0 bytes OK
-2024/03/09-19:09:09.594 402c Delete type=0 #995
-2024/03/09-19:09:09.622 402c Manual compaction at level-0 from '!combats!3TPEV2fCmHTmCImm' @ 72057594037927935 : 1 .. '!combats.combatants!m25ZefMvFcm4Urmy.z9yiFqqo6i2Urhbn' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:48.985 2758 Delete type=3 #1

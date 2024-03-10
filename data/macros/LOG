@@ -1,7 +1,1 @@
-2024/03/09-16:57:27.248 efc Recovering log #1010
-2024/03/09-16:57:27.288 efc Delete type=0 #1010
-2024/03/09-16:57:27.288 efc Delete type=3 #1008
-2024/03/09-19:09:09.996 402c Level-0 table #1015: started
-2024/03/09-19:09:09.996 402c Level-0 table #1015: 0 bytes OK
-2024/03/09-19:09:10.004 402c Delete type=0 #1013
-2024/03/09-19:09:10.053 402c Manual compaction at level-0 from '!macros!2RBZHEj9rfj8Kdwa' @ 72057594037927935 : 1 .. '!macros!z5IMbbi8SEJjSZzK' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:49.174 58cc Delete type=3 #1

@@ -1,28 +1,8 @@
-2024/03/09-15:23:13.005 efc Recovering log #4047
-2024/03/09-15:23:13.048 efc Delete type=0 #4047
-2024/03/09-15:23:13.048 efc Delete type=3 #4045
-2024/03/09-15:30:59.211 402c Level-0 table #4053: started
-2024/03/09-15:30:59.416 402c Level-0 table #4053: 3046728 bytes OK
-2024/03/09-15:30:59.444 402c Delete type=0 #4051
-2024/03/09-16:24:52.852 402c Compacting 1@0 + 2@1 files
-2024/03/09-16:24:52.944 402c Generated table #4054@0: 5921 keys, 2136252 bytes
-2024/03/09-16:24:53.131 402c Generated table #4055@0: 21108 keys, 2167372 bytes
-2024/03/09-16:24:53.193 402c Generated table #4056@0: 4956 keys, 372084 bytes
-2024/03/09-16:24:53.193 402c Compacted 1@0 + 2@1 files => 4675708 bytes
-2024/03/09-16:24:53.200 402c compacted to: files[ 0 4 0 0 0 0 0 ]
-2024/03/09-16:24:53.201 402c Delete type=2 #4018
-2024/03/09-16:24:53.201 402c Delete type=2 #4049
-2024/03/09-16:24:53.201 402c Delete type=2 #4053
-2024/03/09-16:57:07.140 402c Level-0 table #4058: started
-2024/03/09-16:57:07.286 402c Level-0 table #4058: 3017258 bytes OK
-2024/03/09-16:57:07.290 402c Delete type=0 #4052
-2024/03/09-16:57:07.308 402c Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.walls!hZxhU5p4ra4ATOH2.zi23OcrVz0UhAhdw' @ 972741 : 1
-2024/03/09-16:57:07.308 402c Compacting 1@0 + 2@1 files
-2024/03/09-16:57:07.483 402c Generated table #4059@0: 5917 keys, 2134476 bytes
-2024/03/09-16:57:07.641 402c Generated table #4060@0: 21098 keys, 2167241 bytes
-2024/03/09-16:57:07.641 402c Compacted 1@0 + 2@1 files => 4301717 bytes
-2024/03/09-16:57:07.658 402c compacted to: files[ 0 4 0 0 0 0 0 ]
-2024/03/09-16:57:07.658 402c Delete type=2 #4054
-2024/03/09-16:57:07.658 402c Delete type=2 #4055
-2024/03/09-16:57:07.658 402c Delete type=2 #4058
-2024/03/09-16:57:07.782 402c Manual compaction at level-0 from '!scenes.walls!hZxhU5p4ra4ATOH2.zi23OcrVz0UhAhdw' @ 972741 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:49.241 1f44 Log #4070: 0 ops saved to Table #4075 OK
+2024/03/09-20:13:49.242 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/004070.log: OK
+2024/03/09-20:13:49.243 1f44 Table #4019: 2990 entries OK
+2024/03/09-20:13:49.247 1f44 Table #4072: 5708 entries OK
+2024/03/09-20:13:49.256 1f44 Table #4073: 19629 entries OK
+2024/03/09-20:13:49.258 1f44 Table #4074: 6120 entries OK
+2024/03/09-20:13:49.264 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-004061: OK
+2024/03/09-20:13:49.267 1f44 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 4 files; 4993876 bytes. Some data may have been lost. ****

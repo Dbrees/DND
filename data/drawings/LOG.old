@@ -1,7 +1,4 @@
-2024/03/09-15:23:11.588 efc Recovering log #978
-2024/03/09-15:23:11.658 efc Delete type=0 #978
-2024/03/09-15:23:11.658 efc Delete type=3 #976
-2024/03/09-16:57:06.179 402c Level-0 table #983: started
-2024/03/09-16:57:06.179 402c Level-0 table #983: 0 bytes OK
-2024/03/09-16:57:06.187 402c Delete type=0 #981
-2024/03/09-16:57:06.242 402c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:48.988 1f44 Log #986: 0 ops saved to Table #987 OK
+2024/03/09-20:13:48.988 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/000986.log: OK
+2024/03/09-20:13:48.999 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/drawings/MANIFEST-000984: OK
+2024/03/09-20:13:49.004 1f44 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****

@@ -1,15 +1,24 @@
-2024/03/09-16:57:26.785 52c0 Recovering log #1231
-2024/03/09-16:57:26.815 52c0 Delete type=0 #1231
-2024/03/09-16:57:26.815 52c0 Delete type=3 #1229
-2024/03/09-19:09:09.603 402c Level-0 table #1237: started
-2024/03/09-19:09:09.612 402c Level-0 table #1237: 218812 bytes OK
-2024/03/09-19:09:09.622 402c Delete type=0 #1235
-2024/03/09-19:09:09.622 402c Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items!TLcsREtIXKLrexVU.zLNh4Fz7dGikD0p7' @ 39866 : 1
-2024/03/09-19:09:09.622 402c Compacting 1@0 + 1@1 files
-2024/03/09-19:09:09.880 402c Generated table #1238@0: 1437 keys, 2124802 bytes
-2024/03/09-19:09:09.888 402c Generated table #1239@0: 13 keys, 15028 bytes
-2024/03/09-19:09:09.889 402c Compacted 1@0 + 1@1 files => 2139830 bytes
-2024/03/09-19:09:09.893 402c compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/03/09-19:09:09.893 402c Delete type=2 #1233
-2024/03/09-19:09:09.894 402c Delete type=2 #1237
-2024/03/09-19:09:09.964 402c Manual compaction at level-0 from '!actors.items!TLcsREtIXKLrexVU.zLNh4Fz7dGikD0p7' @ 39866 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:48.882 24a0 Delete type=3 #1
+2024/03/09-22:19:16.515 3a2c Level-0 table #1244: started
+2024/03/09-22:19:16.559 3a2c Level-0 table #1244: 2316612 bytes OK
+2024/03/09-22:19:16.563 3a2c Delete type=0 #1242
+2024/03/09-22:19:16.564 3a2c Compacting 4@0 + 0@1 files
+2024/03/09-22:19:16.607 3a2c Generated table #1245@0: 1426 keys, 2123115 bytes
+2024/03/09-22:19:16.672 3a2c Generated table #1246@0: 925 keys, 982134 bytes
+2024/03/09-22:19:16.672 3a2c Compacted 4@0 + 0@1 files => 3105249 bytes
+2024/03/09-22:19:16.675 3a2c compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/09-22:19:16.675 3a2c Delete type=2 #1210
+2024/03/09-22:19:16.675 3a2c Delete type=2 #1238
+2024/03/09-22:19:16.676 3a2c Delete type=2 #1239
+2024/03/09-22:19:16.676 3a2c Delete type=2 #1244
+2024/03/10-00:31:40.044 3a2c Level-0 table #1248: started
+2024/03/10-00:31:40.082 3a2c Level-0 table #1248: 2307623 bytes OK
+2024/03/10-00:31:40.085 3a2c Delete type=0 #1243
+2024/03/10-00:31:49.351 3a2c Compacting 1@0 + 2@1 files
+2024/03/10-00:31:49.405 3a2c Generated table #1249@0: 1425 keys, 2123456 bytes
+2024/03/10-00:31:49.497 3a2c Generated table #1250@0: 937 keys, 995261 bytes
+2024/03/10-00:31:49.497 3a2c Compacted 1@0 + 2@1 files => 3118717 bytes
+2024/03/10-00:31:49.500 3a2c compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/10-00:31:49.500 3a2c Delete type=2 #1245
+2024/03/10-00:31:49.501 3a2c Delete type=2 #1246
+2024/03/10-00:31:49.501 3a2c Delete type=2 #1248

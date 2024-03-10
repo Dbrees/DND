@@ -1,14 +1,1 @@
-2024/03/09-16:57:27.204 4a2c Recovering log #1024
-2024/03/09-16:57:27.243 4a2c Delete type=0 #1024
-2024/03/09-16:57:27.243 4a2c Delete type=3 #1022
-2024/03/09-19:09:09.933 402c Level-0 table #1030: started
-2024/03/09-19:09:09.945 402c Level-0 table #1030: 238 bytes OK
-2024/03/09-19:09:09.954 402c Delete type=0 #1028
-2024/03/09-19:09:09.982 402c Manual compaction at level-0 from '!journal!0z5cGTGUNQuiQvCI' @ 72057594037927935 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at '!journal.pages!QpMbvbNLSblgTQZI.n8QDKK6vOgpi4B2M' @ 1257 : 0
-2024/03/09-19:09:09.982 402c Compacting 1@0 + 1@1 files
-2024/03/09-19:09:09.987 402c Generated table #1031@0: 27 keys, 16149 bytes
-2024/03/09-19:09:09.987 402c Compacted 1@0 + 1@1 files => 16149 bytes
-2024/03/09-19:09:09.996 402c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/09-19:09:09.996 402c Delete type=2 #1026
-2024/03/09-19:09:09.996 402c Delete type=2 #1030
-2024/03/09-19:09:10.004 402c Manual compaction at level-0 from '!journal.pages!QpMbvbNLSblgTQZI.n8QDKK6vOgpi4B2M' @ 1257 : 0 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at (end)
+2024/03/09-20:13:49.154 1f44 Delete type=3 #1

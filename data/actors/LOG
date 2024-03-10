@@ -1,23 +1,15 @@
-2024/02/17-19:50:24.109 468c Delete type=3 #1
-2024/02/17-22:04:42.491 4fe4 Level-0 table #1158: started
-2024/02/17-22:04:42.523 4fe4 Level-0 table #1158: 2423671 bytes OK
-2024/02/17-22:04:42.527 4fe4 Delete type=0 #1156
-2024/02/17-22:04:46.984 4fe4 Compacting 3@0 + 0@1 files
-2024/02/17-22:04:47.024 4fe4 Generated table #1159@0: 1448 keys, 2123342 bytes
-2024/02/17-22:04:47.091 4fe4 Generated table #1160@0: 892 keys, 939052 bytes
-2024/02/17-22:04:47.091 4fe4 Compacted 3@0 + 0@1 files => 3062394 bytes
-2024/02/17-22:04:47.092 4fe4 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/02/17-22:04:47.093 4fe4 Delete type=2 #1152
-2024/02/17-22:04:47.093 4fe4 Delete type=2 #1153
-2024/02/17-22:04:47.093 4fe4 Delete type=2 #1158
-2024/02/17-23:34:06.142 4fe4 Level-0 table #1162: started
-2024/02/17-23:34:06.176 4fe4 Level-0 table #1162: 2419103 bytes OK
-2024/02/17-23:34:06.185 4fe4 Delete type=0 #1157
-2024/02/17-23:34:36.475 4fe4 Compacting 1@0 + 2@1 files
-2024/02/17-23:34:36.517 4fe4 Generated table #1163@0: 1448 keys, 2123556 bytes
-2024/02/17-23:34:36.582 4fe4 Generated table #1164@0: 892 keys, 939398 bytes
-2024/02/17-23:34:36.582 4fe4 Compacted 1@0 + 2@1 files => 3062954 bytes
-2024/02/17-23:34:36.590 4fe4 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/02/17-23:34:36.590 4fe4 Delete type=2 #1159
-2024/02/17-23:34:36.590 4fe4 Delete type=2 #1160
-2024/02/17-23:34:36.591 4fe4 Delete type=2 #1162
+2024/03/09-16:57:26.785 52c0 Recovering log #1231
+2024/03/09-16:57:26.815 52c0 Delete type=0 #1231
+2024/03/09-16:57:26.815 52c0 Delete type=3 #1229
+2024/03/09-19:09:09.603 402c Level-0 table #1237: started
+2024/03/09-19:09:09.612 402c Level-0 table #1237: 218812 bytes OK
+2024/03/09-19:09:09.622 402c Delete type=0 #1235
+2024/03/09-19:09:09.622 402c Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items!TLcsREtIXKLrexVU.zLNh4Fz7dGikD0p7' @ 39866 : 1
+2024/03/09-19:09:09.622 402c Compacting 1@0 + 1@1 files
+2024/03/09-19:09:09.880 402c Generated table #1238@0: 1437 keys, 2124802 bytes
+2024/03/09-19:09:09.888 402c Generated table #1239@0: 13 keys, 15028 bytes
+2024/03/09-19:09:09.889 402c Compacted 1@0 + 1@1 files => 2139830 bytes
+2024/03/09-19:09:09.893 402c compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/09-19:09:09.893 402c Delete type=2 #1233
+2024/03/09-19:09:09.894 402c Delete type=2 #1237
+2024/03/09-19:09:09.964 402c Manual compaction at level-0 from '!actors.items!TLcsREtIXKLrexVU.zLNh4Fz7dGikD0p7' @ 39866 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)

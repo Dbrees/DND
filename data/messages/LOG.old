@@ -1,5 +1,7 @@
-2024/02/17-19:50:24.176 45bc Log #1000: 0 ops saved to Table #1001 OK
-2024/02/17-19:50:24.177 45bc Archiving E:/Foundry/Data/worlds/dnd/data/messages/001000.log: OK
-2024/02/17-19:50:24.177 45bc Table #993: 140 entries OK
-2024/02/17-19:50:24.188 45bc Archiving E:/Foundry/Data/worlds/dnd/data/messages/MANIFEST-000998: OK
-2024/02/17-19:50:24.192 45bc **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/messages; recovered 1 files; 104971 bytes. Some data may have been lost. ****
+2024/03/09-15:23:11.500 efc Recovering log #1047
+2024/03/09-15:23:11.542 efc Delete type=0 #1047
+2024/03/09-15:23:11.542 efc Delete type=3 #1045
+2024/03/09-16:57:06.555 402c Level-0 table #1052: started
+2024/03/09-16:57:06.555 402c Level-0 table #1052: 0 bytes OK
+2024/03/09-16:57:06.563 402c Delete type=0 #1050
+2024/03/09-16:57:06.631 402c Manual compaction at level-0 from '!messages!07wr2LtPWHgDH4Fx' @ 72057594037927935 : 1 .. '!messages!zvD3TUkP7EcKcFSK' @ 0 : 0; will stop at (end)

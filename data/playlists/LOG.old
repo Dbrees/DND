@@ -1,5 +1,14 @@
-2024/02/17-19:50:24.564 45bc Log #960: 0 ops saved to Table #961 OK
-2024/02/17-19:50:24.565 45bc Archiving E:/Foundry/Data/worlds/dnd/data/playlists/000960.log: OK
-2024/02/17-19:50:24.565 45bc Table #947: 47 entries OK
-2024/02/17-19:50:24.569 45bc Archiving E:/Foundry/Data/worlds/dnd/data/playlists/MANIFEST-000958: OK
-2024/02/17-19:50:24.573 45bc **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/playlists; recovered 1 files; 5612 bytes. Some data may have been lost. ****
+2024/03/09-15:23:12.258 efc Recovering log #1007
+2024/03/09-15:23:12.828 efc Delete type=0 #1007
+2024/03/09-15:23:12.828 efc Delete type=3 #1005
+2024/03/09-16:57:06.841 402c Level-0 table #1012: started
+2024/03/09-16:57:06.854 402c Level-0 table #1012: 1406 bytes OK
+2024/03/09-16:57:06.877 402c Delete type=0 #1010
+2024/03/09-16:57:07.122 402c Manual compaction at level-0 from '!playlists!1RT1ToKZ8Dow2srR' @ 72057594037927935 : 1 .. '!playlists.sounds!zy6nJOsCPbH3wTrD.y37vWPwqdt3Q5pWm' @ 0 : 0; will stop at '!playlists.sounds!BSBEzKa7Gwo0NUGL.t3c1PJFDAzLikefk' @ 10450 : 1
+2024/03/09-16:57:07.122 402c Compacting 1@0 + 1@1 files
+2024/03/09-16:57:07.131 402c Generated table #1013@0: 62 keys, 7440 bytes
+2024/03/09-16:57:07.131 402c Compacted 1@0 + 1@1 files => 7440 bytes
+2024/03/09-16:57:07.140 402c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/09-16:57:07.140 402c Delete type=2 #974
+2024/03/09-16:57:07.140 402c Delete type=2 #1012
+2024/03/09-16:57:07.308 402c Manual compaction at level-0 from '!playlists.sounds!BSBEzKa7Gwo0NUGL.t3c1PJFDAzLikefk' @ 10450 : 1 .. '!playlists.sounds!zy6nJOsCPbH3wTrD.y37vWPwqdt3Q5pWm' @ 0 : 0; will stop at (end)

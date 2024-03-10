@@ -1,12 +1,18 @@
-2024/02/17-19:50:24.282 468c Log #2143: 0 ops saved to Table #2152 OK
-2024/02/17-19:50:24.282 468c Archiving E:/Foundry/Data/worlds/dnd/data/fog/002143.log: OK
-2024/02/17-19:50:24.283 468c Table #2126: 27 entries OK
-2024/02/17-19:50:24.286 468c Table #2145: 33 entries OK
-2024/02/17-19:50:24.287 468c Table #2146: 38 entries OK
-2024/02/17-19:50:24.289 468c Table #2147: 34 entries OK
-2024/02/17-19:50:24.291 468c Table #2148: 33 entries OK
-2024/02/17-19:50:24.293 468c Table #2149: 32 entries OK
-2024/02/17-19:50:24.323 468c Table #2150: 24 entries OK
-2024/02/17-19:50:24.324 468c Table #2151: 11 entries OK
-2024/02/17-19:50:24.334 468c Archiving E:/Foundry/Data/worlds/dnd/data/fog/MANIFEST-002141: OK
-2024/02/17-19:50:24.338 468c **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/fog; recovered 8 files; 15173079 bytes. Some data may have been lost. ****
+2024/03/09-15:23:11.665 4a2c Recovering log #2289
+2024/03/09-15:23:11.685 4a2c Delete type=0 #2289
+2024/03/09-15:23:11.685 4a2c Delete type=3 #2287
+2024/03/09-16:57:06.661 402c Level-0 table #2295: started
+2024/03/09-16:57:06.815 402c Level-0 table #2295: 1394358 bytes OK
+2024/03/09-16:57:06.820 402c Delete type=0 #2293
+2024/03/09-16:57:06.834 402c Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/03/09-16:57:06.878 402c Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!K6TfJld1TLshuN3X' @ 14334 : 1
+2024/03/09-16:57:06.878 402c Compacting 1@1 + 2@2 files
+2024/03/09-16:57:07.035 402c Generated table #2296@1: 35 keys, 2159756 bytes
+2024/03/09-16:57:07.104 402c Generated table #2297@1: 36 keys, 2190998 bytes
+2024/03/09-16:57:07.117 402c Generated table #2298@1: 1 keys, 86068 bytes
+2024/03/09-16:57:07.118 402c Compacted 1@1 + 2@2 files => 4436822 bytes
+2024/03/09-16:57:07.121 402c compacted to: files[ 0 0 10 0 0 0 0 ]
+2024/03/09-16:57:07.121 402c Delete type=2 #2235
+2024/03/09-16:57:07.122 402c Delete type=2 #2291
+2024/03/09-16:57:07.122 402c Delete type=2 #2295
+2024/03/09-16:57:07.291 402c Manual compaction at level-1 from '!fog!K6TfJld1TLshuN3X' @ 14334 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)

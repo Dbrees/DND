@@ -1,5 +1,14 @@
-2024/02/17-19:50:24.511 2140 Log #974: 0 ops saved to Table #975 OK
-2024/02/17-19:50:24.511 2140 Archiving E:/Foundry/Data/worlds/dnd/data/journal/000974.log: OK
-2024/02/17-19:50:24.512 2140 Table #961: 27 entries OK
-2024/02/17-19:50:24.517 2140 Archiving E:/Foundry/Data/worlds/dnd/data/journal/MANIFEST-000972: OK
-2024/02/17-19:50:24.522 2140 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/journal; recovered 1 files; 15525 bytes. Some data may have been lost. ****
+2024/03/09-15:23:11.829 efc Recovering log #1020
+2024/03/09-15:23:11.874 efc Delete type=0 #1020
+2024/03/09-15:23:11.874 efc Delete type=3 #1018
+2024/03/09-16:57:06.563 402c Level-0 table #1025: started
+2024/03/09-16:57:06.575 402c Level-0 table #1025: 810 bytes OK
+2024/03/09-16:57:06.608 402c Delete type=0 #1023
+2024/03/09-16:57:06.631 402c Manual compaction at level-0 from '!journal!0z5cGTGUNQuiQvCI' @ 72057594037927935 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at '!journal.pages!QpMbvbNLSblgTQZI.n8QDKK6vOgpi4B2M' @ 1255 : 1
+2024/03/09-16:57:06.631 402c Compacting 1@0 + 1@1 files
+2024/03/09-16:57:06.643 402c Generated table #1026@0: 29 keys, 16374 bytes
+2024/03/09-16:57:06.643 402c Compacted 1@0 + 1@1 files => 16374 bytes
+2024/03/09-16:57:06.653 402c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/09-16:57:06.653 402c Delete type=2 #987
+2024/03/09-16:57:06.653 402c Delete type=2 #1025
+2024/03/09-16:57:06.820 402c Manual compaction at level-0 from '!journal.pages!QpMbvbNLSblgTQZI.n8QDKK6vOgpi4B2M' @ 1255 : 1 .. '!journal.pages!zhQLOROa1jrejjMi.ZiQjT32z277Mbtr1' @ 0 : 0; will stop at (end)

@@ -1,8 +1,30 @@
-2024/03/09-20:13:49.241 1f44 Log #4070: 0 ops saved to Table #4075 OK
-2024/03/09-20:13:49.242 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/004070.log: OK
-2024/03/09-20:13:49.243 1f44 Table #4019: 2990 entries OK
-2024/03/09-20:13:49.247 1f44 Table #4072: 5708 entries OK
-2024/03/09-20:13:49.256 1f44 Table #4073: 19629 entries OK
-2024/03/09-20:13:49.258 1f44 Table #4074: 6120 entries OK
-2024/03/09-20:13:49.264 1f44 Archiving E:/Foundry/Data/worlds/dnd/data/scenes/MANIFEST-004061: OK
-2024/03/09-20:13:49.267 1f44 **** Repaired leveldb E:/Foundry/Data/worlds/dnd/data/scenes; recovered 4 files; 4993876 bytes. Some data may have been lost. ****
+2024/03/23-02:01:45.102 602c Recovering log #4180
+2024/03/23-02:01:45.103 602c Level-0 table #4182: started
+2024/03/23-02:01:45.270 602c Level-0 table #4182: 772979 bytes OK
+2024/03/23-02:01:45.309 602c Delete type=0 #4180
+2024/03/23-02:01:45.309 602c Delete type=3 #4179
+2024/03/23-02:01:48.883 2938 Compacting 1@0 + 3@1 files
+2024/03/23-02:01:49.157 2938 Generated table #4184@0: 5692 keys, 2134576 bytes
+2024/03/23-02:01:49.300 2938 Generated table #4185@0: 19972 keys, 2164999 bytes
+2024/03/23-02:01:49.323 2938 Generated table #4186@0: 8481 keys, 651142 bytes
+2024/03/23-02:01:49.323 2938 Compacted 1@0 + 3@1 files => 4950717 bytes
+2024/03/23-02:01:49.334 2938 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/23-02:01:49.334 2938 Delete type=2 #4154
+2024/03/23-02:01:49.335 2938 Delete type=2 #4155
+2024/03/23-02:01:49.335 2938 Delete type=2 #4156
+2024/03/23-02:01:49.336 2938 Delete type=2 #4182
+2024/03/23-04:06:53.021 2938 Level-0 table #4188: started
+2024/03/23-04:06:53.162 2938 Level-0 table #4188: 1324666 bytes OK
+2024/03/23-04:06:53.168 2938 Delete type=0 #4183
+2024/03/23-04:06:53.202 2938 Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.walls!yzI5A54gtPXTfIug.oCeLlzeXFYNaZyLC' @ 991803 : 1
+2024/03/23-04:06:53.202 2938 Compacting 1@0 + 3@1 files
+2024/03/23-04:06:53.404 2938 Generated table #4189@0: 5783 keys, 2134364 bytes
+2024/03/23-04:06:53.545 2938 Generated table #4190@0: 20395 keys, 2165859 bytes
+2024/03/23-04:06:53.574 2938 Generated table #4191@0: 7951 keys, 611044 bytes
+2024/03/23-04:06:53.574 2938 Compacted 1@0 + 3@1 files => 4911267 bytes
+2024/03/23-04:06:53.582 2938 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/23-04:06:53.582 2938 Delete type=2 #4184
+2024/03/23-04:06:53.582 2938 Delete type=2 #4185
+2024/03/23-04:06:53.582 2938 Delete type=2 #4186
+2024/03/23-04:06:53.582 2938 Delete type=2 #4188
+2024/03/23-04:06:53.700 2938 Manual compaction at level-0 from '!scenes.walls!yzI5A54gtPXTfIug.oCeLlzeXFYNaZyLC' @ 991803 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)

@@ -1,235 +1,29 @@
-2024/03/09-20:13:49.055 24a0 Delete type=3 #1
-2024/03/09-20:13:49.057 3a2c Moved #2234 to level-1 2145200 bytes OK: files[ 8 1 0 0 0 0 0 ]
-2024/03/09-20:13:49.059 3a2c Moved #2306 to level-1 2125415 bytes OK: files[ 7 2 0 0 0 0 0 ]
-2024/03/09-20:13:49.061 3a2c Moved #2307 to level-1 2190998 bytes OK: files[ 6 3 0 0 0 0 0 ]
-2024/03/09-20:13:49.063 3a2c Moved #2308 to level-1 2192950 bytes OK: files[ 5 4 0 0 0 0 0 ]
-2024/03/09-20:13:49.065 3a2c Moved #2309 to level-1 2134304 bytes OK: files[ 4 5 0 0 0 0 0 ]
-2024/03/09-20:13:49.067 3a2c Moved #2234 to level-2 2145200 bytes OK: files[ 4 4 1 0 0 0 0 ]
-2024/03/09-20:13:49.075 3a2c Moved #2310 to level-1 2179834 bytes OK: files[ 3 5 1 0 0 0 0 ]
-2024/03/09-20:13:49.078 3a2c Moved #2306 to level-2 2125415 bytes OK: files[ 3 4 2 0 0 0 0 ]
-2024/03/09-20:47:28.476 3a2c Level-0 table #2317: started
-2024/03/09-20:47:28.515 3a2c Level-0 table #2317: 3040833 bytes OK
-2024/03/09-20:47:28.517 3a2c Delete type=0 #2315
-2024/03/09-20:47:28.517 3a2c Compacting 2@0 + 4@1 files
-2024/03/09-20:47:28.560 3a2c Generated table #2318@0: 33 keys, 2131318 bytes
-2024/03/09-20:47:28.602 3a2c Generated table #2319@0: 39 keys, 2253460 bytes
-2024/03/09-20:47:28.637 3a2c Generated table #2320@0: 29 keys, 2262333 bytes
-2024/03/09-20:47:28.671 3a2c Generated table #2321@0: 29 keys, 2177467 bytes
-2024/03/09-20:47:28.705 3a2c Generated table #2322@0: 33 keys, 2119271 bytes
-2024/03/09-20:47:28.705 3a2c Compacted 2@0 + 4@1 files => 10943849 bytes
-2024/03/09-20:47:28.709 3a2c compacted to: files[ 2 5 2 0 0 0 0 ]
-2024/03/09-20:47:28.709 3a2c Delete type=2 #2307
-2024/03/09-20:47:28.709 3a2c Delete type=2 #2308
-2024/03/09-20:47:28.710 3a2c Delete type=2 #2309
-2024/03/09-20:47:28.710 3a2c Delete type=2 #2310
-2024/03/09-20:47:28.710 3a2c Delete type=2 #2311
-2024/03/09-20:47:28.710 3a2c Delete type=2 #2317
-2024/03/09-20:47:28.711 3a2c Compacting 1@1 + 2@2 files
-2024/03/09-20:47:28.754 3a2c Generated table #2323@1: 33 keys, 2151547 bytes
-2024/03/09-20:47:28.799 3a2c Generated table #2324@1: 35 keys, 2125415 bytes
-2024/03/09-20:47:28.831 3a2c Generated table #2325@1: 31 keys, 2012653 bytes
-2024/03/09-20:47:28.831 3a2c Compacted 1@1 + 2@2 files => 6289615 bytes
-2024/03/09-20:47:28.834 3a2c compacted to: files[ 2 4 3 0 0 0 0 ]
-2024/03/09-20:47:28.835 3a2c Delete type=2 #2234
-2024/03/09-20:47:28.835 3a2c Delete type=2 #2306
-2024/03/09-20:47:28.835 3a2c Delete type=2 #2318
-2024/03/09-20:57:04.022 3a2c Level-0 table #2327: started
-2024/03/09-20:57:04.048 3a2c Level-0 table #2327: 2249358 bytes OK
-2024/03/09-20:57:04.051 3a2c Delete type=0 #2316
-2024/03/09-21:02:14.056 3a2c Level-0 table #2329: started
-2024/03/09-21:02:14.079 3a2c Level-0 table #2329: 2439832 bytes OK
-2024/03/09-21:02:14.082 3a2c Delete type=0 #2326
-2024/03/09-21:02:14.082 3a2c Compacting 3@0 + 4@1 files
-2024/03/09-21:02:14.110 3a2c Generated table #2330@0: 39 keys, 2171817 bytes
-2024/03/09-21:02:14.133 3a2c Generated table #2331@0: 29 keys, 2178608 bytes
-2024/03/09-21:02:14.158 3a2c Generated table #2332@0: 32 keys, 2219918 bytes
-2024/03/09-21:02:14.193 3a2c Generated table #2333@0: 33 keys, 2138684 bytes
-2024/03/09-21:02:14.219 3a2c Generated table #2334@0: 30 keys, 2013546 bytes
-2024/03/09-21:02:14.219 3a2c Compacted 3@0 + 4@1 files => 10722573 bytes
-2024/03/09-21:02:14.222 3a2c compacted to: files[ 1 5 3 0 0 0 0 ]
-2024/03/09-21:02:14.222 3a2c Delete type=2 #2312
-2024/03/09-21:02:14.223 3a2c Delete type=2 #2319
-2024/03/09-21:02:14.223 3a2c Delete type=2 #2320
-2024/03/09-21:02:14.223 3a2c Delete type=2 #2321
-2024/03/09-21:02:14.223 3a2c Delete type=2 #2322
-2024/03/09-21:02:14.224 3a2c Delete type=2 #2327
-2024/03/09-21:02:14.224 3a2c Delete type=2 #2329
-2024/03/09-21:02:14.224 3a2c Compacting 1@1 + 3@2 files
-2024/03/09-21:02:14.248 3a2c Generated table #2335@1: 32 keys, 2197792 bytes
-2024/03/09-21:02:14.269 3a2c Generated table #2336@1: 38 keys, 2110625 bytes
-2024/03/09-21:02:14.293 3a2c Generated table #2337@1: 33 keys, 2162353 bytes
-2024/03/09-21:02:14.320 3a2c Generated table #2338@1: 34 keys, 1936272 bytes
-2024/03/09-21:02:14.320 3a2c Compacted 1@1 + 3@2 files => 8407042 bytes
-2024/03/09-21:02:14.322 3a2c compacted to: files[ 1 4 4 0 0 0 0 ]
-2024/03/09-21:02:14.322 3a2c Delete type=2 #2323
-2024/03/09-21:02:14.322 3a2c Delete type=2 #2324
-2024/03/09-21:02:14.323 3a2c Delete type=2 #2325
-2024/03/09-21:02:14.323 3a2c Delete type=2 #2330
-2024/03/09-21:08:13.513 3a2c Level-0 table #2340: started
-2024/03/09-21:08:13.538 3a2c Level-0 table #2340: 2557307 bytes OK
-2024/03/09-21:08:13.541 3a2c Delete type=0 #2328
-2024/03/09-21:36:18.005 3a2c Level-0 table #2342: started
-2024/03/09-21:36:18.030 3a2c Level-0 table #2342: 2884890 bytes OK
-2024/03/09-21:36:18.039 3a2c Delete type=0 #2339
-2024/03/09-21:38:11.461 3a2c Level-0 table #2344: started
-2024/03/09-21:38:11.493 3a2c Level-0 table #2344: 2907272 bytes OK
-2024/03/09-21:38:11.495 3a2c Delete type=0 #2341
-2024/03/09-21:38:11.497 3a2c Moved #2255 to level-1 111730 bytes OK: files[ 3 5 4 0 0 0 0 ]
-2024/03/09-21:58:08.077 3a2c Level-0 table #2346: started
-2024/03/09-21:58:08.104 3a2c Level-0 table #2346: 3024195 bytes OK
-2024/03/09-21:58:08.106 3a2c Delete type=0 #2343
-2024/03/09-21:58:08.106 3a2c Compacting 4@0 + 3@1 files
-2024/03/09-21:58:08.132 3a2c Generated table #2347@0: 29 keys, 2130144 bytes
-2024/03/09-21:58:08.161 3a2c Generated table #2348@0: 31 keys, 2114507 bytes
-2024/03/09-21:58:08.185 3a2c Generated table #2349@0: 27 keys, 2128765 bytes
-2024/03/09-21:58:08.205 3a2c Generated table #2350@0: 12 keys, 554801 bytes
-2024/03/09-21:58:08.205 3a2c Compacted 4@0 + 3@1 files => 6928217 bytes
-2024/03/09-21:58:08.207 3a2c compacted to: files[ 0 6 4 0 0 0 0 ]
-2024/03/09-21:58:08.207 3a2c Delete type=2 #2331
-2024/03/09-21:58:08.208 3a2c Delete type=2 #2332
-2024/03/09-21:58:08.208 3a2c Delete type=2 #2333
-2024/03/09-21:58:08.208 3a2c Delete type=2 #2340
-2024/03/09-21:58:08.208 3a2c Delete type=2 #2342
-2024/03/09-21:58:08.208 3a2c Delete type=2 #2344
-2024/03/09-21:58:08.209 3a2c Delete type=2 #2346
-2024/03/09-22:07:53.049 3a2c Level-0 table #2352: started
-2024/03/09-22:07:53.082 3a2c Level-0 table #2352: 3362331 bytes OK
-2024/03/09-22:07:53.084 3a2c Delete type=0 #2345
-2024/03/09-22:13:23.607 3a2c Level-0 table #2354: started
-2024/03/09-22:13:23.641 3a2c Level-0 table #2354: 3497919 bytes OK
-2024/03/09-22:13:23.643 3a2c Delete type=0 #2351
-2024/03/09-22:16:14.877 3a2c Level-0 table #2356: started
-2024/03/09-22:16:14.912 3a2c Level-0 table #2356: 3603790 bytes OK
-2024/03/09-22:16:14.914 3a2c Delete type=0 #2353
-2024/03/09-22:17:12.056 3a2c Level-0 table #2358: started
-2024/03/09-22:17:12.088 3a2c Level-0 table #2358: 3611749 bytes OK
-2024/03/09-22:17:12.090 3a2c Delete type=0 #2355
-2024/03/09-22:17:12.090 3a2c Compacting 4@0 + 4@1 files
-2024/03/09-22:17:12.118 3a2c Generated table #2359@0: 27 keys, 2179073 bytes
-2024/03/09-22:17:12.147 3a2c Generated table #2360@0: 31 keys, 2160821 bytes
-2024/03/09-22:17:12.171 3a2c Generated table #2361@0: 28 keys, 2248968 bytes
-2024/03/09-22:17:12.185 3a2c Generated table #2362@0: 13 keys, 701112 bytes
-2024/03/09-22:17:12.185 3a2c Compacted 4@0 + 4@1 files => 7289974 bytes
-2024/03/09-22:17:12.187 3a2c compacted to: files[ 0 6 4 0 0 0 0 ]
-2024/03/09-22:17:12.187 3a2c Delete type=2 #2347
-2024/03/09-22:17:12.187 3a2c Delete type=2 #2348
-2024/03/09-22:17:12.187 3a2c Delete type=2 #2349
-2024/03/09-22:17:12.187 3a2c Delete type=2 #2350
-2024/03/09-22:17:12.187 3a2c Delete type=2 #2352
-2024/03/09-22:17:12.188 3a2c Delete type=2 #2354
-2024/03/09-22:17:12.188 3a2c Delete type=2 #2356
-2024/03/09-22:17:12.188 3a2c Delete type=2 #2358
-2024/03/09-22:18:01.804 3a2c Level-0 table #2364: started
-2024/03/09-22:18:01.834 3a2c Level-0 table #2364: 3485780 bytes OK
-2024/03/09-22:18:01.837 3a2c Delete type=0 #2357
-2024/03/09-22:18:35.622 3a2c Level-0 table #2366: started
-2024/03/09-22:18:35.655 3a2c Level-0 table #2366: 3539893 bytes OK
-2024/03/09-22:18:35.657 3a2c Delete type=0 #2363
-2024/03/09-22:19:35.192 3a2c Level-0 table #2368: started
-2024/03/09-22:19:35.223 3a2c Level-0 table #2368: 3675248 bytes OK
-2024/03/09-22:19:35.225 3a2c Delete type=0 #2365
-2024/03/09-22:20:08.554 3a2c Level-0 table #2370: started
-2024/03/09-22:20:08.587 3a2c Level-0 table #2370: 3648067 bytes OK
-2024/03/09-22:20:08.596 3a2c Delete type=0 #2367
-2024/03/09-22:20:08.596 3a2c Compacting 4@0 + 4@1 files
-2024/03/09-22:20:08.629 3a2c Generated table #2371@0: 26 keys, 2153644 bytes
-2024/03/09-22:20:08.650 3a2c Generated table #2372@0: 29 keys, 2172171 bytes
-2024/03/09-22:20:08.679 3a2c Generated table #2373@0: 25 keys, 2141970 bytes
-2024/03/09-22:20:08.696 3a2c Generated table #2374@0: 19 keys, 955697 bytes
-2024/03/09-22:20:08.696 3a2c Compacted 4@0 + 4@1 files => 7423482 bytes
-2024/03/09-22:20:08.698 3a2c compacted to: files[ 0 6 4 0 0 0 0 ]
-2024/03/09-22:20:08.698 3a2c Delete type=2 #2359
-2024/03/09-22:20:08.698 3a2c Delete type=2 #2360
-2024/03/09-22:20:08.698 3a2c Delete type=2 #2361
-2024/03/09-22:20:08.698 3a2c Delete type=2 #2362
-2024/03/09-22:20:08.699 3a2c Delete type=2 #2364
-2024/03/09-22:20:08.699 3a2c Delete type=2 #2366
-2024/03/09-22:20:08.699 3a2c Delete type=2 #2368
-2024/03/09-22:20:08.700 3a2c Delete type=2 #2370
-2024/03/09-22:21:25.106 3a2c Level-0 table #2376: started
-2024/03/09-22:21:25.136 3a2c Level-0 table #2376: 3654817 bytes OK
-2024/03/09-22:21:25.144 3a2c Delete type=0 #2369
-2024/03/09-22:22:10.452 3a2c Level-0 table #2378: started
-2024/03/09-22:22:10.482 3a2c Level-0 table #2378: 3525289 bytes OK
-2024/03/09-22:22:10.484 3a2c Delete type=0 #2375
-2024/03/09-22:23:07.029 3a2c Level-0 table #2380: started
-2024/03/09-22:23:07.079 3a2c Level-0 table #2380: 3436253 bytes OK
-2024/03/09-22:23:07.081 3a2c Delete type=0 #2377
-2024/03/09-22:30:49.062 3a2c Level-0 table #2382: started
-2024/03/09-22:30:49.090 3a2c Level-0 table #2382: 3313533 bytes OK
-2024/03/09-22:30:49.092 3a2c Delete type=0 #2379
-2024/03/09-22:30:49.092 3a2c Compacting 4@0 + 4@1 files
-2024/03/09-22:30:49.124 3a2c Generated table #2383@0: 28 keys, 2127814 bytes
-2024/03/09-22:30:49.147 3a2c Generated table #2384@0: 31 keys, 2221077 bytes
-2024/03/09-22:30:49.171 3a2c Generated table #2385@0: 28 keys, 2170524 bytes
-2024/03/09-22:30:49.185 3a2c Generated table #2386@0: 12 keys, 586643 bytes
-2024/03/09-22:30:49.185 3a2c Compacted 4@0 + 4@1 files => 7106058 bytes
-2024/03/09-22:30:49.187 3a2c compacted to: files[ 0 6 4 0 0 0 0 ]
-2024/03/09-22:30:49.187 3a2c Delete type=2 #2371
-2024/03/09-22:30:49.187 3a2c Delete type=2 #2372
-2024/03/09-22:30:49.187 3a2c Delete type=2 #2373
-2024/03/09-22:30:49.187 3a2c Delete type=2 #2374
-2024/03/09-22:30:49.188 3a2c Delete type=2 #2376
-2024/03/09-22:30:49.188 3a2c Delete type=2 #2378
-2024/03/09-22:30:49.188 3a2c Delete type=2 #2380
-2024/03/09-22:30:49.188 3a2c Delete type=2 #2382
-2024/03/09-22:39:12.257 3a2c Level-0 table #2388: started
-2024/03/09-22:39:12.284 3a2c Level-0 table #2388: 3293423 bytes OK
-2024/03/09-22:39:12.287 3a2c Delete type=0 #2381
-2024/03/09-22:47:38.215 3a2c Compacting 1@0 + 4@1 files
-2024/03/09-22:47:38.239 3a2c Generated table #2389@0: 28 keys, 2124669 bytes
-2024/03/09-22:47:38.266 3a2c Generated table #2390@0: 31 keys, 2222975 bytes
-2024/03/09-22:47:38.292 3a2c Generated table #2391@0: 28 keys, 2170524 bytes
-2024/03/09-22:47:38.304 3a2c Generated table #2392@0: 12 keys, 586560 bytes
-2024/03/09-22:47:38.304 3a2c Compacted 1@0 + 4@1 files => 7104728 bytes
-2024/03/09-22:47:38.311 3a2c compacted to: files[ 0 6 4 0 0 0 0 ]
-2024/03/09-22:47:38.312 3a2c Delete type=2 #2383
-2024/03/09-22:47:38.312 3a2c Delete type=2 #2384
-2024/03/09-22:47:38.312 3a2c Delete type=2 #2385
-2024/03/09-22:47:38.312 3a2c Delete type=2 #2386
-2024/03/09-22:47:38.312 3a2c Delete type=2 #2388
-2024/03/09-22:50:01.414 3a2c Compacting 1@1 + 4@2 files
-2024/03/09-22:50:01.440 3a2c Generated table #2393@1: 30 keys, 2129737 bytes
-2024/03/09-22:50:01.463 3a2c Generated table #2394@1: 35 keys, 2114633 bytes
-2024/03/09-22:50:01.487 3a2c Generated table #2395@1: 35 keys, 2151460 bytes
-2024/03/09-22:50:01.510 3a2c Generated table #2396@1: 36 keys, 2189162 bytes
-2024/03/09-22:50:01.534 3a2c Generated table #2397@1: 24 keys, 1733321 bytes
-2024/03/09-22:50:01.534 3a2c Compacted 1@1 + 4@2 files => 10318313 bytes
-2024/03/09-22:50:01.542 3a2c compacted to: files[ 0 5 5 0 0 0 0 ]
-2024/03/09-22:50:01.542 3a2c Delete type=2 #2335
-2024/03/09-22:50:01.543 3a2c Delete type=2 #2336
-2024/03/09-22:50:01.543 3a2c Delete type=2 #2337
-2024/03/09-22:50:01.543 3a2c Delete type=2 #2338
-2024/03/09-22:50:01.543 3a2c Delete type=2 #2389
-2024/03/09-22:50:50.072 3a2c Level-0 table #2399: started
-2024/03/09-22:50:50.101 3a2c Level-0 table #2399: 3052157 bytes OK
-2024/03/09-22:50:50.103 3a2c Delete type=0 #2387
-2024/03/09-22:51:07.148 3a2c Compacting 1@0 + 4@1 files
-2024/03/09-22:51:07.175 3a2c Generated table #2400@0: 31 keys, 2154805 bytes
-2024/03/09-22:51:07.196 3a2c Generated table #2401@0: 26 keys, 2163048 bytes
-2024/03/09-22:51:07.221 3a2c Generated table #2402@0: 41 keys, 2250525 bytes
-2024/03/09-22:51:07.235 3a2c Generated table #2403@0: 10 keys, 839920 bytes
-2024/03/09-22:51:07.235 3a2c Compacted 1@0 + 4@1 files => 7408298 bytes
-2024/03/09-22:51:07.237 3a2c compacted to: files[ 0 5 5 0 0 0 0 ]
-2024/03/09-22:51:07.237 3a2c Delete type=2 #2334
-2024/03/09-22:51:07.237 3a2c Delete type=2 #2390
-2024/03/09-22:51:07.237 3a2c Delete type=2 #2391
-2024/03/09-22:51:07.237 3a2c Delete type=2 #2392
-2024/03/09-22:51:07.239 3a2c Delete type=2 #2399
-2024/03/09-23:10:28.275 3a2c Level-0 table #2405: started
-2024/03/09-23:10:28.302 3a2c Level-0 table #2405: 2699530 bytes OK
-2024/03/09-23:10:28.305 3a2c Delete type=0 #2398
-2024/03/09-23:22:44.279 3a2c Compacting 1@0 + 3@1 files
-2024/03/09-23:22:44.304 3a2c Generated table #2406@0: 28 keys, 2149568 bytes
-2024/03/09-23:22:44.334 3a2c Generated table #2407@0: 28 keys, 2138689 bytes
-2024/03/09-23:22:44.363 3a2c Generated table #2408@0: 38 keys, 2156421 bytes
-2024/03/09-23:22:44.375 3a2c Generated table #2409@0: 9 keys, 466103 bytes
-2024/03/09-23:22:44.375 3a2c Compacted 1@0 + 3@1 files => 6910781 bytes
-2024/03/09-23:22:44.377 3a2c compacted to: files[ 0 6 5 0 0 0 0 ]
-2024/03/09-23:22:44.377 3a2c Delete type=2 #2400
-2024/03/09-23:22:44.377 3a2c Delete type=2 #2401
-2024/03/09-23:22:44.378 3a2c Delete type=2 #2402
-2024/03/09-23:22:44.378 3a2c Delete type=2 #2405
-2024/03/09-23:45:12.261 3a2c Level-0 table #2411: started
-2024/03/09-23:45:12.292 3a2c Level-0 table #2411: 2570265 bytes OK
-2024/03/09-23:45:12.294 3a2c Delete type=0 #2404
+2024/03/23-13:13:00.442 2c34 Recovering log #2482
+2024/03/23-13:13:00.471 2c34 Delete type=0 #2482
+2024/03/23-13:13:00.471 2c34 Delete type=3 #2479
+2024/03/23-18:48:48.597 474 Level-0 table #2495: started
+2024/03/23-18:48:48.768 474 Level-0 table #2495: 804446 bytes OK
+2024/03/23-18:48:48.774 474 Delete type=0 #2493
+2024/03/23-18:48:48.818 474 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)
+2024/03/23-18:48:48.842 474 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at '!fog!vf7RVsSXMN6zAivF' @ 15308 : 1
+2024/03/23-18:48:48.842 474 Compacting 1@1 + 8@2 files
+2024/03/23-18:48:48.937 474 Generated table #2496@1: 31 keys, 2215718 bytes
+2024/03/23-18:48:49.028 474 Generated table #2497@1: 36 keys, 2161195 bytes
+2024/03/23-18:48:49.139 474 Generated table #2498@1: 35 keys, 2143890 bytes
+2024/03/23-18:48:49.211 474 Generated table #2499@1: 36 keys, 2117612 bytes
+2024/03/23-18:48:49.283 474 Generated table #2500@1: 29 keys, 2110851 bytes
+2024/03/23-18:48:49.363 474 Generated table #2501@1: 32 keys, 2147779 bytes
+2024/03/23-18:48:49.546 474 Generated table #2502@1: 29 keys, 2171974 bytes
+2024/03/23-18:48:49.629 474 Generated table #2503@1: 38 keys, 2111025 bytes
+2024/03/23-18:48:49.629 474 Compacted 1@1 + 8@2 files => 17180044 bytes
+2024/03/23-18:48:49.651 474 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/03/23-18:48:49.651 474 Delete type=2 #2415
+2024/03/23-18:48:49.651 474 Delete type=2 #2485
+2024/03/23-18:48:49.651 474 Delete type=2 #2486
+2024/03/23-18:48:49.651 474 Delete type=2 #2487
+2024/03/23-18:48:49.652 474 Delete type=2 #2488
+2024/03/23-18:48:49.652 474 Delete type=2 #2489
+2024/03/23-18:48:49.652 474 Delete type=2 #2490
+2024/03/23-18:48:49.652 474 Delete type=2 #2491
+2024/03/23-18:48:49.652 474 Delete type=2 #2495
+2024/03/23-18:48:49.838 474 Manual compaction at level-1 from '!fog!vf7RVsSXMN6zAivF' @ 15308 : 1 .. '!fog!zbupn8tnacaPd0dq' @ 0 : 0; will stop at (end)

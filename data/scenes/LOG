@@ -1,43 +1,61 @@
-2024/03/23-13:13:00.760 5a8c Recovering log #4187
-2024/03/23-13:13:00.791 5a8c Delete type=0 #4187
-2024/03/23-13:13:00.791 5a8c Delete type=3 #4181
-2024/03/23-14:34:15.134 474 Level-0 table #4195: started
-2024/03/23-14:34:15.293 474 Level-0 table #4195: 3759289 bytes OK
-2024/03/23-14:34:15.318 474 Delete type=0 #4193
-2024/03/23-15:05:23.406 474 Compacting 1@0 + 3@1 files
-2024/03/23-15:05:23.539 474 Generated table #4196@0: 5732 keys, 2135950 bytes
-2024/03/23-15:05:23.685 474 Generated table #4197@0: 20073 keys, 2165122 bytes
-2024/03/23-15:05:23.709 474 Generated table #4198@0: 8609 keys, 659227 bytes
-2024/03/23-15:05:23.709 474 Compacted 1@0 + 3@1 files => 4960299 bytes
-2024/03/23-15:05:23.721 474 compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/03/23-15:05:23.721 474 Delete type=2 #4189
-2024/03/23-15:05:23.721 474 Delete type=2 #4190
-2024/03/23-15:05:23.722 474 Delete type=2 #4191
-2024/03/23-15:05:23.722 474 Delete type=2 #4195
-2024/03/23-15:51:33.631 474 Level-0 table #4200: started
-2024/03/23-15:51:33.816 474 Level-0 table #4200: 3894534 bytes OK
-2024/03/23-15:51:33.828 474 Delete type=0 #4194
-2024/03/23-17:03:37.599 474 Compacting 1@0 + 3@1 files
-2024/03/23-17:03:37.712 474 Generated table #4201@0: 5823 keys, 2135730 bytes
-2024/03/23-17:03:37.844 474 Generated table #4202@0: 19391 keys, 2164670 bytes
-2024/03/23-17:03:37.882 474 Generated table #4203@0: 9345 keys, 710173 bytes
-2024/03/23-17:03:37.882 474 Compacted 1@0 + 3@1 files => 5010573 bytes
-2024/03/23-17:03:37.892 474 compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/03/23-17:03:37.892 474 Delete type=2 #4196
-2024/03/23-17:03:37.892 474 Delete type=2 #4197
-2024/03/23-17:03:37.892 474 Delete type=2 #4198
-2024/03/23-17:03:37.893 474 Delete type=2 #4200
-2024/03/23-18:48:49.653 474 Level-0 table #4205: started
-2024/03/23-18:48:49.805 474 Level-0 table #4205: 3142678 bytes OK
-2024/03/23-18:48:49.822 474 Delete type=0 #4199
-2024/03/23-18:48:49.838 474 Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.walls!7wM533H1y3LnAloX.vy3Dy9Y6FCcmXpw4' @ 995580 : 1
-2024/03/23-18:48:49.838 474 Compacting 1@0 + 2@1 files
-2024/03/23-18:48:49.974 474 Generated table #4206@0: 5908 keys, 2140112 bytes
-2024/03/23-18:48:50.088 474 Generated table #4207@0: 18540 keys, 2163124 bytes
-2024/03/23-18:48:50.114 474 Generated table #4208@0: 1235 keys, 91186 bytes
-2024/03/23-18:48:50.114 474 Compacted 1@0 + 2@1 files => 4394422 bytes
-2024/03/23-18:48:50.117 474 compacted to: files[ 0 4 0 0 0 0 0 ]
-2024/03/23-18:48:50.117 474 Delete type=2 #4201
-2024/03/23-18:48:50.118 474 Delete type=2 #4202
-2024/03/23-18:48:50.118 474 Delete type=2 #4205
-2024/03/23-18:48:50.209 474 Manual compaction at level-0 from '!scenes.walls!7wM533H1y3LnAloX.vy3Dy9Y6FCcmXpw4' @ 995580 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2024/03/23-20:02:59.777 aec Recovering log #4211
+2024/03/23-20:02:59.777 aec Level-0 table #4213: started
+2024/03/23-20:02:59.789 aec Level-0 table #4213: 26366 bytes OK
+2024/03/23-20:02:59.807 aec Delete type=0 #4211
+2024/03/23-20:02:59.807 aec Delete type=3 #4210
+2024/03/23-20:02:59.807 2e0c Compacting 2@0 + 1@1 files
+2024/03/23-20:02:59.849 2e0c Generated table #4215@0: 5908 keys, 2140140 bytes
+2024/03/23-20:02:59.897 2e0c Generated table #4216@0: 18540 keys, 2163124 bytes
+2024/03/23-20:02:59.897 2e0c Compacted 2@0 + 1@1 files => 4303264 bytes
+2024/03/23-20:02:59.900 2e0c compacted to: files[ 2 2 0 0 0 0 0 ]
+2024/03/23-20:32:04.348 2e0c Level-0 table #4218: started
+2024/03/23-20:32:04.392 2e0c Level-0 table #4218: 4043660 bytes OK
+2024/03/23-20:32:04.394 2e0c Delete type=2 #4206
+2024/03/23-20:32:04.395 2e0c Delete type=2 #4207
+2024/03/23-20:32:04.395 2e0c Delete type=2 #4213
+2024/03/23-20:32:04.395 2e0c Delete type=0 #4214
+2024/03/23-21:18:04.895 2e0c Level-0 table #4220: started
+2024/03/23-21:18:04.938 2e0c Level-0 table #4220: 3984697 bytes OK
+2024/03/23-21:18:04.947 2e0c Delete type=0 #4217
+2024/03/23-21:18:04.949 2e0c Moved #4208 to level-1 91186 bytes OK: files[ 3 3 0 0 0 0 0 ]
+2024/03/23-21:18:31.925 2e0c Compacting 2@0 + 2@1 files
+2024/03/23-21:18:31.969 2e0c Generated table #4221@0: 5902 keys, 2139000 bytes
+2024/03/23-21:18:32.022 2e0c Generated table #4222@0: 18537 keys, 2158740 bytes
+2024/03/23-21:18:32.022 2e0c Compacted 2@0 + 2@1 files => 4297740 bytes
+2024/03/23-21:18:32.024 2e0c compacted to: files[ 1 3 0 0 0 0 0 ]
+2024/03/23-21:52:49.116 2e0c Level-0 table #4224: started
+2024/03/23-21:52:49.161 2e0c Level-0 table #4224: 3980212 bytes OK
+2024/03/23-21:52:49.163 2e0c Delete type=2 #4215
+2024/03/23-21:52:49.165 2e0c Delete type=2 #4216
+2024/03/23-21:52:49.165 2e0c Delete type=2 #4218
+2024/03/23-21:52:49.165 2e0c Delete type=0 #4219
+2024/03/23-21:52:49.166 2e0c Delete type=2 #4220
+2024/03/23-21:59:08.909 2e0c Compacting 1@0 + 2@1 files
+2024/03/23-21:59:08.958 2e0c Generated table #4225@0: 5902 keys, 2139187 bytes
+2024/03/23-21:59:09.014 2e0c Generated table #4226@0: 18537 keys, 2159030 bytes
+2024/03/23-21:59:09.014 2e0c Compacted 1@0 + 2@1 files => 4298217 bytes
+2024/03/23-21:59:09.016 2e0c compacted to: files[ 1 3 0 0 0 0 0 ]
+2024/03/23-22:09:14.258 2e0c Level-0 table #4228: started
+2024/03/23-22:09:14.299 2e0c Level-0 table #4228: 3964411 bytes OK
+2024/03/23-22:09:14.301 2e0c Delete type=2 #4221
+2024/03/23-22:09:14.301 2e0c Delete type=2 #4222
+2024/03/23-22:09:14.301 2e0c Delete type=0 #4223
+2024/03/23-22:09:14.302 2e0c Delete type=2 #4224
+2024/03/23-22:13:58.682 2e0c Level-0 table #4230: started
+2024/03/23-22:13:58.728 2e0c Level-0 table #4230: 4036469 bytes OK
+2024/03/23-22:13:58.730 2e0c Delete type=0 #4227
+2024/03/23-22:40:06.522 2e0c Compacting 2@0 + 2@1 files
+2024/03/23-22:40:06.570 2e0c Generated table #4231@0: 5899 keys, 2137018 bytes
+2024/03/23-22:40:06.622 2e0c Generated table #4232@0: 18525 keys, 2149935 bytes
+2024/03/23-22:40:06.622 2e0c Compacted 2@0 + 2@1 files => 4286953 bytes
+2024/03/23-22:40:06.624 2e0c compacted to: files[ 1 3 0 0 0 0 0 ]
+2024/03/23-22:40:06.624 2e0c Delete type=2 #4225
+2024/03/23-22:40:06.625 2e0c Delete type=2 #4226
+2024/03/23-22:40:06.625 2e0c Delete type=2 #4228
+2024/03/23-22:40:06.625 2e0c Delete type=2 #4230
+2024/03/23-22:41:40.372 2e0c Level-0 table #4234: started
+2024/03/23-22:41:40.418 2e0c Level-0 table #4234: 4010964 bytes OK
+2024/03/23-22:41:40.421 2e0c Delete type=0 #4229
+2024/03/24-00:09:16.742 2e0c Level-0 table #4236: started
+2024/03/24-00:09:16.780 2e0c Level-0 table #4236: 3847769 bytes OK
+2024/03/24-00:09:16.783 2e0c Delete type=0 #4233

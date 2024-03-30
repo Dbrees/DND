@@ -1,22 +1,16 @@
-2024/03/23-20:02:59.533 4fec Recovering log #1320
-2024/03/23-20:02:59.533 4fec Level-0 table #1322: started
-2024/03/23-20:02:59.547 4fec Level-0 table #1322: 203390 bytes OK
-2024/03/23-20:02:59.575 4fec Delete type=0 #1320
-2024/03/23-20:02:59.575 4fec Delete type=3 #1319
-2024/03/23-20:04:04.998 2e0c Compacting 2@0 + 0@1 files
-2024/03/23-20:04:05.042 2e0c Generated table #1324@0: 1380 keys, 2123989 bytes
-2024/03/23-20:04:05.042 2e0c Compacted 2@0 + 0@1 files => 2123989 bytes
-2024/03/23-20:04:05.047 2e0c compacted to: files[ 1 1 0 0 0 0 0 ]
-2024/03/23-20:04:05.047 2e0c Delete type=2 #1316
-2024/03/23-20:04:05.047 2e0c Delete type=2 #1322
-2024/03/23-22:01:46.213 2e0c Level-0 table #1326: started
-2024/03/23-22:01:46.275 2e0c Level-0 table #1326: 2239685 bytes OK
-2024/03/23-22:01:46.285 2e0c Delete type=0 #1323
-2024/03/23-22:01:53.501 2e0c Compacting 2@0 + 1@1 files
-2024/03/23-22:01:53.545 2e0c Generated table #1327@0: 1379 keys, 2123946 bytes
-2024/03/23-22:01:53.609 2e0c Generated table #1328@0: 1070 keys, 1139579 bytes
-2024/03/23-22:01:53.609 2e0c Compacted 2@0 + 1@1 files => 3263525 bytes
-2024/03/23-22:01:53.611 2e0c compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/03/23-22:01:53.611 2e0c Delete type=2 #1317
-2024/03/23-22:01:53.611 2e0c Delete type=2 #1324
-2024/03/23-22:01:53.612 2e0c Delete type=2 #1326
+2024/03/30-13:38:27.978 5c2c Recovering log #1398
+2024/03/30-13:38:28.008 5c2c Delete type=0 #1398
+2024/03/30-13:38:28.008 5c2c Delete type=3 #1397
+2024/03/30-18:39:10.899 5f8c Level-0 table #1402: started
+2024/03/30-18:39:10.912 5f8c Level-0 table #1402: 94124 bytes OK
+2024/03/30-18:39:10.940 5f8c Delete type=0 #1400
+2024/03/30-18:39:10.941 5f8c Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items!jgGx4QctpsDRFdbV.y47egFzWO26DdvGg' @ 49420 : 1
+2024/03/30-18:39:10.941 5f8c Compacting 1@0 + 2@1 files
+2024/03/30-18:39:11.239 5f8c Generated table #1403@0: 1379 keys, 2124617 bytes
+2024/03/30-18:39:11.348 5f8c Generated table #1404@0: 1083 keys, 1156792 bytes
+2024/03/30-18:39:11.348 5f8c Compacted 1@0 + 2@1 files => 3281409 bytes
+2024/03/30-18:39:11.371 5f8c compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/03/30-18:39:11.371 5f8c Delete type=2 #1393
+2024/03/30-18:39:11.371 5f8c Delete type=2 #1394
+2024/03/30-18:39:11.371 5f8c Delete type=2 #1402
+2024/03/30-18:39:11.409 5f8c Manual compaction at level-0 from '!actors.items!jgGx4QctpsDRFdbV.y47egFzWO26DdvGg' @ 49420 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)

@@ -1,35 +1,35 @@
-2024/03/30-13:38:28.559 5c2c Recovering log #4322
-2024/03/30-13:38:28.591 5c2c Delete type=0 #4322
-2024/03/30-13:38:28.591 5c2c Delete type=3 #4321
-2024/03/30-17:56:31.156 5f8c Level-0 table #4326: started
-2024/03/30-17:56:31.257 5f8c Level-0 table #4326: 2574977 bytes OK
-2024/03/30-17:56:31.284 5f8c Delete type=0 #4324
-2024/03/30-18:00:09.894 5f8c Level-0 table #4328: started
-2024/03/30-18:00:10.000 5f8c Level-0 table #4328: 4133669 bytes OK
-2024/03/30-18:00:10.009 5f8c Delete type=0 #4325
-2024/03/30-18:12:55.461 5f8c Compacting 2@0 + 3@1 files
-2024/03/30-18:12:55.561 5f8c Generated table #4329@0: 6000 keys, 2135789 bytes
-2024/03/30-18:12:55.679 5f8c Generated table #4330@0: 17335 keys, 2159720 bytes
-2024/03/30-18:12:55.806 5f8c Generated table #4331@0: 13204 keys, 994323 bytes
-2024/03/30-18:12:55.806 5f8c Compacted 2@0 + 3@1 files => 5289832 bytes
-2024/03/30-18:12:55.827 5f8c compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/03/30-18:12:55.827 5f8c Delete type=2 #4316
-2024/03/30-18:12:55.828 5f8c Delete type=2 #4317
-2024/03/30-18:12:55.828 5f8c Delete type=2 #4318
-2024/03/30-18:12:55.828 5f8c Delete type=2 #4326
-2024/03/30-18:12:55.828 5f8c Delete type=2 #4328
-2024/03/30-18:39:11.534 5f8c Level-0 table #4333: started
-2024/03/30-18:39:11.789 5f8c Level-0 table #4333: 2369188 bytes OK
-2024/03/30-18:39:11.794 5f8c Delete type=0 #4327
-2024/03/30-18:39:12.038 5f8c Manual compaction at level-0 from '!scenes!2JNHlahjO9ZRe1gm' @ 72057594037927935 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at '!scenes.walls!vHwLq6E5nJY8SK74.zy3vsu98cgOJbiim' @ 1006181 : 1
-2024/03/30-18:39:12.038 5f8c Compacting 1@0 + 3@1 files
-2024/03/30-18:39:12.165 5f8c Generated table #4334@0: 5922 keys, 2140809 bytes
-2024/03/30-18:39:12.287 5f8c Generated table #4335@0: 17376 keys, 2159962 bytes
-2024/03/30-18:39:12.404 5f8c Generated table #4336@0: 13097 keys, 988704 bytes
-2024/03/30-18:39:12.404 5f8c Compacted 1@0 + 3@1 files => 5289475 bytes
-2024/03/30-18:39:12.420 5f8c compacted to: files[ 0 3 0 0 0 0 0 ]
-2024/03/30-18:39:12.420 5f8c Delete type=2 #4329
-2024/03/30-18:39:12.421 5f8c Delete type=2 #4330
-2024/03/30-18:39:12.421 5f8c Delete type=2 #4331
-2024/03/30-18:39:12.421 5f8c Delete type=2 #4333
-2024/03/30-18:39:12.438 5f8c Manual compaction at level-0 from '!scenes.walls!vHwLq6E5nJY8SK74.zy3vsu98cgOJbiim' @ 1006181 : 1 .. '!scenes.walls!z4t0E5IOb7I1L9E3.zsx1LyP3NZMgYpTH' @ 0 : 0; will stop at (end)
+2024/03/30-22:18:25.446 3fc Recovering log #4346
+2024/03/30-22:18:25.452 3fc Level-0 table #4351: started
+2024/03/30-22:18:25.491 3fc Level-0 table #4351: 3385873 bytes OK
+2024/03/30-22:18:25.500 3fc Delete type=0 #4346
+2024/03/30-22:18:25.500 3fc Delete type=3 #4340
+2024/03/30-22:18:25.552 3a14 Compacting 1@0 + 1@1 files
+2024/03/30-22:18:25.600 3a14 Generated table #4353@0: 8868 keys, 2145826 bytes
+2024/03/30-22:18:25.603 3a14 Generated table #4354@0: 71 keys, 5224 bytes
+2024/03/30-22:18:25.603 3a14 Compacted 1@0 + 1@1 files => 2151050 bytes
+2024/03/30-22:18:25.605 3a14 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/03/30-22:18:25.605 3a14 Delete type=2 #4348
+2024/03/30-22:18:25.605 3a14 Delete type=2 #4351
+2024/03/30-22:41:57.223 3a14 Level-0 table #4356: started
+2024/03/30-22:41:57.256 3a14 Level-0 table #4356: 2727055 bytes OK
+2024/03/30-22:41:57.264 3a14 Delete type=0 #4352
+2024/03/30-23:08:50.147 3a14 Compacting 1@0 + 3@1 files
+2024/03/30-23:08:50.188 3a14 Generated table #4357@0: 10691 keys, 1610116 bytes
+2024/03/30-23:08:50.188 3a14 Compacted 1@0 + 3@1 files => 1610116 bytes
+2024/03/30-23:08:50.190 3a14 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/30-23:08:50.190 3a14 Delete type=2 #4349
+2024/03/30-23:08:50.190 3a14 Delete type=2 #4353
+2024/03/30-23:08:50.190 3a14 Delete type=2 #4354
+2024/03/30-23:08:50.191 3a14 Delete type=2 #4356
+2024/03/30-23:29:31.298 3a14 Level-0 table #4359: started
+2024/03/30-23:29:31.342 3a14 Level-0 table #4359: 3675705 bytes OK
+2024/03/30-23:29:31.345 3a14 Delete type=0 #4355
+2024/03/31-00:18:29.724 3a14 Compacting 1@0 + 1@1 files
+2024/03/31-00:18:29.765 3a14 Generated table #4360@0: 10694 keys, 1610678 bytes
+2024/03/31-00:18:29.765 3a14 Compacted 1@0 + 1@1 files => 1610678 bytes
+2024/03/31-00:18:29.767 3a14 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/31-00:18:29.767 3a14 Delete type=2 #4357
+2024/03/31-00:18:29.768 3a14 Delete type=2 #4359
+2024/03/31-00:20:45.940 3a14 Level-0 table #4362: started
+2024/03/31-00:20:45.984 3a14 Level-0 table #4362: 3723002 bytes OK
+2024/03/31-00:20:45.986 3a14 Delete type=0 #4358

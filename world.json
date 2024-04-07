@@ -8,8 +8,8 @@
     "verified": "11.315"
   },
   "systemVersion": "3.1.1",
-  "lastPlayed": "Sat Apr 06 2024 19:07:36 GMT-0500 (Central Daylight Time)",
-  "playtime": 1960571,
+  "lastPlayed": "Sun Apr 07 2024 00:14:49 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 1859559,
   "safeMode": false,
   "joinTheme": "default",
   "packs": [
@@ -18,18 +18,6 @@
       "type": "Scene",
       "name": "unused-scenes",
       "path": "packs/unused-scenes",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "label": "Unused Actors",
-      "type": "Actor",
-      "name": "unused-actors",
-      "path": "packs/unused-actors",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",

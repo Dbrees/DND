@@ -1,16 +1,14 @@
-2024/04/05-20:04:12.788 888 Recovering log #1509
-2024/04/05-20:04:12.818 888 Delete type=0 #1509
-2024/04/05-20:04:12.818 888 Delete type=3 #1508
-2024/04/06-05:54:06.690 4a3c Level-0 table #1513: started
-2024/04/06-05:54:06.699 4a3c Level-0 table #1513: 172227 bytes OK
-2024/04/06-05:54:06.709 4a3c Delete type=0 #1511
-2024/04/06-05:54:06.709 4a3c Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items.effects!pyMJaMTILaSxvmfG.zvp1jfFby6QCtEhS.eWhL8hUr0c2ujDUm' @ 50233 : 1
-2024/04/06-05:54:06.709 4a3c Compacting 1@0 + 2@1 files
-2024/04/06-05:54:06.965 4a3c Generated table #1514@0: 1381 keys, 2124828 bytes
-2024/04/06-05:54:07.098 4a3c Generated table #1515@0: 1173 keys, 1275670 bytes
-2024/04/06-05:54:07.098 4a3c Compacted 1@0 + 2@1 files => 3400498 bytes
-2024/04/06-05:54:07.116 4a3c compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/04/06-05:54:07.116 4a3c Delete type=2 #1500
-2024/04/06-05:54:07.116 4a3c Delete type=2 #1501
-2024/04/06-05:54:07.116 4a3c Delete type=2 #1513
-2024/04/06-05:54:07.141 4a3c Manual compaction at level-0 from '!actors.items.effects!pyMJaMTILaSxvmfG.zvp1jfFby6QCtEhS.eWhL8hUr0c2ujDUm' @ 50233 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)
+2024/04/06-20:11:42.119 47e4 Delete type=3 #1
+2024/04/07-00:12:38.015 3d90 Level-0 table #1526: started
+2024/04/07-00:12:38.044 3d90 Level-0 table #1526: 1469548 bytes OK
+2024/04/07-00:12:38.048 3d90 Delete type=0 #1524
+2024/04/07-00:12:38.092 3d90 Manual compaction at level-0 from '!actors!0xv84GrIpvczvPw5' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 49159 : 1
+2024/04/07-00:12:38.092 3d90 Compacting 3@0 + 0@1 files
+2024/04/07-00:12:38.140 3d90 Generated table #1527@0: 1380 keys, 2128839 bytes
+2024/04/07-00:12:38.197 3d90 Generated table #1528@0: 1045 keys, 1076655 bytes
+2024/04/07-00:12:38.197 3d90 Compacted 3@0 + 0@1 files => 3205494 bytes
+2024/04/07-00:12:38.199 3d90 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/04/07-00:12:38.199 3d90 Delete type=2 #1520
+2024/04/07-00:12:38.199 3d90 Delete type=2 #1521
+2024/04/07-00:12:38.199 3d90 Delete type=2 #1526
+2024/04/07-00:12:38.228 3d90 Manual compaction at level-0 from '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 49159 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)

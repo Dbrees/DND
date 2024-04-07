@@ -1,18 +1,12 @@
-2024/04/05-20:04:15.141 888 Recovering log #1409
-2024/04/05-20:04:15.141 888 Level-0 table #1411: started
-2024/04/05-20:04:15.188 888 Level-0 table #1411: 5315 bytes OK
-2024/04/05-20:04:15.223 888 Delete type=0 #1409
-2024/04/05-20:04:15.223 888 Delete type=3 #1407
-2024/04/06-05:54:07.412 4a3c Level-0 table #1414: started
-2024/04/06-05:54:07.419 4a3c Level-0 table #1414: 23140 bytes OK
-2024/04/06-05:54:07.427 4a3c Delete type=0 #1412
-2024/04/06-05:54:07.635 4a3c Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!nRG6PRyZ8f1HQ33Z' @ 10977 : 1
-2024/04/06-05:54:07.635 4a3c Compacting 3@0 + 1@1 files
-2024/04/06-05:54:07.640 4a3c Generated table #1415@0: 8 keys, 8141 bytes
-2024/04/06-05:54:07.640 4a3c Compacted 3@0 + 1@1 files => 8141 bytes
-2024/04/06-05:54:07.649 4a3c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/06-05:54:07.649 4a3c Delete type=2 #1400
-2024/04/06-05:54:07.649 4a3c Delete type=2 #1408
-2024/04/06-05:54:07.649 4a3c Delete type=2 #1411
-2024/04/06-05:54:07.649 4a3c Delete type=2 #1414
-2024/04/06-05:54:07.667 4a3c Manual compaction at level-0 from '!users!nRG6PRyZ8f1HQ33Z' @ 10977 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)
+2024/04/06-20:11:42.685 55cc Delete type=3 #1
+2024/04/07-00:12:38.477 3d90 Level-0 table #1425: started
+2024/04/07-00:12:38.491 3d90 Level-0 table #1425: 486851 bytes OK
+2024/04/07-00:12:38.496 3d90 Delete type=0 #1423
+2024/04/07-00:12:38.611 3d90 Manual compaction at level-0 from '!users!2YcIt1Y9jtRu4bGC' @ 72057594037927935 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at '!users!zwvLnNohzoThsqHZ' @ 10927 : 1
+2024/04/07-00:12:38.611 3d90 Compacting 2@0 + 0@1 files
+2024/04/07-00:12:38.617 3d90 Generated table #1426@0: 8 keys, 7599 bytes
+2024/04/07-00:12:38.617 3d90 Compacted 2@0 + 0@1 files => 7599 bytes
+2024/04/07-00:12:38.620 3d90 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/07-00:12:38.620 3d90 Delete type=2 #1420
+2024/04/07-00:12:38.620 3d90 Delete type=2 #1425
+2024/04/07-00:12:38.733 3d90 Manual compaction at level-0 from '!users!zwvLnNohzoThsqHZ' @ 10927 : 1 .. '!users!zwvLnNohzoThsqHZ' @ 0 : 0; will stop at (end)

@@ -1,13 +1,7 @@
-2024/03/30-22:18:25.148 4ee8 Recovering log #1191
-2024/03/30-22:18:25.148 4ee8 Level-0 table #1193: started
-2024/03/30-22:18:25.154 4ee8 Level-0 table #1193: 15978 bytes OK
-2024/03/30-22:18:25.180 4ee8 Delete type=0 #1191
-2024/03/30-22:18:25.180 4ee8 Delete type=3 #1190
-2024/03/30-22:18:25.230 3a14 Compacting 4@0 + 0@1 files
-2024/03/30-22:18:25.261 3a14 Generated table #1195@0: 11 keys, 15089 bytes
-2024/03/30-22:18:25.261 3a14 Compacted 4@0 + 0@1 files => 15089 bytes
-2024/03/30-22:18:25.281 3a14 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/03/30-22:18:25.281 3a14 Delete type=2 #1167
-2024/03/30-22:18:25.281 3a14 Delete type=2 #1177
-2024/03/30-22:18:25.281 3a14 Delete type=2 #1186
-2024/03/30-22:18:25.281 3a14 Delete type=2 #1193
+2024/04/06-05:54:21.244 4908 Recovering log #1283
+2024/04/06-05:54:21.283 4908 Delete type=0 #1283
+2024/04/06-05:54:21.283 4908 Delete type=3 #1280
+2024/04/06-19:07:36.276 4a3c Level-0 table #1288: started
+2024/04/06-19:07:36.291 4a3c Level-0 table #1288: 622 bytes OK
+2024/04/06-19:07:36.319 4a3c Delete type=0 #1286
+2024/04/06-19:07:36.672 4a3c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

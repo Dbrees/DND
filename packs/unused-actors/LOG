@@ -1,0 +1,8 @@
+2024/04/06-05:54:22.013 24c4 Recovering log #16
+2024/04/06-05:54:22.046 24c4 Delete type=0 #16
+2024/04/06-05:54:22.046 24c4 Delete type=3 #14
+2024/04/06-19:07:37.869 4a3c Level-0 table #21: started
+2024/04/06-19:07:37.869 4a3c Level-0 table #21: 0 bytes OK
+2024/04/06-19:07:37.877 4a3c Delete type=0 #19
+2024/04/06-19:07:37.885 4a3c Manual compaction at level-0 from '!actors!1VT0EPUCPTMSnSOA' @ 72057594037927935 : 1 .. '!folders!o8JqAGV02EWceZTu' @ 0 : 0; will stop at (end)
+2024/04/06-19:07:37.885 4a3c Manual compaction at level-1 from '!actors!1VT0EPUCPTMSnSOA' @ 72057594037927935 : 1 .. '!folders!o8JqAGV02EWceZTu' @ 0 : 0; will stop at (end)

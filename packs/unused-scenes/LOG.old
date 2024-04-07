@@ -1,7 +1,7 @@
-2024/03/30-20:12:40.399 3a60 Delete type=3 #1
-2024/03/30-20:17:46.689 4d84 Level-0 table #5: started
-2024/03/30-20:17:46.724 4d84 Level-0 table #5: 1407404 bytes OK
-2024/03/30-20:17:46.727 4d84 Delete type=0 #3
-2024/03/30-20:23:05.369 4d84 Level-0 table #7: started
-2024/03/30-20:23:05.399 4d84 Level-0 table #7: 1748657 bytes OK
-2024/03/30-20:23:05.403 4d84 Delete type=0 #4
+2024/04/05-20:04:15.377 24c4 Recovering log #93
+2024/04/05-20:04:15.422 24c4 Delete type=0 #93
+2024/04/05-20:04:15.422 24c4 Delete type=3 #92
+2024/04/06-05:54:07.893 4a3c Level-0 table #97: started
+2024/04/06-05:54:07.893 4a3c Level-0 table #97: 0 bytes OK
+2024/04/06-05:54:07.902 4a3c Delete type=0 #95
+2024/04/06-05:54:07.910 4a3c Manual compaction at level-0 from '!folders!DLIYQFqXbtX1M2aX' @ 72057594037927935 : 1 .. '!scenes.walls!yh1OwBAIE9mLU4y4.zwkLRy4uJsl84KO4' @ 0 : 0; will stop at (end)

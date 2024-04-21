@@ -1,13 +1,17 @@
-2024/04/06-20:11:42.791 47e4 Delete type=3 #1
-2024/04/07-00:12:38.496 3d90 Level-0 table #105: started
-2024/04/07-00:12:38.496 3d90 Level-0 table #105: 0 bytes OK
-2024/04/07-00:12:38.500 3d90 Delete type=0 #103
-2024/04/07-00:12:38.621 3d90 Manual compaction at level-0 from '!folders!DLIYQFqXbtX1M2aX' @ 72057594037927935 : 1 .. '!scenes.walls!yh1OwBAIE9mLU4y4.zwkLRy4uJsl84KO4' @ 0 : 0; will stop at '!scenes.walls!yh1OwBAIE9mLU4y4.zwkLRy4uJsl84KO4' @ 3443 : 1
-2024/04/07-00:12:38.621 3d90 Compacting 2@0 + 0@1 files
-2024/04/07-00:12:38.657 3d90 Generated table #106@0: 4881 keys, 2133890 bytes
-2024/04/07-00:12:38.714 3d90 Generated table #107@0: 21683 keys, 1718983 bytes
-2024/04/07-00:12:38.714 3d90 Compacted 2@0 + 0@1 files => 3852873 bytes
-2024/04/07-00:12:38.717 3d90 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/04/07-00:12:38.717 3d90 Delete type=2 #84
-2024/04/07-00:12:38.717 3d90 Delete type=2 #85
-2024/04/07-00:12:38.734 3d90 Manual compaction at level-0 from '!scenes.walls!yh1OwBAIE9mLU4y4.zwkLRy4uJsl84KO4' @ 3443 : 1 .. '!scenes.walls!yh1OwBAIE9mLU4y4.zwkLRy4uJsl84KO4' @ 0 : 0; will stop at (end)
+2024/04/20-01:04:00.406 2f6c Recovering log #216
+2024/04/20-01:04:00.436 2f6c Delete type=0 #216
+2024/04/20-01:04:00.436 2f6c Delete type=3 #215
+2024/04/20-18:46:10.340 10e4 Level-0 table #220: started
+2024/04/20-18:46:10.524 10e4 Level-0 table #220: 858870 bytes OK
+2024/04/20-18:46:10.555 10e4 Delete type=0 #218
+2024/04/20-18:46:10.555 10e4 Manual compaction at level-0 from '!folders!DLIYQFqXbtX1M2aX' @ 72057594037927935 : 1 .. '!scenes.walls!yr3qldmciWGvTRtU.zxqpNzl2NIH863va' @ 0 : 0; will stop at '!scenes.walls!yr3qldmciWGvTRtU.zxqpNzl2NIH863va' @ 31456 : 1
+2024/04/20-18:46:10.555 10e4 Compacting 1@0 + 2@1 files
+2024/04/20-18:46:10.837 10e4 Generated table #221@0: 5470 keys, 2134993 bytes
+2024/04/20-18:46:11.134 10e4 Generated table #222@0: 21163 keys, 2166165 bytes
+2024/04/20-18:46:11.197 10e4 Generated table #223@0: 5046 keys, 383584 bytes
+2024/04/20-18:46:11.197 10e4 Compacted 1@0 + 2@1 files => 4684742 bytes
+2024/04/20-18:46:11.245 10e4 compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/04/20-18:46:11.245 10e4 Delete type=2 #117
+2024/04/20-18:46:11.246 10e4 Delete type=2 #118
+2024/04/20-18:46:11.246 10e4 Delete type=2 #220
+2024/04/20-18:46:11.246 10e4 Manual compaction at level-0 from '!scenes.walls!yr3qldmciWGvTRtU.zxqpNzl2NIH863va' @ 31456 : 1 .. '!scenes.walls!yr3qldmciWGvTRtU.zxqpNzl2NIH863va' @ 0 : 0; will stop at (end)

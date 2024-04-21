@@ -1,12 +1,17 @@
-2024/04/06-20:11:42.636 5ff8 Delete type=3 #1
-2024/04/07-00:12:38.425 3d90 Level-0 table #1631: started
-2024/04/07-00:12:38.430 3d90 Level-0 table #1631: 111749 bytes OK
-2024/04/07-00:12:38.434 3d90 Delete type=0 #1629
-2024/04/07-00:12:38.452 3d90 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 2893 : 1
-2024/04/07-00:12:38.452 3d90 Compacting 2@0 + 0@1 files
-2024/04/07-00:12:38.463 3d90 Generated table #1632@0: 174 keys, 57896 bytes
-2024/04/07-00:12:38.463 3d90 Compacted 2@0 + 0@1 files => 57896 bytes
-2024/04/07-00:12:38.473 3d90 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/07-00:12:38.473 3d90 Delete type=2 #1626
-2024/04/07-00:12:38.473 3d90 Delete type=2 #1631
-2024/04/07-00:12:38.611 3d90 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 2893 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)
+2024/04/20-01:04:00.271 641c Recovering log #1769
+2024/04/20-01:04:00.271 641c Level-0 table #1771: started
+2024/04/20-01:04:00.277 641c Level-0 table #1771: 5863 bytes OK
+2024/04/20-01:04:00.295 641c Delete type=0 #1769
+2024/04/20-01:04:00.295 641c Delete type=3 #1768
+2024/04/20-18:46:08.924 10e4 Level-0 table #1774: started
+2024/04/20-18:46:08.929 10e4 Level-0 table #1774: 5863 bytes OK
+2024/04/20-18:46:08.939 10e4 Delete type=0 #1772
+2024/04/20-18:46:09.014 10e4 Manual compaction at level-0 from '!settings!0OVCRzU3LtsRjagq' @ 72057594037927935 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at '!settings!xFiVRfaw07OTfRR3' @ 2976 : 1
+2024/04/20-18:46:09.014 10e4 Compacting 2@0 + 1@1 files
+2024/04/20-18:46:09.061 10e4 Generated table #1775@0: 174 keys, 57896 bytes
+2024/04/20-18:46:09.062 10e4 Compacted 2@0 + 1@1 files => 57896 bytes
+2024/04/20-18:46:09.080 10e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/20-18:46:09.080 10e4 Delete type=2 #1767
+2024/04/20-18:46:09.080 10e4 Delete type=2 #1771
+2024/04/20-18:46:09.080 10e4 Delete type=2 #1774
+2024/04/20-18:46:09.734 10e4 Manual compaction at level-0 from '!settings!xFiVRfaw07OTfRR3' @ 2976 : 1 .. '!settings!zkUQPchuqcDfC2c3' @ 0 : 0; will stop at (end)

@@ -1,12 +1,7 @@
-2024/04/06-20:11:42.250 55cc Delete type=3 #1
-2024/04/07-00:12:38.369 3d90 Level-0 table #1215: started
-2024/04/07-00:12:38.379 3d90 Level-0 table #1215: 14751 bytes OK
-2024/04/07-00:12:38.382 3d90 Delete type=0 #1213
-2024/04/07-00:12:38.435 3d90 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
-2024/04/07-00:12:38.473 3d90 Compacting 4@0 + 0@1 files
-2024/04/07-00:12:38.473 3d90 Compacted 4@0 + 0@1 files => 0 bytes
-2024/04/07-00:12:38.476 3d90 compacted to: files[ 0 0 0 0 0 0 0 ]
-2024/04/07-00:12:38.477 3d90 Delete type=2 #1063
-2024/04/07-00:12:38.477 3d90 Delete type=2 #1123
-2024/04/07-00:12:38.477 3d90 Delete type=2 #1125
-2024/04/07-00:12:38.477 3d90 Delete type=2 #1215
+2024/04/20-01:03:59.787 109c Recovering log #1322
+2024/04/20-01:03:59.817 109c Delete type=0 #1322
+2024/04/20-01:03:59.817 109c Delete type=3 #1321
+2024/04/20-18:46:07.276 10e4 Level-0 table #1326: started
+2024/04/20-18:46:07.276 10e4 Level-0 table #1326: 0 bytes OK
+2024/04/20-18:46:07.317 10e4 Delete type=0 #1324
+2024/04/20-18:46:07.397 10e4 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

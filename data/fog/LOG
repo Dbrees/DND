@@ -1,5 +1,8 @@
-2024/04/21-00:04:39.582 3dac Recovering log #3107
-2024/04/21-00:04:39.582 3dac Level-0 table #3110: started
-2024/04/21-00:04:39.594 3dac Level-0 table #3110: 351441 bytes OK
-2024/04/21-00:04:39.600 3dac Delete type=0 #3107
-2024/04/21-00:04:39.600 3dac Delete type=3 #3022
+2024/04/27-18:50:51.035 5784 Recovering log #3176
+2024/04/27-18:50:51.069 5784 Delete type=0 #3176
+2024/04/27-18:50:51.069 5784 Delete type=3 #3174
+2024/04/27-18:51:19.453 1408 Level-0 table #3185: started
+2024/04/27-18:51:19.453 1408 Level-0 table #3185: 0 bytes OK
+2024/04/27-18:51:19.463 1408 Delete type=0 #3183
+2024/04/27-18:51:19.463 1408 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zNKLMRrEBjKGIIDa' @ 0 : 0; will stop at (end)
+2024/04/27-18:51:19.463 1408 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zNKLMRrEBjKGIIDa' @ 0 : 0; will stop at (end)

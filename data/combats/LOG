@@ -1,5 +1,7 @@
-2024/04/21-00:04:39.534 3dac Recovering log #1336
-2024/04/21-00:04:39.534 3dac Level-0 table #1338: started
-2024/04/21-00:04:39.538 3dac Level-0 table #1338: 19697 bytes OK
-2024/04/21-00:04:39.562 3dac Delete type=0 #1336
-2024/04/21-00:04:39.562 3dac Delete type=3 #1335
+2024/04/27-18:50:50.958 5784 Recovering log #1383
+2024/04/27-18:50:50.991 5784 Delete type=0 #1383
+2024/04/27-18:50:50.991 5784 Delete type=3 #1381
+2024/04/27-18:51:19.058 1408 Level-0 table #1388: started
+2024/04/27-18:51:19.058 1408 Level-0 table #1388: 0 bytes OK
+2024/04/27-18:51:19.069 1408 Delete type=0 #1386
+2024/04/27-18:51:19.115 1408 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

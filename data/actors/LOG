@@ -1,13 +1,7 @@
-2024/04/21-00:04:39.420 4194 Recovering log #1663
-2024/04/21-00:04:39.426 4194 Level-0 table #1665: started
-2024/04/21-00:04:39.459 4194 Level-0 table #1665: 2010734 bytes OK
-2024/04/21-00:04:39.467 4194 Delete type=0 #1663
-2024/04/21-00:04:39.467 4194 Delete type=3 #1662
-2024/04/21-00:04:48.503 401c Compacting 1@0 + 2@1 files
-2024/04/21-00:04:48.545 401c Generated table #1667@0: 1371 keys, 2122826 bytes
-2024/04/21-00:04:48.618 401c Generated table #1668@0: 1078 keys, 1118630 bytes
-2024/04/21-00:04:48.618 401c Compacted 1@0 + 2@1 files => 3241456 bytes
-2024/04/21-00:04:48.627 401c compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/04/21-00:04:48.627 401c Delete type=2 #1660
-2024/04/21-00:04:48.627 401c Delete type=2 #1661
-2024/04/21-00:04:48.628 401c Delete type=2 #1665
+2024/04/27-18:50:50.814 44e0 Recovering log #1716
+2024/04/27-18:50:50.854 44e0 Delete type=0 #1716
+2024/04/27-18:50:50.854 44e0 Delete type=3 #1714
+2024/04/27-18:51:18.926 1408 Level-0 table #1723: started
+2024/04/27-18:51:18.926 1408 Level-0 table #1723: 0 bytes OK
+2024/04/27-18:51:18.934 1408 Delete type=0 #1721
+2024/04/27-18:51:18.951 1408 Manual compaction at level-0 from '!actors!0hVS9anaTdUtxETv' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)

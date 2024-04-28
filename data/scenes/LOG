@@ -1,14 +1,22 @@
-2024/04/27-18:50:51.280 44e0 Recovering log #4779
-2024/04/27-18:50:51.310 44e0 Delete type=0 #4779
-2024/04/27-18:50:51.311 44e0 Delete type=3 #4770
-2024/04/27-18:51:19.069 1408 Level-0 table #4785: started
-2024/04/27-18:51:19.102 1408 Level-0 table #4785: 85396 bytes OK
-2024/04/27-18:51:19.115 1408 Delete type=0 #4783
-2024/04/27-18:51:19.115 1408 Manual compaction at level-0 from '!scenes!2VKKVJw4FBPxUMwZ' @ 72057594037927935 : 1 .. '!scenes.walls!lMNO5Up7Bcn6BKjZ.zs7Va4aSiU57TBNk' @ 0 : 0; will stop at '!scenes.tokens!HYbXrOspSWI8196X.XLZMmXJjUJXnUVBS' @ 1191153 : 1
-2024/04/27-18:51:19.115 1408 Compacting 1@0 + 1@1 files
-2024/04/27-18:51:19.331 1408 Generated table #4786@0: 7104 keys, 1630193 bytes
-2024/04/27-18:51:19.331 1408 Compacted 1@0 + 1@1 files => 1630193 bytes
-2024/04/27-18:51:19.341 1408 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/27-18:51:19.341 1408 Delete type=2 #4781
-2024/04/27-18:51:19.341 1408 Delete type=2 #4785
-2024/04/27-18:51:19.380 1408 Manual compaction at level-0 from '!scenes.tokens!HYbXrOspSWI8196X.XLZMmXJjUJXnUVBS' @ 1191153 : 1 .. '!scenes.walls!lMNO5Up7Bcn6BKjZ.zs7Va4aSiU57TBNk' @ 0 : 0; will stop at (end)
+2024/04/27-23:23:46.966 43e8 Recovering log #4806
+2024/04/27-23:23:46.968 43e8 Level-0 table #4809: started
+2024/04/27-23:23:46.989 43e8 Level-0 table #4809: 1627514 bytes OK
+2024/04/27-23:23:47.009 43e8 Delete type=0 #4806
+2024/04/27-23:23:47.009 43e8 Delete type=3 #4800
+2024/04/27-23:23:51.082 4e9c Compacting 3@0 + 1@1 files
+2024/04/27-23:23:51.140 4e9c Generated table #4811@0: 7532 keys, 2108684 bytes
+2024/04/27-23:23:51.140 4e9c Compacted 3@0 + 1@1 files => 2108684 bytes
+2024/04/27-23:23:51.143 4e9c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/27-23:23:51.143 4e9c Delete type=2 #4803
+2024/04/27-23:23:51.143 4e9c Delete type=2 #4805
+2024/04/27-23:23:51.143 4e9c Delete type=2 #4807
+2024/04/27-23:23:51.144 4e9c Delete type=2 #4809
+2024/04/27-23:32:10.903 4e9c Level-0 table #4813: started
+2024/04/27-23:32:10.948 4e9c Level-0 table #4813: 4037460 bytes OK
+2024/04/27-23:32:10.956 4e9c Delete type=0 #4810
+2024/04/27-23:39:32.333 4e9c Level-0 table #4815: started
+2024/04/27-23:39:32.382 4e9c Level-0 table #4815: 4019634 bytes OK
+2024/04/27-23:39:32.384 4e9c Delete type=0 #4812
+2024/04/27-23:54:09.830 4e9c Level-0 table #4817: started
+2024/04/27-23:54:09.876 4e9c Level-0 table #4817: 3959531 bytes OK
+2024/04/27-23:54:09.878 4e9c Delete type=0 #4814

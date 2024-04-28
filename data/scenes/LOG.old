@@ -1,31 +1,19 @@
-2024/04/27-13:52:46.938 44e0 Recovering log #4768
-2024/04/27-13:52:46.962 44e0 Delete type=0 #4768
-2024/04/27-13:52:46.962 44e0 Delete type=3 #4766
-2024/04/27-14:49:48.038 1408 Level-0 table #4773: started
-2024/04/27-14:49:48.299 1408 Level-0 table #4773: 3910685 bytes OK
-2024/04/27-14:49:48.320 1408 Delete type=0 #4771
-2024/04/27-15:56:33.020 1408 Level-0 table #4775: started
-2024/04/27-15:56:33.174 1408 Level-0 table #4775: 3727968 bytes OK
-2024/04/27-15:56:33.198 1408 Delete type=0 #4772
-2024/04/27-16:41:28.558 1408 Compacting 2@0 + 1@1 files
-2024/04/27-16:41:28.743 1408 Generated table #4776@0: 6963 keys, 1531739 bytes
-2024/04/27-16:41:28.743 1408 Compacted 2@0 + 1@1 files => 1531739 bytes
-2024/04/27-16:41:28.770 1408 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/27-16:41:28.770 1408 Delete type=2 #4765
-2024/04/27-16:41:28.770 1408 Delete type=2 #4773
-2024/04/27-16:41:28.771 1408 Delete type=2 #4775
-2024/04/27-17:58:01.715 1408 Level-0 table #4778: started
-2024/04/27-17:58:01.930 1408 Level-0 table #4778: 3923143 bytes OK
-2024/04/27-17:58:01.949 1408 Delete type=0 #4774
-2024/04/27-18:50:47.943 1408 Level-0 table #4780: started
-2024/04/27-18:50:48.231 1408 Level-0 table #4780: 3145426 bytes OK
-2024/04/27-18:50:48.237 1408 Delete type=0 #4777
-2024/04/27-18:50:48.237 1408 Manual compaction at level-0 from '!scenes!2VKKVJw4FBPxUMwZ' @ 72057594037927935 : 1 .. '!scenes.walls!lMNO5Up7Bcn6BKjZ.zs7Va4aSiU57TBNk' @ 0 : 0; will stop at '!scenes.walls!nY4HSRa6K2xdQl4s.zg8DbQkO5f84iL6h' @ 1189903 : 0
-2024/04/27-18:50:48.237 1408 Compacting 2@0 + 1@1 files
-2024/04/27-18:50:48.485 1408 Generated table #4781@0: 7104 keys, 1630176 bytes
-2024/04/27-18:50:48.485 1408 Compacted 2@0 + 1@1 files => 1630176 bytes
-2024/04/27-18:50:48.531 1408 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/27-18:50:48.531 1408 Delete type=2 #4776
-2024/04/27-18:50:48.531 1408 Delete type=2 #4778
-2024/04/27-18:50:48.532 1408 Delete type=2 #4780
-2024/04/27-18:50:48.532 1408 Manual compaction at level-0 from '!scenes.walls!nY4HSRa6K2xdQl4s.zg8DbQkO5f84iL6h' @ 1189903 : 0 .. '!scenes.walls!lMNO5Up7Bcn6BKjZ.zs7Va4aSiU57TBNk' @ 0 : 0; will stop at (end)
+2024/04/27-22:52:47.588 4e04 Recovering log #4798
+2024/04/27-22:52:47.591 4e04 Level-0 table #4801: started
+2024/04/27-22:52:47.619 4e04 Level-0 table #4801: 2321919 bytes OK
+2024/04/27-22:52:47.652 4e04 Delete type=0 #4798
+2024/04/27-22:52:47.652 4e04 Delete type=3 #4788
+2024/04/27-22:52:51.686 4cf8 Compacting 3@0 + 1@1 files
+2024/04/27-22:52:51.747 4cf8 Generated table #4803@0: 7448 keys, 2051797 bytes
+2024/04/27-22:52:51.747 4cf8 Compacted 3@0 + 1@1 files => 2051797 bytes
+2024/04/27-22:52:51.751 4cf8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/27-22:52:51.751 4cf8 Delete type=2 #4795
+2024/04/27-22:52:51.751 4cf8 Delete type=2 #4797
+2024/04/27-22:52:51.752 4cf8 Delete type=2 #4799
+2024/04/27-22:52:51.752 4cf8 Delete type=2 #4801
+2024/04/27-23:13:40.631 4cf8 Level-0 table #4805: started
+2024/04/27-23:13:40.669 4cf8 Level-0 table #4805: 3963922 bytes OK
+2024/04/27-23:13:40.678 4cf8 Delete type=0 #4802
+2024/04/27-23:20:40.622 4cf8 Level-0 table #4807: started
+2024/04/27-23:20:40.671 4cf8 Level-0 table #4807: 3971845 bytes OK
+2024/04/27-23:20:40.674 4cf8 Delete type=0 #4804

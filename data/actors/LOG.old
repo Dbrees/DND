@@ -1,16 +1,13 @@
-2024/04/27-13:52:46.574 579c Recovering log #1712
-2024/04/27-13:52:46.623 579c Delete type=0 #1712
-2024/04/27-13:52:46.623 579c Delete type=3 #1710
-2024/04/27-18:50:43.897 1408 Level-0 table #1717: started
-2024/04/27-18:50:43.929 1408 Level-0 table #1717: 83560 bytes OK
-2024/04/27-18:50:43.938 1408 Delete type=0 #1715
-2024/04/27-18:50:43.938 1408 Manual compaction at level-0 from '!actors!0hVS9anaTdUtxETv' @ 72057594037927935 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at '!actors.items.effects!Lrs8NcrSG0x7pkuj.i0kXwsNtZulRPnWF.SBl8RAu6LdUbUZMc' @ 54340 : 1
-2024/04/27-18:50:43.938 1408 Compacting 1@0 + 2@1 files
-2024/04/27-18:50:44.178 1408 Generated table #1718@0: 1370 keys, 2122558 bytes
-2024/04/27-18:50:44.314 1408 Generated table #1719@0: 1075 keys, 1109333 bytes
-2024/04/27-18:50:44.314 1408 Compacted 1@0 + 2@1 files => 3231891 bytes
-2024/04/27-18:50:44.335 1408 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/04/27-18:50:44.335 1408 Delete type=2 #1708
-2024/04/27-18:50:44.336 1408 Delete type=2 #1709
-2024/04/27-18:50:44.336 1408 Delete type=2 #1717
-2024/04/27-18:50:44.399 1408 Manual compaction at level-0 from '!actors.items.effects!Lrs8NcrSG0x7pkuj.i0kXwsNtZulRPnWF.SBl8RAu6LdUbUZMc' @ 54340 : 1 .. '!actors.items.effects!u1NFosnWgXRL4XMw.veC2ZH1UGh4Rtgwu.Yw77NBrJQTC5V8Qe' @ 0 : 0; will stop at (end)
+2024/04/27-22:52:47.268 2d34 Recovering log #1725
+2024/04/27-22:52:47.272 2d34 Level-0 table #1727: started
+2024/04/27-22:52:47.305 2d34 Level-0 table #1727: 1463390 bytes OK
+2024/04/27-22:52:47.330 2d34 Delete type=0 #1725
+2024/04/27-22:52:47.331 2d34 Delete type=3 #1724
+2024/04/27-22:52:51.770 4cf8 Compacting 3@0 + 0@1 files
+2024/04/27-22:52:51.813 4cf8 Generated table #1729@0: 1368 keys, 2122518 bytes
+2024/04/27-22:52:51.870 4cf8 Generated table #1730@0: 1083 keys, 1118453 bytes
+2024/04/27-22:52:51.870 4cf8 Compacted 3@0 + 0@1 files => 3240971 bytes
+2024/04/27-22:52:51.872 4cf8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/04/27-22:52:51.872 4cf8 Delete type=2 #1718
+2024/04/27-22:52:51.872 4cf8 Delete type=2 #1719
+2024/04/27-22:52:51.872 4cf8 Delete type=2 #1727

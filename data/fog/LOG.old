@@ -1,22 +1,7 @@
-2024/05/11-13:46:27.437 5584 Recovering log #3328
-2024/05/11-13:46:27.471 5584 Delete type=0 #3328
-2024/05/11-13:46:27.471 5584 Delete type=3 #3326
-2024/05/11-18:57:44.042 4fa4 Level-0 table #3334: started
-2024/05/11-18:57:44.222 4fa4 Level-0 table #3334: 1052969 bytes OK
-2024/05/11-18:57:44.251 4fa4 Delete type=0 #3332
-2024/05/11-18:57:44.341 4fa4 Manual compaction at level-0 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zNKLMRrEBjKGIIDa' @ 0 : 0; will stop at (end)
-2024/05/11-18:57:44.583 4fa4 Manual compaction at level-1 from '!fog!06qxgtnhQXKpmfut' @ 72057594037927935 : 1 .. '!fog!zNKLMRrEBjKGIIDa' @ 0 : 0; will stop at '!fog!qoBfnPSQnVRszfil' @ 19369 : 1
-2024/05/11-18:57:44.583 4fa4 Compacting 1@1 + 4@2 files
-2024/05/11-18:57:44.718 4fa4 Generated table #3335@1: 35 keys, 2159795 bytes
-2024/05/11-18:57:44.797 4fa4 Generated table #3336@1: 31 keys, 2126874 bytes
-2024/05/11-18:57:44.903 4fa4 Generated table #3337@1: 27 keys, 2173573 bytes
-2024/05/11-18:57:45.041 4fa4 Generated table #3338@1: 33 keys, 2129222 bytes
-2024/05/11-18:57:45.067 4fa4 Generated table #3339@1: 1 keys, 183946 bytes
-2024/05/11-18:57:45.067 4fa4 Compacted 1@1 + 4@2 files => 8773410 bytes
-2024/05/11-18:57:45.086 4fa4 compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/05/11-18:57:45.086 4fa4 Delete type=2 #3286
-2024/05/11-18:57:45.087 4fa4 Delete type=2 #3287
-2024/05/11-18:57:45.087 4fa4 Delete type=2 #3288
-2024/05/11-18:57:45.087 4fa4 Delete type=2 #3330
-2024/05/11-18:57:45.088 4fa4 Delete type=2 #3334
-2024/05/11-18:57:45.219 4fa4 Manual compaction at level-1 from '!fog!qoBfnPSQnVRszfil' @ 19369 : 1 .. '!fog!zNKLMRrEBjKGIIDa' @ 0 : 0; will stop at (end)
+2024/05/11-20:08:10.905 5390 Delete type=3 #1
+2024/05/11-20:08:10.909 5ec4 Moved #3275 to level-1 2212462 bytes OK: files[ 7 1 0 0 0 0 0 ]
+2024/05/11-20:08:10.911 5ec4 Moved #3276 to level-1 2110738 bytes OK: files[ 6 2 0 0 0 0 0 ]
+2024/05/11-20:08:10.914 5ec4 Moved #3335 to level-1 2159795 bytes OK: files[ 5 3 0 0 0 0 0 ]
+2024/05/11-20:08:10.915 5ec4 Moved #3336 to level-1 2126874 bytes OK: files[ 4 4 0 0 0 0 0 ]
+2024/05/11-20:08:10.917 5ec4 Moved #3337 to level-1 2173573 bytes OK: files[ 3 5 0 0 0 0 0 ]
+2024/05/11-20:08:10.919 5ec4 Moved #3275 to level-2 2212462 bytes OK: files[ 3 4 1 0 0 0 0 ]
